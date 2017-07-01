@@ -78,6 +78,10 @@ div.content
 
     color: #777;
 }
+iframe {
+    display:block;
+    width:100%;
+}
 .copyright
 {
     font-family: 'Roboto', sans-serif;
@@ -212,7 +216,7 @@ h6.meta
     color: #bbb;
 }
 section.meta {
-    margin-top: 
+    margin-top:
 }
 .powered
 {
