@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://forstmeier.github.io/tags/about/</loc>
+    <loc>https://forstmeier.github.io/categories/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://forstmeier.github.io/categories/about/</loc>
+    <loc>https://forstmeier.github.io/tags/about/</loc>
     <priority>0</priority>
   </url>
   
@@ -22,12 +22,12 @@
   </url>
   
   <url>
-    <loc>https://forstmeier.github.io/tags/books/</loc>
+    <loc>https://forstmeier.github.io/categories/books/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://forstmeier.github.io/categories/books/</loc>
+    <loc>https://forstmeier.github.io/tags/books/</loc>
     <priority>0</priority>
   </url>
   
