@@ -1,181 +1,313 @@
-@-ms-viewport {
-    width: device-width;
-}
-
-@-o-viewport {
-    width: device-width;
-}
-
-@viewport {
-    width: device-width;
-}
-
-a,
-a:hover,
-a:visited,
-a:link {
-    text-decoration: none;
-    color: #526D7A;
-    font-weight: 400;
-}
-
 body {
-    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
-    width: auto;
-    height: 100%;
-    min-height: 100%;
-    margin: 0;
-    color: #444444;
-    background-color: #FCFCFC;
+    font-family: "ubuntu", sans-serif;
+    font-weight: 300;
+	color: #333;
+	line-height: 1.6;
+	font-size: 16px;
 }
 
-html {
-    position: relative;
-    height: 100%;
-    min-height: 100%;
-    margin: 0;
+a, a:hover {
+    color: #a00;
+    text-decoration: none;
 }
 
-iframe {
+html,button,input,select,textarea {
+    color: #222
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none
+}
+
+hr {
     display: block;
-    width: 100%;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 0
 }
 
-.copper-rose,
-a.copper-rose {
-    color: #966666;
+audio,canvas,img,video {
+    width: 100%;
+    vertical-align: middle
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0
+}
+
+textarea {
+    resize: vertical
+}
+
+blockquote {
+    margin-left: 1rem;
+    font-style: italic;
+    font-size: 1.4rem;
+    font-family: Georgia,bitstream charter,serif;
+    border-left: 3px solid;
+    border-color: #a00;
+    padding-left: 20px
+}
+
+blockquote cite {
+    font-size: 70%;
+    opacity: .8
+}
+
+a,a:hover {
+    color: #a00;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: raleway,sans-serif;
+    line-height: 1.2;
+    color: #333;
+    font-weight: 100
+}
+
+h1 {
+    font-size: 2.75rem
+}
+
+h2 {
+    font-size: 2rem
+}
+
+h3 {
+    font-size: 1.6rem
+}
+
+h4 {
+    font-size: 1.2rem
+}
+
+h5 {
+    font-weight: 300;
+    font-size: 1rem
+}
+
+h6 {
+    font-weight: 300;
+    font-size: .9rem
 }
 
 .container {
-    overflow: auto;
-    max-width: 680px;
-    padding: 0 15px;
+    max-width: 800px
 }
 
-.content {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    font-weight: 300;
+ul {
+	padding-left: 15px;
 }
 
-.description {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+ul.flat {
+	margin: 0;
+	padding: 0;
 }
 
-.error {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 100px;
+ul.flat li {
+    display: inline-block;
+    list-style: none;
+	margin-left: 0
 }
 
-.error h1 {
-    font-size: 80px;
+.prevent-collapse {
+    min-height: .1rem
 }
 
-.error p {
-    margin-top: 150px;
+.page-title {
+    margin: 0
 }
 
-.excerpt {
-    font-family: 'Lato', sans-serif;
-    font-size: 18px;
-    font-weight: 200;
-    margin-bottom: 20px;
+.smaller {
+    font-size: 70%
 }
 
-.footer h6 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
-    font-weight: 300;
+ul {
+    list-style: disc inside
+}
+
+.post ul li {
+	margin-bottom: 10px;
+}
+
+.highlight pre {
+    margin-bottom: 0;
+	margin-top: 0;
+	padding: 20px;
+	background-color: #FAFAFA !important;
+}
+
+.highlight {
+    background: 0 0
+}
+
+.wrapper {
+	max-width: 760px;
+	margin: 0 auto;
+}
+
+.container {
+	margin-top: 50px;
 }
 
 .header {
-    margin-top: 60px;
-    margin-bottom: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
 }
 
-.headshot {
-    width: 200px;
-    height: 200px;
-}
-
-.info {
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
-
-.intro {
-    font-weight: 200;
-}
-
-h3.intro {
-    margin-top: 0px
-}
-
-.list {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 50px;
-}
-
-.list li {
-    list-style: none;
-}
-
-.list-entry {
-    font-size: 25px;
-    font-weight: 400;
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
-
-.list-entry-link {
+.header h1,
+.header h2 {
+    margin: 0;
     padding: 0;
+    font-size: 2rem;
+    line-height: 1.3em;
 }
 
-.menu {
+.header h2 {
+    font-size: 1.125rem;
+}
+
+.header nav {
+	margin-top: 20px;
+	border-top: 1px solid #f4f4f4;
+}
+
+.header nav ul,
+.header nav li {
+	margin: 0;
+}
+
+.header nav ul.flat {
+	padding: 0;
+}
+
+.header nav ul.flat li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 0;
+    margin-right: 10px;
     margin-top: 10px;
-    margin-bottom: 20px;
+    text-transform: capitalize;
 }
 
-.menu-item {
-    font-family: 'Lato', sans-serif;
-    font-size: 20px;
-    font-weight: 300;
+.header .site-description {
+	display: flex;
+	justify-content: space-between;
 }
 
-.meta,
-h6.meta {
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
-    font-weight: 200;
+.header .site-description nav {
+	margin: 0;
+	padding: 0;
+	border: none;
 }
 
-.social {
-    font-size: 20px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+.header .site-description nav ul svg {
+	max-height: 15px;
 }
 
-.title {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 400;
+.section .section-header {
+	font-size: 0.75rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #999;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
 }
 
-header.title {
-    margin-top: 50px;
-    padding: 0 15px;
+.recent-posts .posts .post {
+	margin-bottom: 30px;
 }
 
-@media (max-width: 991px) {
-    .header {
-        margin-top: 50px;
-        margin-bottom: 20px;
-    }
+.recent-posts .posts .post .meta,
+.post .post-header .meta,
+.list .posts .post .meta {
+	font-size: 0.725rem;
+	color: #999;
+	margin-bottom: 4px;
+}
 
-    .list {
-        font-family: 'Roboto', sans-serif;
-        margin-top: 30px;
-    }
+.post .post-header {
+	margin-bottom: 30px;
+}
+
+.post .post-header .title {
+	margin: 0;
+}
+
+.post .post-header .meta {
+	padding-left: 5px;
+	margin-top: 10px;
+}
+
+.list .posts .post .meta {
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+
+.footer {
+	text-align: right;
+	font-size: 0.75em;
+	color: #999;
+	border-top: 1px solid #f4f4f4;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.page-title {
+    margin-bottom: 0;
+}
+
+.tag-cloud {
+    margin-top: 20px;
+}
+
+.tag-cloud a {
+    margin-right: 15px;
+}
+
+@media (max-width: 767px) {
+	body {
+		padding: 20px;
+	}
+
+	h1 {
+		font-size: 2rem
+	}
+
+	h2 {
+		font-size: 1.6rem
+	}
+
+	h3 {
+		font-size: 1.2rem
+	}
+
+	h4 {
+		font-size: 1rem
+	}
+
+	.container {
+		margin-top: 10px;
+	}
+}
+
+@media (max-width: 480px) {
+	body {
+		font-size: 14px;
+	}
 }
