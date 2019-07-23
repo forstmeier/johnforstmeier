@@ -6,7 +6,7 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 20:42:09 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 18:38:45 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Idea</title>
       <link>https://forstmeier.github.io/tags/idea/</link>
-      <pubDate>Wed, 12 Jun 2019 20:42:09 -0400</pubDate>
+      <pubDate>Tue, 23 Jul 2019 18:38:45 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/idea/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Open Source</title>
       <link>https://forstmeier.github.io/tags/open-source/</link>
-      <pubDate>Wed, 12 Jun 2019 20:42:09 -0400</pubDate>
+      <pubDate>Tue, 23 Jul 2019 18:38:45 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/open-source/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Wed, 12 Jun 2019 20:42:09 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thought Experiment</title>
+      <link>https://forstmeier.github.io/tags/thought-experiment/</link>
+      <pubDate>Tue, 23 Jul 2019 18:38:45 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/thought-experiment/</guid>
       <description></description>
     </item>
     
