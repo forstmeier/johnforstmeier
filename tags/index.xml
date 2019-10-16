@@ -6,15 +6,24 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 18:38:45 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 14:56:32 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Economics</title>
+      <link>https://forstmeier.github.io/tags/economics/</link>
+      <pubDate>Tue, 15 Oct 2019 14:56:32 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Idea</title>
       <link>https://forstmeier.github.io/tags/idea/</link>
-      <pubDate>Tue, 23 Jul 2019 18:38:45 -0400</pubDate>
+      <pubDate>Tue, 15 Oct 2019 14:56:32 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/idea/</guid>
       <description></description>
@@ -35,6 +44,15 @@
       <pubDate>Wed, 12 Jun 2019 20:42:09 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://forstmeier.github.io/tags/philosophy/</link>
+      <pubDate>Tue, 15 Oct 2019 14:56:32 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     
