@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opinion on John Forstmeier</title>
-    <link>https://forstmeier.github.io/tags/opinion/</link>
-    <description>Recent content in Opinion on John Forstmeier</description>
+    <title>Equity on John Forstmeier</title>
+    <link>https://forstmeier.github.io/tags/equity/</link>
+    <description>Recent content in Equity on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Dec 2019 15:10:36 -0500</lastBuildDate>
     
-	<atom:link href="https://forstmeier.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://forstmeier.github.io/tags/equity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://forstmeier.github.io/posts/reverse-equity/</guid>
       <description>Issuing equity in the company to employees is a common method employers use to distribute compensation. Shares can be distributed publicly or privately and most of the time they represent a literal voting ownership of the enterprise. When treated as compensation, equity is typically issued via a vesting schedule to the employees in question.
 Equity differs from other compensation methods the most widespread of which, in my estimation, is a common salary or wage over some fixed or non-fixed distribution periods.</description>
-    </item>
-    
-    <item>
-      <title>Open Source Hypothesis</title>
-      <link>https://forstmeier.github.io/posts/open-source-hypothesis/</link>
-      <pubDate>Wed, 12 Jun 2019 20:42:09 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/posts/open-source-hypothesis/</guid>
-      <description>Open source software has had a broadly positive impact on society.
-Its resources have provided the basis for massive value creation and played key roles as the fundamental building blocks of technological innovation. There are dozens of available examples and it isn&amp;rsquo;t necessary to address them in this piece. Needless to say, open source has left a lasting mark on the world.
-But there may be potential for it to do even more.</description>
     </item>
     
   </channel>
