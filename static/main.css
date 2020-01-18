@@ -77,3 +77,28 @@ ul {
   font-size: 26px;
   margin-left: 2rem;
 }
+
+@media screen and (max-width: 480px) {
+  ul {
+    margin-left: 1rem;
+  }
+
+  .container {
+    margin: 0 1rem;
+    padding: 0;
+  }
+
+  .intro {
+    display: block;
+  }
+
+  .image {
+    display: none;
+  }
+
+  .name {
+    font-size: 20px;
+    padding-top: 2rem;
+    margin-left: 0;
+  }
+}
