@@ -84,8 +84,8 @@ ul {
   }
 
   .container {
-    margin: 0 1rem;
-    padding: 0;
+    padding: 1rem;
+    width: 100%;
   }
 
   .intro {
