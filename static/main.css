@@ -3,6 +3,8 @@
   font-family: 'Roboto Mono', sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #333333;
+  color: #FFFFFF;
 }
 
 a:active,
@@ -10,7 +12,7 @@ a:focus,
 a:hover,
 a:link,
 a:visited {
-  color:blue;
+  color: #BBE1FA;
 }
 
 a:active.sneaky,
@@ -18,7 +20,7 @@ a:focus.sneaky,
 a:hover.sneaky,
 a:link.sneaky,
 a:visited.sneaky {
-  color: black;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
