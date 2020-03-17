@@ -35,6 +35,12 @@ html {
   width: 100%;
 }
 
+button {
+  color: #BBE1FA;
+  border: none;
+  outline: none;
+}
+
 h2,
 .giphy-embed {
   margin-top: 2rem;
@@ -57,9 +63,12 @@ li > ul {
 }
 
 h4,
+hr,
 ol,
 p,
-ul {
+ul,
+.filters,
+.note {
   margin-top: 1rem;
 }
 
@@ -75,9 +84,28 @@ ul {
   grid-template-columns: 1fr 2fr;
 }
 
+.link,
+.link span {
+  transition: all 0.5s;
+}
+
+.link span:after {
+  content: '📎';
+  opacity: 0;
+  transition: all 0.5s;
+}
+
 .name {
   font-size: 26px;
   margin-left: 2rem;
+}
+
+.note {
+  cursor: pointer;
+}
+
+.note:hover .link span:after {
+  opacity: 1;
 }
 
 @media screen and (max-width: 480px) {

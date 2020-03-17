@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>John Forstmeier</title>
+  	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500&display=swap" rel="stylesheet"/>
+  	<link rel="stylesheet" type="text/css" media="screen" href="../static/main.css"/>
+    <link rel="icon" href="../static/favicon.ico" type="image/x-icon"/>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137861025-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-137861025-1');
+		</script>
+  </head>
+  <body>
+		<script>
+			function no_filter() {
+				let notes = document.getElementsByClassName('note');
+				for (let note of notes) {
+					note.style.display = "block";
+				}
+			}
+
+			function filter(name) {
+				let notes = document.getElementsByClassName('note');
+				for (let note of notes) {
+					if (note.className.includes(name)) {
+						note.style.display = "block";
+					} else {
+						note.style.display = "none";
+					}
+				}
+			}
+
+      function copyLink(id) {
+        navigator.clipboard.writeText("https://forstmeier.github.io/notes/index.html#"+id);
+      }
+		</script>
+    <div class="container">
+      <div class="body">
+				<h2>Notes</h2>
+        <h4>Tags</h4>
+        <div class="filters">
+          <button onclick="no_filter()">all</button>
+          <button onclick="filter('philosophy')">philosophy</button>
+          <button onclick="filter('social')">social</button>
+          <button onclick="filter('creativity')">creativity</button>
+          <button onclick="filter('work')">work</button>
+          <button onclick="filter('politics')">politics</button>
+          <button onclick="filter('miscellaneous')">miscellaneous</button>
+          <button onclick="filter('theology')">theology</button>
+          <button onclick="filter('logic')">logic</button>
+          <button onclick="filter('open-source')">open-source</button>
+					<button onclick="filter('economics')">economics</button>
+        </div>
+        <h4>Contents</h4>
+				<div class="note work" onclick="copyLink(33)" id="33">
+					<p class="link"><span>> March 2020 </span></p>
+					<blockquote>
+						<p>Equity creates equity in the employees from the point of view of the company.</p>
+					</blockquote>
+					<p>
+						<ul>
+							<li>
+								<b>Equity</b>: relatively non-liquid asset conveying financial value from dividiends and non-financial value from voting rights
+							</li>
+							<li>
+								<b>Salary</b>: highly liquid asset conveying finanicial value on receipt and provides no non-financial value
+							</li>
+						</ul>
+						<p>
+							The former establishes a direct and more-or-less permanent investment in the company by the employee while the latter is available only through the life of the employment contract.
+						</p>
+						<p>
+							Flipping to the company perspective, equity treats employees as more fixed assets rather than borrowed resources and if that is the goal for a given company, since different scenarios require different solutions, options like "sweat equity" agreements may be ideal.
+						</p>
+						<p>
+							Companies that issue equity to employees receive equity from those employees - a "reverse equity." Equity is a two-way street.
+						</p>
+					</p>
+					<hr>
+				</div>
+				<div class="note philosophy" onclick="copyLink(32)" id="32">
+					<p class="link"><span>> February 2020 </span></p>
+          <blockquote>
+            <p>The beauty and diversity of antique philosophy should be fought for and maintained.</p>
+          </blockquote>
+          <p>
+            I really believe this to be important to the social fabric and the connection with our past. While I don't agree with <i>most</i> philosophic and religious traditions, I can't imagine a world that is better where Great Meteoron, Potala Palace, Shaolin Temple, Simonopetra, Blagaj Tekke, Sera Monastery, Tungnath, and many others, are silent.
+          </p>
+					<hr>
+				</div>
+				<div class="note social" onclick="copyLink(31)" id="31">
+					<p class="link"><span>> February 2020 </span></p>
+          <blockquote>
+            <p>Small opportunities to be good seem so difficult to take advantage of while the truly great require no deliberation.</p>
+          </blockquote>
+          <p>
+            I wonder if this has to do with smaller opportunities so often coming into conflict with prevailing social norms while the options that accompany truly great opportunities are universally held to be true. Now this isn't to say the small are lesser but that accomplishing them requires a different kind of courage.
+          </p>
+					<hr>
+        </div>
+				<div class="note creativity" onclick="copyLink(30)" id="30">
+					<p class="link"><span>> January 2020 </span></p>
+          <blockquote>
+            <p>Boring problems often have fascinating solutions.</p>
+          </blockquote>
+          <p>
+            This may be more or less true, and is likely dependent on personal experience, but I’ve found that boring problems have typically been left un-explored for the very reason that they’re boring. This makes it all new territory for something venturing into it. Whatever they make will be entirely new.
+          </p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(29)" id="29">
+					<p class="link"><span>> January 2020 </span></p>
+          <blockquote>
+            <p>So many people forget that fifty percent of every conversation between two people is silence.</p>
+          </blockquote>
+          <p>
+            Active listening is a real thing; when I realize someone is really listening, the conversation has real meaning. I strive to provide the same attention.
+          </p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(28)" id="28">
+					<p class="link"><span>> January 2020 </span></p>
+          <blockquote>
+            <p>Enjoy the first sip of your beer.</p>
+          </blockquote>
+          <p>Especially when you've held off all week and Friday rolls around.</p>
+					<hr>
+        </div>
+				<div class="note social" onclick="copyLink(27)" id="27">
+					<p class="link"><span>> January 2020 </span></p>
+          <blockquote>
+            <p>The king who avoids war at all costs is the king to avoid in war.</p>
+          </blockquote>
+          <p>Those who are passionate for peace will passionately pursue its return.</p>
+					<hr>
+        </div>
+				<div class="note work" onclick="copyLink(26)" id="26">
+					<p class="link"><span>> December 2019 </span></p>
+        	<blockquote>
+            <p>Sometimes facilitating conversation is more important than contributing to it.</p>
+          </blockquote>
+          <p>Try working with developers talking past each other for thirty minutes and you'll see how this makes sense.</p>
+					<hr>
+        </div>
+				<div class="note work" onclick="copyLink(25)" id="25">
+					<p class="link"><span>> December 2019 </span></p>
+          <blockquote>
+            <p>Collaboration, communication, community.</p>
+          </blockquote>
+          <p>
+            These are three core principles I look for in projects I associate myself with. Open/active discussions about the roadmap with no one individual deciding things, clearly and consistently adhering to a roadmap, and including all stakeholders in formalizing the roadmap.
+          </p>
+					<hr>
+        </div>
+				<div class="note work" onclick="copyLink(24)" id="24">
+					<p class="link"><span>> December 2019 </span></p>
+          <blockquote>
+            <p>Favor requirements over processes while building. When you do need a process, automate it.</p>
+          </blockquote>
+          <p>
+            By this I mean <em>quality</em> or <em>production</em> requirements rather than build specifications. Creating process pipelines, or enforcing srict architectures before they can be evaluated, likely stifles creativity - anything need a process should be automated and never thought about.
+          </p>
+					<hr>
+        </div>
+				<div class="note creativity" onclick="copyLink(23)" id="23">
+					<p class="link"><span>> November 2019 </span></p>
+          <blockquote>
+            <p>A minimal resource set necessitates creative solutions and efficient design.</p>
+          </blockquote>
+          <p>
+            I’m a firm believer in this. It’s sort of like building with a limited number of LEGOs: it forces you to think creatively and with imagination while also knowing intimately the number of pieces you have left and how they can work together.
+          </p>
+					<hr>
+        </div>
+				<div class="note creativity" onclick="copyLink(22)" id="22">
+					<p class="link"><span>> November 2019 </span></p>
+          <blockquote>
+            <p>Building simple solutions is fun.</p>
+          </blockquote>
+          <p>
+            This falls in with my overall philosophy of minimalism. Build lots of simple solutions and then weave them together to form something big.
+          </p>
+					<hr>
+        </div>
+				<div class="note logic" onclick="copyLink(21)" id="21">
+					<p class="link"><span>> November 2019 </span></p>
+          <blockquote>
+            <p>Variables utilized in human decision making should be based in the natural world rather than arbitrary selection.</p>
+          </blockquote>
+          <p>
+            An example of this is consent. In order for consent to be actually given, the individual has to be fully cognizant of the situation and not coerced. Being cognizant would, theoretically, require a fully developed brain - although this can’t be accurately assessed on-demand and on a case-by-case basis, the age for consent (alcohol, military service, driving, sex, etc.) should be placed on the average (at the time of this writing I believe that occurs around 25 years old).
+          </p>
+					<hr>
+        </div>
+				<div class="note theology" onclick="copyLink(20)" id="20">
+					<p class="link"><span>> November 2019 </span></p>
+        	<blockquote>
+            <p>I want the Church to be personal, not individual.</p>
+          </blockquote>
+          <p>
+            This sort of goes in line with my view that the Church can be smaller in a literal sense of the organization. However, it needs to be balanced against non-conformity and subjective interpretation of doctrine.
+          </p>
+					<hr>
+        </div>
+				<div class="note work" onclick="copyLink(19)" id="19">
+					<p class="link"><span>> October 2019 </span></p>
+          <blockquote>
+            <p>Work is still work - it isn't always fun. But it sucks when it used to be.</p>
+          </blockquote>
+          <p>Its a bit whiny but feeling burnout at work, especially when the environment used to be engaging, fun, dynamic, and rewarding, really sucks.</p>
+					<hr>
+        </div>
+				<div class="note social" onclick="copyLink(18)" id="18">
+					<p class="link"><span>> October 2019 </span></p>
+          <blockquote>
+            <p>The goal of increased individual self-direction requires providing both the individual decision-making capacity and the resources to take action with.</p>
+          </blockquote>
+          <p>
+            Sort of a personal goal that all work will ideally build towards. Individuals should be maximally free to self-direct and be able to utilize as many resources as possible to, in many cases, engage in productive endeavors.
+          </p>
+					<hr>
+        </div>
+				<div class="note creativity" onclick="copyLink(17)" id="17">
+					<p class="link"><span>> October 2019 </span></p>
+          <blockquote>
+            <p>Many innovations today focus on making life easier - why not build things that make life more challenging?</p>
+          </blockquote>
+          <p>
+            This sounds silly but I like the idea of building things that push us forward and challenge us physically, mentally, emotionally, spiritually, philosophically. Things like hard science and deep tech are going to really push us more than service-based innovation.
+          </p>
+					<hr>
+        </div>
+				<div class="note economics" onclick="copyLink(16)" id="16">
+					<p class="link"><span>> October 2019 </span></p>
+					<blockquote>
+						<p>Companies that unite shareholders and stakeholders invest in their employees and community.</p>
+					</blockquote>
+					<p>
+						Introducing perpetual "sweat equity" for employees helps to build bonds with employees and alleviate reliance on the "salary drug." Bringing these two together lets individuals keep what they build. <a href="https://colony.io/">[1]</a>
+					</p>
+					<hr>
+				</div>
+				<div class="note economics" onclick="copyLink(15)" id="15">
+					<p class="link"><span>> October 2019 </span></p>
+					<blockquote>
+						<p>Large numbers of small producers reduces market consolidation and increases economic resiliency.</p>
+					</blockquote>
+					<p>
+						While there's nothing inherently wrong with large producers, which often provide beneficial economies of scale, smaller operations may more easily avoid turning employees into "cogs." Also, with smaller operations, there's less possibility of drastic market centralization and consolidation of risk. No one entity dictates the activities of the market.
+					</p>
+					<hr>
+				</div>
+				<div class="note economics" onclick="copyLink(14)" id="14">
+					<p class="link"><span>> October 2019 </span></p>
+					<blockquote>
+						<p>An important aspect of craftsmanship is earning the pride you take in your work.</p>
+					</blockquote>
+					<p>
+						The "niche" production approach where output is owned by the individuals how produce it, as encouraged by distributism, encourages thoughtful satisfaction at one's accomplishment.
+					</p>
+					<hr>
+				</div>
+				<div class="note economics" onclick="copyLink(13)" id="13">
+					<p class="link"><span>> October 2019 </span></p>
+					<blockquote>
+						<p>A move towards distributism is a move towards a true system of social justice.</p>
+					</blockquote>
+					<p>
+						The theory encourages maker ownership of the means and output of production while maintaining a free market. Together, this makes for a system designed around individual self-direction and establishes human dignity at the center of the philosophy.
+					</p>
+					<hr>
+				</div>
+				<div class="note social" onclick="copyLink(12)" id="12">
+					<p class="link"><span>> September 2019 </span></p>
+          <blockquote>
+            <p>Don’t build statues to people who are still alive.</p>
+          </blockquote>
+          <p>Best practice to avoid making people into gods in their own minds.</p>
+					<hr>
+        </div>
+				<div class="note theology" onclick="copyLink(11)" id="11">
+					<p class="link"><span>> September 2019 </span></p>
+            <p>The greatest truths are simple.</p>
+          </blockquote>
+          <p>Probably one of the most important things I've learned from C.S. Lewis.</p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(10)" id="10">
+					<p class="link"><span>> September 2019 </span></p>
+          <blockquote>
+            <p>Where you're from is only important if you've never left - otherwise, what matters is where you're going</p>
+          </blockquote>
+          <p>Maybe a tad cliche, but whatever.</p>
+					<hr>
+        </div>
+				<div class="note social" onclick="copyLink(9)" id="9">
+					<p class="link"><span>> September 2019 </span></p>
+          <blockquote>
+            <p>There is no shame in asking for help. There is only shame in demanding it or denying it.</p>
+          </blockquote>
+          <p>I don't believe in a loss in dignity simply because one is vulnerable.</p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(8)" id="8">
+					<p class="link"><span>> August 2019 </span></p>
+          <blockquote>
+            <p>Friends don't perform favors for friends, they just help their friends when they need it.</p>
+          </blockquote>
+          <p>Sort of a cheesy thing to say, but I believe it.</p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(7)" id="7">
+					<p class="link"><span>> August 2019 </span></p>
+          <blockquote>
+            <p>Family is more than blood.</p>
+          </blockquote>
+          <p>While I think blood is a decent, in most cases, default binding connection, I believe we can hold those that we choose to associate ourselves with in similarly high regard.</p>
+					<hr>
+        </div>
+				<div class="note miscellaneous" onclick="copyLink(6)" id="6">
+					<p class="link"><span>> August 2019 </span></p>
+          <blockquote>
+            <p>Unscripted interactions are the truest demonstration of a subject matter knowledge and interest.</p>
+          </blockquote>
+          <p>
+            I've always preferred unscripted and unprompted discussions. I think the reason for this is because I think it shows a more genuine side of the subject. For example, I prefer the live/unscripted entertainment bits provided by Rooster Teeth and Funhaus over the more choreographed pieces. Similarly, I think I received more thoughtful and groundbreaking insight from C.S. Lewis's notes and letter than I have from most of his "official" works.
+          </p>
+					<hr>
+        </div>
+				<div class="note open-source" onclick="copyLink(5)" id="5">
+					<p class="link"><span>> July 2019 </span></p>
+          <blockquote>
+            <p>An idea is like a cup of water. To make it a reality, you go to the beach and add sand to the cup of water. This takes time, uses the whole cup, and doesn't guarantee a strong foundation. If instead you pour the water out, you won't be able to keep it, but you and other hands can build a sandcastle rapidly, efficiently, and adaptably.</p>
+          </blockquote>
+          <p>A thought on why ideas or intellectual property are better shared and open.</p>
+					<hr>
+        </div>
+				<div class="note open-source" onclick="copyLink(4)" id="4">
+					<p class="link"><span>> July 2019 </span></p>
+					<blockquote>
+						<p>Open source allows hyper-productive individuals to use tools and resources best suited to leverage their productivity.</p>
+					</blockquote>
+					<p>
+						Maximizing productive output while maintaining individual rights and dignity is the primary concern in an increasingly automated workforce system. Open source caters to this scenario and proivdes hyper-productive individuals with a series of resources to leverage their output and provide for consumers.
+					</p>
+					<p>
+						<b>Benefits</b>
+						<ul>
+							<li>Common knowledge pool: shared and open intellectual property which reduces "reinvention" by participants creating proprietary alternatives</li>
+							<li>Non-overlaping markets: entities focus on "peripheral" markets surrounding shared core which encourages focus on competitive advantages</li>
+							<li>Lower entry barriers: new participants can enter market rapidly as core intellectual property is openly available for use</li>
+							<li>Value creation prioritization: more value is created from open resources than are captured by each individual producer</li>
+							<li>Balances market forces: monopolization and perfect competition are avoided through public core resources and competitive advantage focuses</li>
+							<li>Supply chain cooperation: "niche" edge producers collaborating between individual horizontal and vertical segments</li>
+							<li>Adaptive technologies: common core resources with multiple contributors provides rapid updates for changing environments/requirements</li>
+						</ul>
+					</p>
+					<p>
+						Consumers benefit in this scenario of a hyper-productive minority operating in a highly automated workforce from more rapid innovation and product development.
+					</p>
+					<hr>
+				</div>
+				<div class="note politics" onclick="copyLink(3)" id="3">
+					<p class="link"><span>> July 2019 </span></p>
+          <blockquote>
+            <p>The state is a monopoly; democracy is out best way of introducing competition.</p>
+          </blockquote>
+          <p>I generally stand against any kind of monopoly and I think the state can be described in this way. Now, I don't want it abolished, but I do want it reined in.</p>
+					<hr>
+        </div>
+				<div class="note open-source" onclick="copyLink(2)" id="2">
+					<p class="link"><span>> June 2019 </span></p>
+					<blockquote>
+						<p>Open source philosophy is a force for economic good.</p>
+					</blockquote>
+					<p>
+						Open source software projects are a collaborative effort. Individual developers contribute to the betterment of the project and create a publicly available, shared resource.
+					</p>
+					<p>
+						This model opts to create, rather than directly capture, value. Additionally, competitive markets are maintained around the project since individuals are free to take it and build products or services using it.
+					</p>
+					<p>
+						Since all parties share core intellectual property, competition is encouraged around the "edges" and where comparative advantages apply with some participants opting to keep these facets closed source. Dynamic, open economic theaters are created through this paradigm while also preventing monopolies from forming. Changing the default economic mindset to open collaborative competition, as maintained in the open source philosophy, is a significant social benefit and could be applied to all markets.<a href="https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=2176&amp;context=btlj">[1]</a>
+					</p>
+					<hr>
+				</div>
+				<div class="note work" onclick="copyLink(1)" id="1">
+					<p class="link"><span>> June 2019 </span></p>
+          <blockquote>
+            <p>Provide alternatives, don't poke holes.<br>
+            Fight for the best idea, not yours.<br>
+            Think flexibly.</p>
+          </blockquote>
+          <p>Just some small one-liners that I think are valuable for me to keep in mind when working with others.</p>
+					<hr>
+        </div>
+				<br>
+				<p>Build well 🛠️</p>
+        <br>
+        <br>
+      </div>
+    </div>
+  </body>
+</html>
