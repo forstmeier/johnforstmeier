@@ -90,7 +90,7 @@ ul,
 }
 
 .link span:after {
-  content: '📎';
+	content: 'copy note link';
   opacity: 0;
   transition: all 0.5s;
 }
