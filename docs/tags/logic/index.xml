@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logic on John Forstmeier</title>
+    <link>https://forstmeier.github.io/tags/logic/</link>
+    <description>Recent content in logic on John Forstmeier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 19:28:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://forstmeier.github.io/tags/logic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natural Variables</title>
+      <link>https://forstmeier.github.io/notes/natural-variables-1-0/</link>
+      <pubDate>Mon, 11 Nov 2019 19:28:28 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/natural-variables-1-0/</guid>
+      <description>Variables utilized in human decision making should be based in the natural world rather than arbitrary selection.
+An example of this is consent. In order for consent to be actually given, the individual has to be fully cognizant of the situation and not coerced. Being cognizant would, theoretically, require a fully developed brain - although this can’t be accurately assessed on-demand and on a case-by-case basis, the age for consent (alcohol, military service, driving, sex, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

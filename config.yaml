@@ -1,0 +1,5 @@
+baseURL: "https://forstmeier.github.io/"
+languageCode: "en-us"
+title: "John Forstmeier"
+theme: "notes"
+publishdir: "docs"

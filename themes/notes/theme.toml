@@ -1,0 +1,12 @@
+name = "notes"
+license = "MIT"
+licenselink = "https://github.com/forstmeier/notes/blob/master/LICENSE"
+description = ""
+homepage = "https://forstmeier.github.io"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "John Forstmeier"
+  homepage = "https://forstmeier.github.io"

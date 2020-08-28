@@ -1,0 +1,13 @@
+<h2>
+	Note - {{ .Title }}
+</h2>
+<div>
+	<p>
+		<span>
+			> {{ dateFormat "2006-01-02" .Date }}
+		</span>
+	</p>
+	<p>
+		{{ .Content }}
+	</p>
+</div>
