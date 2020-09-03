@@ -31,6 +31,7 @@ button {
   color: #BBE1FA;
   border: none;
   outline: none;
+	cursor: pointer;
 }
 
 h2 {

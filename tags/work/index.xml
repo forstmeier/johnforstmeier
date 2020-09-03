@@ -6,10 +6,20 @@
     <description>Recent content in work on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 08:41:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 08:20:01 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Small Team Skill</title>
+      <link>https://forstmeier.github.io/notes/small-team-skill-1-0/</link>
+      <pubDate>Thu, 03 Sep 2020 08:20:01 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/small-team-skill-1-0/</guid>
+      <description>One of the most important skills a small team can collectively have is the ability to identify what they don&amp;rsquo;t need to build for a minimum viable product (&amp;ldquo;MVP&amp;rdquo;).
+Smaller teams inherently have fewer human resources available to build things and must prioritize. An open two-way dialogue between the team and the customer helps identify the core value the product provides the customers. With this the team can provide that initial core value in their MVP even if it&amp;rsquo;s held together with rubber bands and bubble gum.</description>
+    </item>
     
     <item>
       <title>Facilitating Decisions</title>

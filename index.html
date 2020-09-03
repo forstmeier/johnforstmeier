@@ -6,11 +6,11 @@
   	<meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500&display=swap" rel="stylesheet"/>
-		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@forstmeier">
 		<meta name="twitter:title" content="John Forstmeier">
 		<meta name="twitter:description" content="John is a full-stack engineer at Shipyard and an open source maker and contributor. He is a periodic writer and in his spare time, he enjoys lifting, yoga, and reading. John lives in Philadelphia, PA and can be reached via direct message on Twitter.">
-		<meta name="twitter:image" content="/image.jpg">
+		<meta name="twitter:image" content="https://forstmeier.github.io/image.jpg">
 		<meta name="twitter:image:alt" content="Profile image">
   	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css"/>
     <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
@@ -33,9 +33,7 @@
 		<img src="/image.jpg">
 	</div>
 	<div class="name">
-		<h1>
-			John Forstmeier
-		</h1>
+		<h1>John Forstmeier</h1>
 	</div>
 </div>
 <div class="body">
@@ -72,7 +70,7 @@
 	function no_filter() {
 		let notes = document.getElementsByClassName('note');
 		for (let note of notes) {
-			note.style.display = "block";
+			note.style.display = "";
 		}
 	}
 
@@ -80,7 +78,7 @@
 		let notes = document.getElementsByClassName('note');
 		for (let note of notes) {
 			if (note.className.includes(name)) {
-				note.style.display = "block";
+				note.style.display = "";
 			} else {
 				note.style.display = "none";
 			}
@@ -104,6 +102,11 @@
 	<button onclick="filter('law')">law</button>
 </div>
 <ul>
+	
+		<li class="note [work miscellaneous leadership]">
+			<a href="https://forstmeier.github.io/notes/small-team-skill-1-0/">Small Team Skill</a>
+			<span class="noteinfo"> [work miscellaneous leadership]</span>
+		</li>
 	
 		<li class="note [miscellaneous]">
 			<a href="https://forstmeier.github.io/notes/born-with-nothing-1-0/">Born With Nothing</a>
@@ -298,9 +301,7 @@
 </ul>
 
 			<br>
-			<p>
-				Build well 🛠️
-			</p>
+			<p>Build well 🛠️</p>
 			<br>
 			<br>
 		</div>

@@ -7,7 +7,7 @@
 	function no_filter() {
 		let notes = document.getElementsByClassName('note');
 		for (let note of notes) {
-			note.style.display = "block";
+			note.style.display = "";
 		}
 	}
 
@@ -15,7 +15,7 @@
 		let notes = document.getElementsByClassName('note');
 		for (let note of notes) {
 			if (note.className.includes(name)) {
-				note.style.display = "block";
+				note.style.display = "";
 			} else {
 				note.style.display = "none";
 			}
