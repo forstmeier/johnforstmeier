@@ -6,10 +6,21 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 08:20:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 08:25:32 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pharmaceuticals As Software</title>
+      <link>https://forstmeier.github.io/notes/pharma-software-1-0/</link>
+      <pubDate>Thu, 10 Sep 2020 08:25:32 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/pharma-software-1-0/</guid>
+      <description>Some characteristics of pharmaceuticals make them comparable to software. Basically software and pharmaceuticals have:
+ high development costs low distribution costs  For example, both require a large, upfront resource investment in research and composition. After initial R&amp;amp;D expenses, both are relatively easily manufactured and distributed at scale.
+Knowing this, pharmaceuticals may be well placed to leverage wide-reaching treatments while reducing healthcare costs. Additionally, with precision medicine [1], highly-focused solutions can be developed or even compounded on-demand for individual use to increase effectiveness.</description>
+    </item>
     
     <item>
       <title>Small Team Skill</title>

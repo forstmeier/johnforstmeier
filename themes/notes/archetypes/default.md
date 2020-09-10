@@ -15,5 +15,7 @@ tags: [
 	"economics",
 	"leadership",
 	"law",
+	"biotech",
+	"pharmaceutical",
 ]
 ---
