@@ -17,5 +17,6 @@ tags: [
 	"law",
 	"biotech",
 	"pharmaceutical",
+	"energy",
 ]
 ---

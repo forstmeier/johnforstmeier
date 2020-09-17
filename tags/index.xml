@@ -6,10 +6,33 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 08:25:32 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 08:20:31 -0400</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>economics</title>
+      <link>https://forstmeier.github.io/tags/economics/</link>
+      <pubDate>Thu, 17 Sep 2020 08:20:31 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/economics/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>energy</title>
+      <link>https://forstmeier.github.io/tags/energy/</link>
+      <pubDate>Thu, 17 Sep 2020 08:20:31 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/energy/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>social</title>
+      <link>https://forstmeier.github.io/tags/social/</link>
+      <pubDate>Thu, 17 Sep 2020 08:20:31 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>biotech</title>
@@ -66,15 +89,6 @@
     </item>
     
     <item>
-      <title>social</title>
-      <link>https://forstmeier.github.io/tags/social/</link>
-      <pubDate>Sat, 06 Jun 2020 08:33:02 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>law</title>
       <link>https://forstmeier.github.io/tags/law/</link>
       <pubDate>Tue, 19 May 2020 08:39:45 -0400</pubDate>
@@ -89,15 +103,6 @@
       <pubDate>Tue, 19 May 2020 08:39:45 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>https://forstmeier.github.io/tags/economics/</link>
-      <pubDate>Fri, 20 Mar 2020 08:54:56 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/economics/</guid>
       <description></description>
     </item>
     
