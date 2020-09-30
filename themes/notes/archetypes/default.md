@@ -18,5 +18,6 @@ tags: [
 	"biotech",
 	"pharmaceutical",
 	"energy",
+	"education",
 ]
 ---
