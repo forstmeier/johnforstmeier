@@ -39,13 +39,15 @@
 	<button onclick="filter('law')">law</button>
 	<button onclick="filter('biotech')">biotech</button>
 	<button onclick="filter('pharmaceutical')">pharmaceutical</button>
+	<button onclick="filter('energy')">energy</button>
+	<button onclick="filter('education')">education</button>
 </div>
 <ul>
 	{{ range .Site.RegularPages }}
-		<li class="note {{ .Params.tags }}">
-			<a href="{{ .Permalink }}">{{ .Title }}</a>
-			<span class="noteinfo"> {{ .Params.tags }}</span>
-		</li>
+	<li class="note {{ .Params.tags }}">
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		<span class="noteinfo"> {{ .Params.tags }}</span>
+	</li>
 	{{ end }}
 </ul>
 
