@@ -58,6 +58,15 @@ ul,
   margin-top: 1rem;
 }
 
+table {
+  margin-top: 1rem;
+}
+
+td,
+th {
+  padding-right: 0.5rem;
+}
+
 .container {
   height: 100%;
   margin: auto;
