@@ -6,7 +6,17 @@
     <description>Recent content in miscellaneous on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 08:40:00 -0400</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 09:37:13 -0400</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anti-Wozniak</title>
+      <link>https://forstmeier.github.io/notes/anti-wozniak-1-0/</link>
+      <pubDate>Fri, 23 Oct 2020 09:37:13 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/anti-wozniak-1-0/</guid>
+      <description>Rapid development iteration following patterns like Agile [1] generates immediate product feedback which may be an antidote against not posessing raw talent displayed by people like Steve Wozniak [2].
+Avoiding &amp;ldquo;representing yourself&amp;rdquo; [3] in the product removes the need to build perfection on the first deployment and will still eventually lead to a fully realized end result.</description>
+    </item>
+    
     <item>
       <title>Political Brainstorm</title>
       <link>https://forstmeier.github.io/notes/political-brainstorm-1-0/</link>
