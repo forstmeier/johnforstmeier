@@ -6,7 +6,17 @@
     <description>Recent content in miscellaneous on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 08:37:38 -0500</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 08:45:00 -0500</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microservice News</title>
+      <link>https://forstmeier.github.io/notes/microservice-news-1-0/</link>
+      <pubDate>Wed, 11 Nov 2020 08:45:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/microservice-news-1-0/</guid>
+      <description>An alternative news consumption paradigm could be one where individuals build themselves ad-hoc collections to establish a &amp;ldquo;microservice architecture&amp;rdquo; of preferred sources. Ideally, these sources would be smaller groups or independent journalists potentially providing highly specialized coverage and reporting - some sources might even exist only as long as the story they cover. All news producers would be treated as modular and replaceable.
+This fragmentation would force consumers to actively build their own networks while also reducing narrative centralization from large producers.</description>
+    </item>
+    
     <item>
       <title>Friend Disagreements</title>
       <link>https://forstmeier.github.io/notes/friend-disagreements-1-0/</link>
