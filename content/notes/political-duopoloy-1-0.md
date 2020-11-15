@@ -4,7 +4,6 @@ date: 2020-09-23T08:32:43-04:00
 draft: false
 tags: [
 	"politics",
-	"miscellaneous",
 ]
 ---
 Established political duopolies hold their members on platforms that can devolve into what can be summarized as "anti-opposing party." Time is spent condemning the opposition's stances without defending, or sometimes even _presenting_, alternatives. While there may be philosophic stratification within the dual parties, these differences are subordinate to the party positions.

@@ -4,7 +4,6 @@ date: 2020-09-03T08:20:01-04:00
 draft: false
 tags: [
 	"work",
-	"miscellaneous",
 	"leadership",
 ]
 ---

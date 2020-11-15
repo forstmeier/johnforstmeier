@@ -4,7 +4,6 @@ date: 2020-10-15T08:40:00-04:00
 draft: false
 tags: [
 	"politics",
-	"miscellaneous",
 ]
 ---
 

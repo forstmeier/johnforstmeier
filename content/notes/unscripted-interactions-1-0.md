@@ -4,7 +4,6 @@ date: 2019-08-06T09:04:57-04:00
 draft: false
 tags: [
 	"creativity",
-	"miscellaneous",
 ]
 ---
 **Unscripted interactions** are the truest demonstration of a subject matter knowledge and interest.

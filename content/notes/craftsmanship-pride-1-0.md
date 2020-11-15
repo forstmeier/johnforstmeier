@@ -3,8 +3,8 @@ title: "Craftsmanship Pride"
 date: 2019-10-09T19:57:07-04:00
 draft: false
 tags: [
-	"miscellaneous",
 	"economics",
+	"work",
 ]
 ---
 An important aspect of craftsmanship is **earning the pride** you take in your work.

@@ -4,7 +4,6 @@ date: 2019-10-28T19:40:45-04:00
 draft: false
 tags: [
 	"work",
-	"miscellaneous",
 ]
 ---
 Work is still work - it isn't always fun. But it sucks when it used to be.

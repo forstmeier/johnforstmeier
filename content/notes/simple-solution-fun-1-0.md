@@ -4,7 +4,6 @@ date: 2019-11-21T19:25:42-04:00
 draft: false
 tags: [
 	"creativity",
-	"miscellaneous",
 ]
 ---
 Building simple solutions is ***fun***.
