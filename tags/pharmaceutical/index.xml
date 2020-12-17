@@ -6,7 +6,11 @@
     <description>Recent content in pharmaceutical on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 08:25:32 -0400</lastBuildDate><atom:link href="https://forstmeier.github.io/tags/pharmaceutical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2020 08:25:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://forstmeier.github.io/tags/pharmaceutical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Pharmaceuticals As Software</title>
       <link>https://forstmeier.github.io/notes/pharma-software-1-0/</link>

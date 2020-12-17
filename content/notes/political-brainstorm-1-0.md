@@ -27,7 +27,7 @@ Below is a loose, unordered collection of "radical", but practically implementab
 
 > _Goal_: close loopholes and reduce financial influence.
 
-5. **Increase individual donation limit**: raise the cap [[1](https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/)] on what voters may put towards individual candidate campaigns. Possibly balance this with placing limits on the number of campaigns that could be donated to. Identifying a non-arbitrary rule would be a central focus.
+5. **Increase individual donation limit**: raise the cap [[1](https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/ "Contribution limits - Federal Election Commission")] on what voters may put towards individual candidate campaigns. Possibly balance this with placing limits on the number of campaigns that could be donated to. Identifying a non-arbitrary rule would be a central focus.
 
 > _Goal_: leveling financial dispartiy influence on elections.
 

@@ -74,6 +74,10 @@ th {
   padding-right: 0.5rem;
 }
 
+td {
+  border-top: 1px solid #FFFFFF;
+}
+
 .container {
   height: 100%;
   margin: auto;

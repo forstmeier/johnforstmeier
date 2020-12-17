@@ -1,5 +1,5 @@
 ---
-title: "Opportunities for Good"
+title: "Opportunities For Good"
 date: 2020-02-10T12:24:15-04:00
 draft: false
 tags: [

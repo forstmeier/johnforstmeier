@@ -19,7 +19,7 @@ The difference in the concepts of a _citizen's dividend_ and _universal basic in
 
 These features are present in fiscal policy options.
 
-A citizen's dividend in a Georgist model [[1](https://en.wikipedia.org/wiki/Georgism#Revenue_uses)] would derive funding from tax revenue, ideally a land value tax, minus government spending distributed on a per capita basis to all citizens.
+A citizen's dividend in a Georgist model [[1](https://en.wikipedia.org/wiki/Georgism#Revenue_uses "Georgism revenue uses - Wikipedia")] would derive funding from tax revenue, ideally a land value tax, minus government spending distributed on a per capita basis to all citizens.
 
 A universal basic income, while fixed in theory, would likely be adjusted as legislators accommodate varying economic and political climates, which introduces the risk of amounts and recipients being arbitrarily set.
 
