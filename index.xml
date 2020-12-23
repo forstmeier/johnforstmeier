@@ -6,10 +6,20 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2020 07:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 10:45:00 -0500</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Immediate Testing</title>
+      <link>https://forstmeier.github.io/notes/immediate-testing-1-0/</link>
+      <pubDate>Tue, 22 Dec 2020 10:45:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/immediate-testing-1-0/</guid>
+      <description>Continuously testing entire code repositories increases the ability to introduce rapid changes. Being able to do this in early stages, such as the MVP, is highly valuable.
+Simple approaches, like adding a unit_tests script to the repo containing just a go test ./... -coverage command [1][2] achieve this. Even though it would initially be triggered manually, doing so would provide value to the developer even before a complete CI/CD pipeline could be established.</description>
+    </item>
     
     <item>
       <title>Reading: Fratelli Tutti</title>

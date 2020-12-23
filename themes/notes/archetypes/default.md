@@ -20,5 +20,6 @@ tags: [
 	"energy",
 	"education",
 	"reading",
+	"software",
 ]
 ---
