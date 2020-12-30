@@ -6,10 +6,28 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 10:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 08:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>education</title>
+      <link>https://forstmeier.github.io/tags/education/</link>
+      <pubDate>Wed, 30 Dec 2020 08:00:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://forstmeier.github.io/tags/social/</link>
+      <pubDate>Wed, 30 Dec 2020 08:00:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>software</title>
@@ -44,15 +62,6 @@
       <pubDate>Thu, 17 Dec 2020 07:30:00 -0500</pubDate>
       
       <guid>https://forstmeier.github.io/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://forstmeier.github.io/tags/social/</link>
-      <pubDate>Thu, 17 Dec 2020 07:30:00 -0500</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/social/</guid>
       <description></description>
     </item>
     
@@ -98,15 +107,6 @@
       <pubDate>Fri, 23 Oct 2020 09:37:13 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>education</title>
-      <link>https://forstmeier.github.io/tags/education/</link>
-      <pubDate>Wed, 30 Sep 2020 08:06:23 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/education/</guid>
       <description></description>
     </item>
     
