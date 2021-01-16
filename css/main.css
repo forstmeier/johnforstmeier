@@ -1,10 +1,9 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto Mono', sans-serif;
+  font-family: 'Helvetica';
   margin: 0;
   padding: 0;
-  background-color: #333333;
-  color: #FFFFFF;
+  background-color: #FFFFFF;
 }
 
 a:active,
@@ -12,7 +11,7 @@ a:focus,
 a:hover,
 a:link,
 a:visited {
-  color: #BBE1FA;
+  color: #007CCF;
 }
 
 blockquote {
@@ -28,7 +27,7 @@ html {
 }
 
 button {
-  color: #BBE1FA;
+  color: #007CCF;
   border: none;
   outline: none;
 	cursor: pointer;
@@ -89,7 +88,7 @@ th {
 }
 
 td {
-  border-top: 1px solid #FFFFFF;
+  border-top: 1px solid #000000;
 }
 
 .container {
@@ -101,7 +100,7 @@ td {
 
 .intro {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 4fr;
 }
 
 .name {
