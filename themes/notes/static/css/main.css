@@ -51,12 +51,6 @@ h2 {
   margin-top: 2rem;
 }
 
-.profile-image > img {
-  border-radius: 50%;
-  height: 100%;
-  width: 100%;
-}
-
 p > img {
   border-radius: 0%;
   height: 100%;
@@ -98,18 +92,6 @@ td {
   width: 34rem;
 }
 
-.intro {
-  display: grid;
-  grid-template-columns: 1fr 4fr;
-}
-
-.name {
-  font-size: 1.6rem;
-  margin-left: 2rem;
-	margin-top: auto;
-	margin-bottom: auto;
-}
-
 @media screen and (max-width: 480px) {
   ol {
     margin-left: 2rem;
@@ -124,20 +106,9 @@ td {
     width: 100%;
   }
 
-  .intro {
-    display: block;
-  }
-
 	h4,
-	.filters,
-  .profile-image {
+	.filters {
     display: none;
-  }
-
-  .name {
-    font-size: 1.2rem;
-    padding-top: 2rem;
-    margin-left: 0;
   }
 
 	span.noteinfo {
