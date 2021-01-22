@@ -5,6 +5,7 @@ draft: false
 tags: [
 	"social",
 	"economics",
+	"reading",
 ]
 ---
 
