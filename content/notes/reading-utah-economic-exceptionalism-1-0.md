@@ -9,7 +9,7 @@ tags: [
 ]
 ---
 
-Several aspects of the Beehive State's socio-economic approach are discussed in an article titled "Utah’s Economic Exceptionalism" [[1](https://americanaffairsjournal.org/2020/11/utahs-economic-exceptionalism/)] by Natalie Gochnour.
+Several aspects of the Beehive State's socio-economic approach are discussed in an article titled "Utah’s Economic Exceptionalism" [[1](https://americanaffairsjournal.org/2020/11/utahs-economic-exceptionalism/ "Utah's Economic Exceptionalism - American Affairs")] by Natalie Gochnour.
 
 While the state's economic position was solid during the COVID-19 pandemic in 2020, both in terms of mitigating negative fallout and general rising economic performance, the basis for this success appears to have been in place well prior to the outbreak.
 

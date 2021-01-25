@@ -9,9 +9,9 @@ tags: [
 ]
 ---
 
-This piece is on _Bad Blood_ [[1](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/0525431993/ref=sr_1_1?crid=3KSDY7EGVIUYQ&dchild=1&keywords=bad+blood&qid=1609853534&s=books&sprefix=bad+blood%2Caps%2C160&sr=1-1)] by John Carreyrou [[2](https://twitter.com/JohnCarreyrou)].
+This piece is on _Bad Blood_ [[1](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/0525431993/ref=sr_1_1?crid=3KSDY7EGVIUYQ&dchild=1&keywords=bad+blood&qid=1609853534&s=books&sprefix=bad+blood%2Caps%2C160&sr=1-1 "Bad Blood - Amazon")] by John Carreyrou [[2](https://twitter.com/JohnCarreyrou "John Carreyrou - Twitter")].
 
-I was familiar with the story of Elizabeth Holmes [[3](https://en.wikipedia.org/wiki/Elizabeth_Holmes)] and her company Theranos [[4](https://en.wikipedia.org/wiki/Theranos)] but the book provided greater insight into how she interacted with people regarding her work.
+I was familiar with the story of Elizabeth Holmes [[3](https://en.wikipedia.org/wiki/Elizabeth_Holmes "Elizabeth Holmes - Wikipedia")] and her company Theranos [[4](https://en.wikipedia.org/wiki/Theranos "Theranos - Wikipedia")] but the book provided greater insight into how she interacted with people regarding her work.
 
 It is unclear whether her extreme focus on "her mission" was a manipulative effort or actual self-denial; her actions could support both positions.
 
