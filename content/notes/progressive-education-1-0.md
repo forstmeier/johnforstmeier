@@ -1,6 +1,6 @@
 ---
 title: "Progressive Education"
-date: 2021-01-25T08:46:57-05:00
+date: 2021-01-25T08:45:00-05:00
 draft: false
 tags: [
 	"social",
