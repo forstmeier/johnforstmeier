@@ -6,10 +6,37 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 08:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 08:30:00 -0500</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://forstmeier.github.io/tags/philosophy/</link>
+      <pubDate>Wed, 03 Feb 2021 08:30:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://forstmeier.github.io/tags/reading/</link>
+      <pubDate>Wed, 03 Feb 2021 08:30:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>https://forstmeier.github.io/tags/theology/</link>
+      <pubDate>Wed, 03 Feb 2021 08:30:00 -0500</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/theology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>politics</title>
@@ -66,15 +93,6 @@
     </item>
     
     <item>
-      <title>reading</title>
-      <link>https://forstmeier.github.io/tags/reading/</link>
-      <pubDate>Mon, 18 Jan 2021 09:45:00 -0500</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>leadership</title>
       <link>https://forstmeier.github.io/tags/leadership/</link>
       <pubDate>Fri, 15 Jan 2021 17:30:00 -0500</pubDate>
@@ -107,15 +125,6 @@
       <pubDate>Thu, 19 Nov 2020 08:45:05 -0500</pubDate>
       
       <guid>https://forstmeier.github.io/tags/logic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://forstmeier.github.io/tags/philosophy/</link>
-      <pubDate>Thu, 19 Nov 2020 08:45:05 -0500</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     
@@ -161,15 +170,6 @@
       <pubDate>Thu, 30 Jan 2020 13:36:52 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/creativity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theology</title>
-      <link>https://forstmeier.github.io/tags/theology/</link>
-      <pubDate>Sun, 15 Sep 2019 08:53:11 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/theology/</guid>
       <description></description>
     </item>
     
