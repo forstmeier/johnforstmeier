@@ -13,20 +13,20 @@
     
     <item>
       <title>Social Media Impact</title>
-      <link>https://forstmeier.github.io/notes/social-media-impact-1-0/</link>
+      <link>https://forstmeier.github.io/notes/social-media-impact/</link>
       <pubDate>Wed, 27 Jan 2021 08:30:00 -0500</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/social-media-impact-1-0/</guid>
+      <guid>https://forstmeier.github.io/notes/social-media-impact/</guid>
       <description>There is an interesting series of questions that can be raised regarding social media listed below.
  Has the net impact of social media been positive or negative in developed nations? Has the net impact of social media been positive or negative in underdeveloped nations? If there is a difference in the answers to those questions, what causes the disparity?  These services have contributed positively and negatively to the world - identifying what distribution these contributions take would be valuable in helping to understand their proper function.</description>
     </item>
     
     <item>
       <title>Immediate Testing</title>
-      <link>https://forstmeier.github.io/notes/immediate-testing-1-0/</link>
+      <link>https://forstmeier.github.io/notes/immediate-testing/</link>
       <pubDate>Tue, 22 Dec 2020 10:45:00 -0500</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/immediate-testing-1-0/</guid>
+      <guid>https://forstmeier.github.io/notes/immediate-testing/</guid>
       <description>Continuously testing entire code repositories increases the ability to introduce rapid changes. Being able to do this in early stages, such as the MVP, is highly valuable.
 Simple approaches, like adding a unit_tests script to the repo containing just a go test ./... -coverage command [1][2] achieve this. Even though it would initially be triggered manually, doing so would provide value to the developer even before a complete CI/CD pipeline could be established.</description>
     </item>
