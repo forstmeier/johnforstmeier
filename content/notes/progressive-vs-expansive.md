@@ -1,6 +1,6 @@
 ---
 title: "Progressive vs Expansive"
-date: 2021-03-17T08:39:40-04:00
+date: 2021-03-19T08:45:00-04:00
 draft: false
 tags: [
 	"social",

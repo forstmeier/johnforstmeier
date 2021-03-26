@@ -6,15 +6,26 @@
     <description>Recent content in economics on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 08:39:40 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dangerous Markets</title>
+      <link>https://forstmeier.github.io/notes/dangerous-markets/</link>
+      <pubDate>Fri, 26 Mar 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/dangerous-markets/</guid>
+      <description>Financial markets should be easy to enter but difficult to actively participate in.
+ Encouraging reduced barriers to entry and limitations on participation improve price discovery through the removal of arbitrary restrictions. However, a big caveat should be made to retail investors so that they&amp;rsquo;re aware that they&amp;rsquo;re very likely outgunned by the resources available to institutional investors.
+Markets should be much closer to an &amp;ldquo;anything goes&amp;rdquo; model while making transaction and holdings data public.</description>
+    </item>
+    
+    <item>
       <title>Progressive vs Expansive</title>
       <link>https://forstmeier.github.io/notes/progressive-vs-expansive/</link>
-      <pubDate>Wed, 17 Mar 2021 08:39:40 -0400</pubDate>
+      <pubDate>Fri, 19 Mar 2021 08:45:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/notes/progressive-vs-expansive/</guid>
       <description>The term &amp;ldquo;progressive&amp;rdquo; has been conflated with the word &amp;ldquo;expansive&amp;rdquo; with regards to legislative initiatives. In some ways, this is similar to the theme in Peter Thiel&amp;rsquo;s [1] book Zero to One [2].

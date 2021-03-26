@@ -6,7 +6,7 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 08:39:40 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>economics</title>
       <link>https://forstmeier.github.io/tags/economics/</link>
-      <pubDate>Wed, 17 Mar 2021 08:39:40 -0400</pubDate>
+      <pubDate>Fri, 26 Mar 2021 08:30:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/economics/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>law</title>
+      <link>https://forstmeier.github.io/tags/law/</link>
+      <pubDate>Fri, 26 Mar 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>politics</title>
       <link>https://forstmeier.github.io/tags/politics/</link>
-      <pubDate>Wed, 17 Mar 2021 08:39:40 -0400</pubDate>
+      <pubDate>Fri, 19 Mar 2021 08:45:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/politics/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>social</title>
       <link>https://forstmeier.github.io/tags/social/</link>
-      <pubDate>Wed, 17 Mar 2021 08:39:40 -0400</pubDate>
+      <pubDate>Fri, 19 Mar 2021 08:45:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/social/</guid>
       <description></description>
@@ -107,15 +116,6 @@
       <pubDate>Wed, 20 Jan 2021 08:30:00 -0500</pubDate>
       
       <guid>https://forstmeier.github.io/tags/miscellaneous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>law</title>
-      <link>https://forstmeier.github.io/tags/law/</link>
-      <pubDate>Thu, 14 Jan 2021 08:30:00 -0500</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/law/</guid>
       <description></description>
     </item>
     
