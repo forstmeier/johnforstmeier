@@ -6,10 +6,20 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 08:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 08:45:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Initial Backwards Compatibility</title>
+      <link>https://forstmeier.github.io/notes/initial-backwards-compatibility/</link>
+      <pubDate>Thu, 15 Apr 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/initial-backwards-compatibility/</guid>
+      <description>MVPs (&amp;ldquo;minimum viable products&amp;rdquo;) shouldn&amp;rsquo;t be built in a way to handle a wide range of future use cases.
+For example, an MVP for an API-based service shouldn&amp;rsquo;t focus on accommodating future expansions in its first iteration. Constructing a simple, albeit rigid, pattern addressing the immediate need is the goal. If no one is using the API, focusing on delivering something that can be used to gather feedback is more important than planning for every eventuality.</description>
+    </item>
     
     <item>
       <title>Right vs Reasonable</title>
