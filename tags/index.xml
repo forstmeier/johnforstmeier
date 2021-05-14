@@ -6,10 +6,37 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 21:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 08:45:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://forstmeier.github.io/tags/philosophy/</link>
+      <pubDate>Fri, 14 May 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://forstmeier.github.io/tags/social/</link>
+      <pubDate>Fri, 14 May 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>https://forstmeier.github.io/tags/theology/</link>
+      <pubDate>Fri, 14 May 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/theology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>miscellaneous</title>
@@ -57,38 +84,11 @@
     </item>
     
     <item>
-      <title>social</title>
-      <link>https://forstmeier.github.io/tags/social/</link>
-      <pubDate>Fri, 19 Mar 2021 08:45:00 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theology</title>
-      <link>https://forstmeier.github.io/tags/theology/</link>
-      <pubDate>Mon, 15 Mar 2021 10:30:00 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/theology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>work</title>
       <link>https://forstmeier.github.io/tags/work/</link>
       <pubDate>Mon, 15 Mar 2021 10:30:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://forstmeier.github.io/tags/philosophy/</link>
-      <pubDate>Wed, 24 Feb 2021 08:25:00 -0500</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     
