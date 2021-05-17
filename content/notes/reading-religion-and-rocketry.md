@@ -6,6 +6,7 @@ tags: [
 	"philosophy",
 	"social",
 	"theology",
+	"reading",
 ]
 ---
 
