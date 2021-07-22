@@ -21,5 +21,6 @@ tags: [
 	"education",
 	"reading",
 	"software",
+	"finance",
 ]
 ---

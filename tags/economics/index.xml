@@ -6,10 +6,21 @@
     <description>Recent content in economics on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 08:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HFT for Retail</title>
+      <link>https://forstmeier.github.io/notes/hft-for-retail/</link>
+      <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/notes/hft-for-retail/</guid>
+      <description>High-frequency trading (&amp;ldquo;HFT&amp;rdquo;) [1] is often portrayed negatively and as &amp;ldquo;taking advantage&amp;rdquo; of retail investors through blindingly fast trading strategies.
+In reality, HFT firms are just 1) employing research and technology effectively and 2) taking on high amounts of investment risk. Essentially, they are shouldering the very high upfront cost of these tools which are an absolute prerequisite to even trying to reap the rewards of this strategy.
+Instead of taking a stance against HFT, participation in these funds should be made directly available to more retail investors so long as they&amp;rsquo;re aware of the risk.</description>
+    </item>
     
     <item>
       <title>Human Economic Element</title>
