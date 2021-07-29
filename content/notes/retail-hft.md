@@ -1,5 +1,5 @@
 ---
-title: "HFT for Retail"
+title: "Retail HFT"
 date: 2021-07-22T08:30:00-04:00
 draft: false
 tags: [
