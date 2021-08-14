@@ -6,10 +6,19 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 08:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 12:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://forstmeier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>social</title>
+      <link>https://forstmeier.github.io/tags/social/</link>
+      <pubDate>Sat, 14 Aug 2021 12:30:00 -0400</pubDate>
+      
+      <guid>https://forstmeier.github.io/tags/social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>economics</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 20 Jul 2021 08:30:00 -0400</pubDate>
       
       <guid>https://forstmeier.github.io/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://forstmeier.github.io/tags/social/</link>
-      <pubDate>Mon, 19 Jul 2021 08:30:00 -0400</pubDate>
-      
-      <guid>https://forstmeier.github.io/tags/social/</guid>
       <description></description>
     </item>
     
