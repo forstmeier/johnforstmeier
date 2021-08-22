@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://forstmeier.github.io/</loc>
+    <lastmod>2021-08-22T12:00:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forstmeier.github.io/tags/miscellaneous/</loc>
+    <lastmod>2021-08-22T12:00:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forstmeier.github.io/notes/more-impressionism/</loc>
+    <lastmod>2021-08-22T12:00:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forstmeier.github.io/notes/</loc>
+    <lastmod>2021-08-22T12:00:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://forstmeier.github.io/tags/</loc>
+    <lastmod>2021-08-22T12:00:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://forstmeier.github.io/notes/future-homo-species/</loc>
     <lastmod>2021-08-14T12:30:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://forstmeier.github.io/</loc>
-    <lastmod>2021-08-14T12:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://forstmeier.github.io/notes/</loc>
-    <lastmod>2021-08-14T12:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://forstmeier.github.io/tags/social/</loc>
-    <lastmod>2021-08-14T12:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://forstmeier.github.io/tags/</loc>
     <lastmod>2021-08-14T12:30:00-04:00</lastmod>
   </url>
   
@@ -95,11 +105,6 @@
   <url>
     <loc>https://forstmeier.github.io/tags/theology/</loc>
     <lastmod>2021-05-14T08:45:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://forstmeier.github.io/tags/miscellaneous/</loc>
-    <lastmod>2021-04-22T21:45:00-04:00</lastmod>
   </url>
   
   <url>
