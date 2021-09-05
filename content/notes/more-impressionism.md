@@ -14,4 +14,4 @@ Another wonderful example of impressionism [[1](https://en.wikipedia.org/wiki/Im
 - interesting strokes for the anchor in the foreground
 - no specifics are conveyed on people in the image
 
-![Tarring a Boat](/notes/tarring-a-boat.jpg)
+![Tarring a Boat](/images/tarring-a-boat.jpg)

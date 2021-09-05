@@ -19,5 +19,3 @@ Below are several points regarding the **Notes** content on the site.
 > Older notes have been given _approximate publish dates_
 
 > All changes are reflected in the _Git history_ for reference
-
-Build well :hammer_and_wrench:

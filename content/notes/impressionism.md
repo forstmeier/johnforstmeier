@@ -20,4 +20,4 @@ A favorite is _The Battle of the Kearsarge and the Alabama_ [[2](https://en.wiki
 - approximately two-thirds is water most of which is empty
 - no specifics are conveyed on people in the image
 
-![The Battle of the Kearsarge and the Alabama](/notes/the-battle-of-the-kearsarge-and-the-alabama.jpg)
+![The Battle of the Kearsarge and the Alabama](/images/the-battle-of-the-kearsarge-and-the-alabama.jpg)
