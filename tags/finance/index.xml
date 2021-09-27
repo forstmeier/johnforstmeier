@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>finance on John Forstmeier</title>
-    <link>https://forstmeier.github.io/tags/finance/</link>
+    <link>https://johnforstmeier.com/tags/finance/</link>
     <description>Recent content in finance on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jul 2021 08:30:00 -0400</lastBuildDate>
     
-	<atom:link href="https://forstmeier.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnforstmeier.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Retail HFT</title>
-      <link>https://forstmeier.github.io/notes/retail-hft/</link>
+      <link>https://johnforstmeier.com/notes/retail-hft/</link>
       <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/retail-hft/</guid>
+      <guid>https://johnforstmeier.com/notes/retail-hft/</guid>
       <description>High-frequency trading (&amp;ldquo;HFT&amp;rdquo;) [1] is often portrayed negatively and as &amp;ldquo;taking advantage&amp;rdquo; of retail investors through blindingly fast trading strategies.
 In reality, HFT firms are just 1) employing research and technology effectively and 2) taking on high amounts of investment risk. Essentially, they are shouldering the very high upfront cost of these tools which are an absolute prerequisite to even trying to reap the rewards of this strategy.
 Instead of taking a stance against HFT, participation in these funds should be made directly available to more retail investors so long as they&amp;rsquo;re aware of the risk.</description>

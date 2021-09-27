@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biotech on John Forstmeier</title>
-    <link>https://forstmeier.github.io/tags/biotech/</link>
+    <link>https://johnforstmeier.com/tags/biotech/</link>
     <description>Recent content in biotech on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jan 2021 08:30:00 -0500</lastBuildDate>
     
-	<atom:link href="https://forstmeier.github.io/tags/biotech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnforstmeier.com/tags/biotech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reading: Bad Blood</title>
-      <link>https://forstmeier.github.io/notes/reading-bad-blood/</link>
+      <link>https://johnforstmeier.com/notes/reading-bad-blood/</link>
       <pubDate>Thu, 07 Jan 2021 08:30:00 -0500</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/reading-bad-blood/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-bad-blood/</guid>
       <description>This piece is on Bad Blood [1] by John Carreyrou [2].
 I was familiar with the story of Elizabeth Holmes [3] and her company Theranos [4] but the book provided greater insight into how she interacted with people regarding her work.
 It is unclear whether her extreme focus on &amp;ldquo;her mission&amp;rdquo; was a manipulative effort or actual self-denial; her actions could support both positions.
@@ -25,10 +25,10 @@ There are many instances of Holmes legally pursuing whistleblowers and publicly 
     
     <item>
       <title>Pharmaceuticals As Software</title>
-      <link>https://forstmeier.github.io/notes/pharma-software/</link>
+      <link>https://johnforstmeier.com/notes/pharma-software/</link>
       <pubDate>Thu, 10 Sep 2020 08:25:32 -0400</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/pharma-software/</guid>
+      <guid>https://johnforstmeier.com/notes/pharma-software/</guid>
       <description>Some characteristics of pharmaceuticals make them comparable to software. Basically software and pharmaceuticals have:
  high development costs low distribution costs  For example, both require a large, upfront resource investment in research and composition. After initial R&amp;amp;D expenses, both are relatively easily manufactured and distributed at scale.
 Knowing this, pharmaceuticals may be well placed to leverage wide-reaching treatments while reducing healthcare costs. Additionally, with precision medicine [1], highly-focused solutions can be developed or even compounded on-demand for individual use to increase effectiveness.</description>

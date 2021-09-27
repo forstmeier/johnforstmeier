@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on John Forstmeier</title>
-    <link>https://forstmeier.github.io/tags/software/</link>
+    <link>https://johnforstmeier.com/tags/software/</link>
     <description>Recent content in software on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jul 2021 08:30:00 -0400</lastBuildDate>
     
-	<atom:link href="https://forstmeier.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnforstmeier.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Supporting Physical</title>
-      <link>https://forstmeier.github.io/notes/software-supporting-physical/</link>
+      <link>https://johnforstmeier.com/notes/software-supporting-physical/</link>
       <pubDate>Tue, 20 Jul 2021 08:30:00 -0400</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/software-supporting-physical/</guid>
+      <guid>https://johnforstmeier.com/notes/software-supporting-physical/</guid>
       <description>It&amp;rsquo;s somewhat of an obvious statement, but software is best utilized when directly improving the physical world. That&amp;rsquo;s something that I think can be lost from the software developer and venture capital perspective. Keeping the &amp;ldquo;world of atoms&amp;rdquo; at the forefront can help truly realize the value of software by positioning it accordingly.</description>
     </item>
     
     <item>
       <title>Initial Backwards Compatibility</title>
-      <link>https://forstmeier.github.io/notes/initial-backwards-compatibility/</link>
+      <link>https://johnforstmeier.com/notes/initial-backwards-compatibility/</link>
       <pubDate>Thu, 15 Apr 2021 08:45:00 -0400</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/initial-backwards-compatibility/</guid>
+      <guid>https://johnforstmeier.com/notes/initial-backwards-compatibility/</guid>
       <description>MVPs (&amp;ldquo;minimum viable products&amp;rdquo;) shouldn&amp;rsquo;t be built in a way to handle a wide range of future use cases.
 For example, an MVP for an API-based service shouldn&amp;rsquo;t focus on accommodating future expansions in its first iteration. Constructing a simple, albeit rigid, pattern addressing the immediate need is the goal. If no one is using the API, focusing on delivering something that can be used to gather feedback is more important than planning for every eventuality.</description>
     </item>
     
     <item>
       <title>Social Media Impact</title>
-      <link>https://forstmeier.github.io/notes/social-media-impact/</link>
+      <link>https://johnforstmeier.com/notes/social-media-impact/</link>
       <pubDate>Wed, 27 Jan 2021 08:30:00 -0500</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/social-media-impact/</guid>
+      <guid>https://johnforstmeier.com/notes/social-media-impact/</guid>
       <description>There is an interesting series of questions that can be raised regarding social media listed below.
  Has the net impact of social media been positive or negative in developed nations? Has the net impact of social media been positive or negative in underdeveloped nations? If there is a difference in the answers to those questions, what causes the disparity?  These services have contributed positively and negatively to the world - identifying what distribution these contributions take would be valuable in helping to understand their proper function.</description>
     </item>
     
     <item>
       <title>Immediate Testing</title>
-      <link>https://forstmeier.github.io/notes/immediate-testing/</link>
+      <link>https://johnforstmeier.com/notes/immediate-testing/</link>
       <pubDate>Tue, 22 Dec 2020 10:45:00 -0500</pubDate>
       
-      <guid>https://forstmeier.github.io/notes/immediate-testing/</guid>
+      <guid>https://johnforstmeier.com/notes/immediate-testing/</guid>
       <description>Continuously testing entire code repositories increases the ability to introduce rapid changes. Being able to do this in early stages, such as the MVP, is highly valuable.
 Simple approaches, like adding a unit_tests script to the repo containing just a go test ./... -coverage command [1][2] achieve this. Even though it would initially be triggered manually, doing so would provide value to the developer even before a complete CI/CD pipeline could be established.</description>
     </item>
