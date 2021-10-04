@@ -6,10 +6,20 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Sep 2021 08:15:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 23:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimum Value Delivery</title>
+      <link>https://johnforstmeier.com/notes/minimum-value-delivery/</link>
+      <pubDate>Sun, 03 Oct 2021 23:00:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/minimum-value-delivery/</guid>
+      <description>Something that I have to keep reminding myself is that products aren&amp;rsquo;t just products, they&amp;rsquo;re a value delivery system. Products will only be adopted when value is received by using them. This means that the initial build of the product should contain the absolute minimum resources required to begin delivering that value.
+Improvements can be rolled out in later iterations, even significant breaking changes [1], so long as value delivery can be immediately proven.</description>
+    </item>
     
     <item>
       <title>Reading: The Second World Wars</title>
