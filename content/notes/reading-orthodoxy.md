@@ -19,7 +19,7 @@ Chesterton earns the nickname the "prince of paradox"; every chapter contains mu
 
 The contradictions in the word choice are deliberate but surprisingly astute. 
 
-Another interesting aspect is how the book, published over 100 years ago, directly addresses issues faced today - some of which were even highlighted as recently as the publication of _Cynical Theories_ [[3](https://forstmeier.github.io/notes/reading-cynical-theories-1-0/ "Reading: Cynical Theories - Forstmeier")]. The "Suicide of Thought" chapter states:
+Another interesting aspect is how the book, published over 100 years ago, directly addresses issues faced today - some of which were even highlighted as recently as the publication of _Cynical Theories_ [[3](https://johnforstmeier.com/notes/reading-cynical-theories-1-0/ "Reading: Cynical Theories - Forstmeier")]. The "Suicide of Thought" chapter states:
 
 > The modern world is full of the old Christian virtues gone mad.
 

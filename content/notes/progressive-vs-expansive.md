@@ -28,7 +28,7 @@ However, a more progressive strategy would be to encourage better jobs and train
 
 **College education**
 
-This topic has been previously touched on in prior notes [[3](https://forstmeier.github.io/notes/progressive-education/ "Progressive Education - Forstmeier")][[4](https://forstmeier.github.io/notes/student-value-extraction/ "Student Value Extraction - Forstmeier")][[5](https://forstmeier.github.io/notes/splitting-education/ "Splitting Education - Forstmeier")] and a summary note is worth including. Currently the progressive approach is to _expand_ enrollment without questioning its modern value.
+This topic has been previously touched on in prior notes [[3](https://johnforstmeier.com/notes/progressive-education/ "Progressive Education - Forstmeier")][[4](https://johnforstmeier.com/notes/student-value-extraction/ "Student Value Extraction - Forstmeier")][[5](https://johnforstmeier.com/notes/splitting-education/ "Splitting Education - Forstmeier")] and a summary note is worth including. Currently the progressive approach is to _expand_ enrollment without questioning its modern value.
 
 An actually progressive strategy would be to both identify whether college is appropriate for job training and whether alternative education means are more effective. Accounting for costs and benefits in a changing landscape is forward looking.
 
