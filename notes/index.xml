@@ -6,10 +6,21 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Oct 2021 23:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 08:45:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Political Brainstorm No. 2</title>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-2/</link>
+      <pubDate>Thu, 07 Oct 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-2/</guid>
+      <description>Here are some more loose ideas on simple ways to potentially improve the U.S. political system.
+Ideas
+ Quantifiable legislative goals: during campaigns, politicians should pledge, or maybe even be required, to set out a handful of specific policy goals with quantifiable outcomes (and preset measurement criteria). If these goals were met, assuming a successful election, they could run again after their term expires.   Goal: move elections towards data-driven performers.</description>
+    </item>
     
     <item>
       <title>Minimum Value Delivery</title>
@@ -440,11 +451,11 @@ Avoiding &amp;ldquo;representing yourself&amp;rdquo; [3] in the product removes 
     </item>
     
     <item>
-      <title>Political Brainstorm</title>
-      <link>https://johnforstmeier.com/notes/political-brainstorm/</link>
+      <title>Political Brainstorm No. 1</title>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-1/</link>
       <pubDate>Thu, 15 Oct 2020 08:40:00 -0400</pubDate>
       
-      <guid>https://johnforstmeier.com/notes/political-brainstorm/</guid>
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-1/</guid>
       <description>Below is a loose, unordered collection of &amp;ldquo;radical&amp;rdquo;, but practically implementable, ideas for the U.S. political system. These have not been evaluated for completeness - this is a braindump. However, they may be expanded on individually in the future.
 Ideas
  Comprehensive Federal term limits: all Federal-level roles, including the Vice Presidency, the Senate, the House, and the Supreme Court, would be term-limited. Service could be potentially capped at eight years each.</description>
