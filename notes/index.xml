@@ -6,10 +6,21 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Oct 2021 13:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Better Bootcamp</title>
+      <link>https://johnforstmeier.com/notes/better-bootcamp/</link>
+      <pubDate>Tue, 12 Oct 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/better-bootcamp/</guid>
+      <description>Coding bootcamps seem to focus heavily on the coding aspect of development work. While teaching coding is important, I think bootcamps could differentiate themselves significantly by focusing on developing team-based skills and experience.
+For example they could:
+ provide students with guidance on how to receive and conduct pull request reviews go over designing and maintaining robust CI/CD pipelines instill best-practices for writing unit and integration tests participate in tasking stories and organizing development sprints  And this could potentially be done within the scope of a pre-existing open source project.</description>
+    </item>
     
     <item>
       <title>Longevity Wish</title>
