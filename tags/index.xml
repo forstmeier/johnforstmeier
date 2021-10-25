@@ -6,10 +6,28 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Oct 2021 08:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 08:45:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>economics</title>
+      <link>https://johnforstmeier.com/tags/economics/</link>
+      <pubDate>Mon, 25 Oct 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://johnforstmeier.com/tags/work/</link>
+      <pubDate>Mon, 25 Oct 2021 08:45:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>education</title>
@@ -57,15 +75,6 @@
     </item>
     
     <item>
-      <title>work</title>
-      <link>https://johnforstmeier.com/tags/work/</link>
-      <pubDate>Sun, 03 Oct 2021 23:00:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>combat</title>
       <link>https://johnforstmeier.com/tags/combat/</link>
       <pubDate>Wed, 22 Sep 2021 08:15:00 -0400</pubDate>
@@ -98,15 +107,6 @@
       <pubDate>Fri, 17 Sep 2021 14:00:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/theology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>https://johnforstmeier.com/tags/economics/</link>
-      <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/economics/</guid>
       <description></description>
     </item>
     
