@@ -6,7 +6,7 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 08:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>economics</title>
       <link>https://johnforstmeier.com/tags/economics/</link>
-      <pubDate>Mon, 25 Oct 2021 08:45:00 -0400</pubDate>
+      <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://johnforstmeier.com/tags/politics/</link>
+      <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://johnforstmeier.com/tags/social/</link>
+      <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/social/</guid>
       <description></description>
     </item>
     
@@ -66,15 +84,6 @@
     </item>
     
     <item>
-      <title>politics</title>
-      <link>https://johnforstmeier.com/tags/politics/</link>
-      <pubDate>Thu, 07 Oct 2021 08:45:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>combat</title>
       <link>https://johnforstmeier.com/tags/combat/</link>
       <pubDate>Wed, 22 Sep 2021 08:15:00 -0400</pubDate>
@@ -89,15 +98,6 @@
       <pubDate>Wed, 22 Sep 2021 08:15:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://johnforstmeier.com/tags/social/</link>
-      <pubDate>Fri, 17 Sep 2021 14:00:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/social/</guid>
       <description></description>
     </item>
     

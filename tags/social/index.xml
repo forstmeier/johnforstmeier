@@ -6,10 +6,20 @@
     <description>Recent content in social on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 14:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 08:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reputation Over Regulation</title>
+      <link>https://johnforstmeier.com/notes/reputation-over-regulation/</link>
+      <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/reputation-over-regulation/</guid>
+      <description>Regulations on business interactions between entities can be arbitrary and typically come from a highly centralized source. Market participants must either lobby for changes (which ends up being dominated by larger financial players) or submit to regulation (which all ultimately have to anyway).
+Finding ways to prioritize reputation markets, wherever feasible, may be a better alternative. Members of the given market would build a reputation through participation and staking value to have &amp;ldquo;skin in the game&amp;rdquo; and increase the cost to potential manipulators [1].</description>
+    </item>
     
     <item>
       <title>Imperfect Vessel</title>
