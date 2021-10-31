@@ -6,4 +6,4 @@ tags: [
 	"miscellaneous",
 ]
 ---
-> I want longevity to manifest so that exploring the cosmos for a decade only feels like a year.
+> I want longevity to manifest so that exploring the cosmos for a decade only feels like a day.
