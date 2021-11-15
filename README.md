@@ -4,7 +4,9 @@
 
 ## Description
 
-**forstmeier.github.io** is the code repository and hosting platform for John Forstmeier's personal website. This is primarily a notes space with links to relevant external profiles.
+**forstmeier.github.io** is the code repository and hosting platform for John Forstmeier's personal website. This is primarily a notes space with links to relevant external profiles.  
+
+The site is built using a custom, embedded Hugo theme called **forstmeier** and may be copied and modified as needed.  
 
 ## Notes
 

@@ -1,6 +1,6 @@
 baseURL: "https://johnforstmeier.com/"
 languageCode: "en-us"
 title: "John Forstmeier"
-theme: "notes"
+theme: "forstmeier"
 publishdir: ""
 staticDir: "static"
