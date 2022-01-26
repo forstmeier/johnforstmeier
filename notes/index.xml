@@ -6,10 +6,20 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 10:15:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 16:43:32 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Make Tools</title>
+      <link>https://johnforstmeier.com/notes/make-tools/</link>
+      <pubDate>Wed, 26 Jan 2022 16:43:32 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/make-tools/</guid>
+      <description>If you can&amp;rsquo;t do a thing, make tools for those who can.
+ If you find yourself in a creative slump, look around and see what other people are working on. Build them something that would make them even more productive.</description>
+    </item>
     
     <item>
       <title>Indirect Participation</title>
