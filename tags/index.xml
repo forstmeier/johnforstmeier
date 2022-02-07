@@ -6,10 +6,28 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 16:43:32 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 08:51:11 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://johnforstmeier.com/tags/philosophy/</link>
+      <pubDate>Mon, 07 Feb 2022 08:51:11 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>https://johnforstmeier.com/tags/theology/</link>
+      <pubDate>Mon, 07 Feb 2022 08:51:11 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/theology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>creativity</title>
@@ -111,29 +129,11 @@
     </item>
     
     <item>
-      <title>theology</title>
-      <link>https://johnforstmeier.com/tags/theology/</link>
-      <pubDate>Fri, 17 Sep 2021 14:00:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/theology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>finance</title>
       <link>https://johnforstmeier.com/tags/finance/</link>
       <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://johnforstmeier.com/tags/philosophy/</link>
-      <pubDate>Fri, 14 May 2021 08:45:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/philosophy/</guid>
       <description></description>
     </item>
     
