@@ -6,10 +6,28 @@
     <description>Recent content in Tags on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Feb 2022 08:51:11 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 08:32:46 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>law</title>
+      <link>https://johnforstmeier.com/tags/law/</link>
+      <pubDate>Wed, 09 Feb 2022 08:32:46 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://johnforstmeier.com/tags/social/</link>
+      <pubDate>Wed, 09 Feb 2022 08:32:46 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/tags/social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>philosophy</title>
@@ -62,15 +80,6 @@
       <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://johnforstmeier.com/tags/social/</link>
-      <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/social/</guid>
       <description></description>
     </item>
     
@@ -134,15 +143,6 @@
       <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>law</title>
-      <link>https://johnforstmeier.com/tags/law/</link>
-      <pubDate>Fri, 26 Mar 2021 08:30:00 -0400</pubDate>
-      
-      <guid>https://johnforstmeier.com/tags/law/</guid>
       <description></description>
     </item>
     
