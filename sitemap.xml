@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://johnforstmeier.com/</loc>
-    <lastmod>2022-02-09T08:32:46-05:00</lastmod>
+    <loc>https://johnforstmeier.com/notes/bootstrapped-vs-backed/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://johnforstmeier.com/tags/law/</loc>
-    <lastmod>2022-02-09T08:32:46-05:00</lastmod>
+    <loc>https://johnforstmeier.com/tags/economics/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnforstmeier.com/tags/finance/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnforstmeier.com/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://johnforstmeier.com/notes/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnforstmeier.com/tags/</loc>
+    <lastmod>2022-03-01T07:41:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnforstmeier.com/tags/law/</loc>
     <lastmod>2022-02-09T08:32:46-05:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://johnforstmeier.com/tags/social/</loc>
-    <lastmod>2022-02-09T08:32:46-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnforstmeier.com/tags/</loc>
     <lastmod>2022-02-09T08:32:46-05:00</lastmod>
   </url>
   
@@ -65,11 +80,6 @@
   <url>
     <loc>https://johnforstmeier.com/tags/work/</loc>
     <lastmod>2022-01-08T10:15:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnforstmeier.com/tags/economics/</loc>
-    <lastmod>2021-10-29T08:30:00-04:00</lastmod>
   </url>
   
   <url>
@@ -155,11 +165,6 @@
   <url>
     <loc>https://johnforstmeier.com/notes/future-homo-species/</loc>
     <lastmod>2021-08-14T12:30:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://johnforstmeier.com/tags/finance/</loc>
-    <lastmod>2021-07-22T08:30:00-04:00</lastmod>
   </url>
   
   <url>

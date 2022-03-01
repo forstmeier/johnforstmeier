@@ -6,10 +6,21 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Feb 2022 08:32:46 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 07:41:45 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bootstrapped vs Backed</title>
+      <link>https://johnforstmeier.com/notes/bootstrapped-vs-backed/</link>
+      <pubDate>Tue, 01 Mar 2022 07:41:45 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/bootstrapped-vs-backed/</guid>
+      <description>Startups can generally finance via bootstrapping or venture capital backing or some combination of the two (ignoring straight debt financing as it&amp;rsquo;s atypical in this scenario).
+Going forward, pure software and SaaS companies are likely to start to focus on the former while hard-tech startups with a physical component will likely dominate the later.
+The former has increasingly lower barriers for entry (hosting, tooling, etc.) - this means it&amp;rsquo;s a more highly competitive field with lower expected upside potential for each startup.</description>
+    </item>
     
     <item>
       <title>Private Prison Incentives</title>
