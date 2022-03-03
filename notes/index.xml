@@ -6,10 +6,21 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 07:41:45 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2022 08:43:46 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAFO Method</title>
+      <link>https://johnforstmeier.com/notes/fafo-method/</link>
+      <pubDate>Thu, 03 Mar 2022 08:43:46 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/fafo-method/</guid>
+      <description>An approach I&amp;rsquo;ve been thinking about is something I&amp;rsquo;m dubbing the &amp;ldquo;FAFO Method&amp;rdquo; or &amp;ldquo;fuck around, find out&amp;rdquo;.
+Basically, this boils down to:
+ Learn the minimum about an idea to be dangerous Quickly iterate and implement the idea  It&amp;rsquo;s not quite a &amp;ldquo;see what sticks&amp;rdquo; method because you still want to evaluate and prioritize how you spend your time prior to spending it. And then on top of that, you want to minimize the time actually spent doing the thing.</description>
+    </item>
     
     <item>
       <title>Bootstrapped vs Backed</title>
