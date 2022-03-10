@@ -6,10 +6,21 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 08:43:46 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2022 08:42:24 -0500</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software Development Emotional Cycle</title>
+      <link>https://johnforstmeier.com/notes/software-development-emotional-cycle/</link>
+      <pubDate>Thu, 10 Mar 2022 08:42:24 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/software-development-emotional-cycle/</guid>
+      <description>Writing software typically occurs in rapid iterations and can have a similarly rapid emotional cycle attached to the work. Personally, this can be mapped to confidence over time in the plot below.
+The pattern goes something like this:
+ confidence increases as software is shipped something breaks which halts the rising confidence &amp;ldquo;Why did I ever choose to work in software?&amp;rdquo; =&amp;gt; self-loathing confidence moves lower while the problem is worked on something fixes the problem bottoming the drop &amp;ldquo;Why did I think I could do this?</description>
+    </item>
     
     <item>
       <title>FAFO Method</title>
