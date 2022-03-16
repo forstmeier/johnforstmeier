@@ -6,10 +6,22 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 08:42:24 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 18:15:16 -0400</lastBuildDate>
     
 	<atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading: Chaos Monkeys</title>
+      <link>https://johnforstmeier.com/notes/reading-chaos-monkeys/</link>
+      <pubDate>Wed, 16 Mar 2022 18:15:16 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/reading-chaos-monkeys/</guid>
+      <description>This is a brief summary of my takeaways from Chaos Monkeys [1] by Antonio Garcia Martinez [2].
+It&amp;rsquo;s a phenomenal education without the textbook.
+In particular, the way Martinez recounts navigating the interpersonal relationships in his professional endeavours is highly valuable. It is something that can only be taught directly (your own experience) or recounted (his own experience) - doing so in a classroom would be absurd and stilted.
+Each pivotal moment felt like Martinez was managing individual incentives for the involved parties and netting them against each other in order to optimize each outcome.</description>
+    </item>
     
     <item>
       <title>Software Development Emotional Cycle</title>
