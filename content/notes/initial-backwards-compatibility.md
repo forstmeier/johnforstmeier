@@ -2,11 +2,7 @@
 title: "Initial Backwards Compatibility"
 date: 2021-04-15T08:45:00-04:00
 draft: false
-tags: [
-	"software",
-]
 ---
-
 MVPs ("minimum viable products") shouldn't be built in a way to handle a wide range of future use cases.
 
 For example, an MVP for an API-based service shouldn't focus on accommodating future expansions in its first iteration. Constructing a simple, albeit rigid, pattern addressing the _immediate_ need is the goal. If no one is using the API, focusing on delivering something that can be used to gather feedback is more important than planning for every eventuality.

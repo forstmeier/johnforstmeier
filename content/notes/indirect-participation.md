@@ -2,10 +2,6 @@
 title: "Indirect Participation"
 date: 2022-01-08T10:15:00-05:00
 draft: false
-tags: [
-	"creativity",
-	"work",
-]
 ---
 > If you can't do a thing, build tools for those who can.
 

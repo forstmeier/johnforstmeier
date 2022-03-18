@@ -2,11 +2,6 @@
 title: "Democratic Competition"
 date: 2019-07-06T19:19:27-04:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"law",
-]
 ---
 The state is a **monopoly** on legislation; democracy is out best way of introducing **competition**.
 

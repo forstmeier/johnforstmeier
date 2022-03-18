@@ -2,9 +2,6 @@
 title: "Radical Rational"
 date: 2021-02-08T08:30:00-05:00
 draft: false
-tags: [
-	"philosophy",
-]
 ---
 > Radically hold rational positions
 

@@ -2,9 +2,6 @@
 title: "Family Blood"
 date: 2019-08-16T09:01:38-04:00
 draft: false
-tags: [
-	"miscellaneous",
-]
 ---
 > Family is more than blood.
 

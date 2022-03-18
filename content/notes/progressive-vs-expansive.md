@@ -2,13 +2,7 @@
 title: "Progressive vs Expansive"
 date: 2021-03-19T08:45:00-04:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"economics",
-]
 ---
-
 The term "progressive" has been conflated with the word "expansive" with regards to legislative initiatives. In some ways, this is similar to the theme in Peter Thiel's [[1](https://en.wikipedia.org/wiki/Peter_Thiel "Peter Thiel - Wikipedia")] book _Zero to One_ [[2](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?crid=1A6QLH3ITBA8X&dchild=1&keywords=zero+to+one&qid=1615985599&sprefix=zero+to+one%2Caps%2C153&sr=8-1 "Zero to One - Amazon")].
 
 - moving 0 -> 1 creates an entirely new solution

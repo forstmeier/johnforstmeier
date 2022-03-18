@@ -2,10 +2,6 @@
 title: "Healthy Authority Skeptic"
 date: 2020-06-06T08:33:02-04:00
 draft: false
-tags: [
-	"social",
-	"politics",
-]
 ---
 Being a healthy skeptic of authority is a good thing. The keyword being **healthy**.
 

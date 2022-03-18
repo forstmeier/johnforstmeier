@@ -53,539 +53,398 @@
 </div>
 
 <h2>Notes</h2>
-<script>
-	function no_filter() {
-		let notes = document.getElementsByClassName('note');
-		for (let note of notes) {
-			note.style.display = "";
-		}
-	}
-
-	function filter(name) {
-		let notes = document.getElementsByClassName('note');
-		for (let note of notes) {
-			if (note.className.includes(name)) {
-				note.style.display = "";
-			} else {
-				note.style.display = "none";
-			}
-		}
-	}
-</script>
-<h4>Tags</h4>
-<div class="filters">
-	<button onclick="no_filter()">all</button>
-	<button onclick="filter('philosophy')">philosophy</button>
-	<button onclick="filter('social')">social</button>
-	<button onclick="filter('creativity')">creativity</button>
-	<button onclick="filter('work')">work</button>
-	<button onclick="filter('politics')">politics</button>
-	<button onclick="filter('miscellaneous')">miscellaneous</button>
-	<button onclick="filter('theology')">theology</button>
-	<button onclick="filter('logic')">logic</button>
-	<button onclick="filter('open-source')">open-source</button>
-	<button onclick="filter('economics')">economics</button>
-	<button onclick="filter('leadership')">leadership</button>
-	<button onclick="filter('law')">law</button>
-	<button onclick="filter('biotech')">biotech</button>
-	<button onclick="filter('pharmaceutical')">pharmaceutical</button>
-	<button onclick="filter('energy')">energy</button>
-	<button onclick="filter('education')">education</button>
-	<button onclick="filter('reading')">reading</button>
-	<button onclick="filter('software')">software</button>
-	<button onclick="filter('finance')">finance</button>
-	<button onclick="filter('combat')">combat</button>
-</div>
 <ul>
 	
-	<li class="note [social creativity reading software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-chaos-monkeys/">Reading: Chaos Monkeys</a>
-		<span class="noteinfo"> [social creativity reading software]</span>
 	</li>
 	
-	<li class="note [software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/software-development-emotional-cycle/">Software Development Emotional Cycle</a>
-		<span class="noteinfo"> [software]</span>
 	</li>
 	
-	<li class="note [creativity work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/fafo-method/">FAFO Method</a>
-		<span class="noteinfo"> [creativity work]</span>
 	</li>
 	
-	<li class="note [economics finance]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/bootstrapped-vs-backed/">Bootstrapped vs Backed</a>
-		<span class="noteinfo"> [economics finance]</span>
 	</li>
 	
-	<li class="note [social law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/private-prison-incentives/">Private Prison Incentives</a>
-		<span class="noteinfo"> [social law]</span>
 	</li>
 	
-	<li class="note [philosophy theology]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/evolving-primate-ethics/">Evolving Primate Ethics</a>
-		<span class="noteinfo"> [philosophy theology]</span>
 	</li>
 	
-	<li class="note [creativity]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/make-tools/">Make Tools</a>
-		<span class="noteinfo"> [creativity]</span>
 	</li>
 	
-	<li class="note [creativity work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/indirect-participation/">Indirect Participation</a>
-		<span class="noteinfo"> [creativity work]</span>
 	</li>
 	
-	<li class="note [social politics economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reputation-over-regulation/">Reputation Over Regulation</a>
-		<span class="noteinfo"> [social politics economics]</span>
 	</li>
 	
-	<li class="note [work economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/silicon-valley-diffusion/">Silicon Valley Diffusion</a>
-		<span class="noteinfo"> [work economics]</span>
 	</li>
 	
-	<li class="note [open-source education software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/better-bootcamp/">Better Bootcamp</a>
-		<span class="noteinfo"> [open-source education software]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/longevity-wish/">Longevity Wish</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [politics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/political-brainstorm-no-2/">Political Brainstorm No. 2</a>
-		<span class="noteinfo"> [politics]</span>
 	</li>
 	
-	<li class="note [work software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/minimum-value-delivery/">Minimum Value Delivery</a>
-		<span class="noteinfo"> [work software]</span>
 	</li>
 	
-	<li class="note [reading combat]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-the-second-world-wars/">Reading: The Second World Wars</a>
-		<span class="noteinfo"> [reading combat]</span>
 	</li>
 	
-	<li class="note [social theology]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/imperfect-vessel/">Imperfect Vessel</a>
-		<span class="noteinfo"> [social theology]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/more-impressionism/">More Impressionism</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/future-homo-species/">Future Homo Species</a>
-		<span class="noteinfo"> [social]</span>
 	</li>
 	
-	<li class="note [economics finance]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/retail-hft/">Retail HFT</a>
-		<span class="noteinfo"> [economics finance]</span>
 	</li>
 	
-	<li class="note [software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/software-supporting-physical/">Software Supporting Physical</a>
-		<span class="noteinfo"> [software]</span>
 	</li>
 	
-	<li class="note [social work economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/human-economic-element/">Human Economic Element</a>
-		<span class="noteinfo"> [social work economics]</span>
 	</li>
 	
-	<li class="note [social politics education reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-the-coddling-of-the-american-mind/">Reading: The Coddling of the American Mind</a>
-		<span class="noteinfo"> [social politics education reading]</span>
 	</li>
 	
-	<li class="note [philosophy social theology]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/orthodoxy-rising/">Orthodoxy Rising</a>
-		<span class="noteinfo"> [philosophy social theology]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/stationary-radical/">Stationary Radical</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/initial-backwards-compatibility/">Initial Backwards Compatibility</a>
-		<span class="noteinfo"> [software]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/right-vs-reasonable/">Right vs Reasonable</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [economics law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/dangerous-markets/">Dangerous Markets</a>
-		<span class="noteinfo"> [economics law]</span>
 	</li>
 	
-	<li class="note [social politics economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/progressive-vs-expansive/">Progressive vs Expansive</a>
-		<span class="noteinfo"> [social politics economics]</span>
 	</li>
 	
-	<li class="note [work theology]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/marian-dedicated-work/">Marian-Dedicated Work</a>
-		<span class="noteinfo"> [work theology]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/numerical-objectives/">Numerical Objectives</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [philosophy social theology reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-religion-and-rocketry/">Reading: Religion and Rocketry</a>
-		<span class="noteinfo"> [philosophy social theology reading]</span>
 	</li>
 	
-	<li class="note [social leadership]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/adversity-figures/">Adversity Figures</a>
-		<span class="noteinfo"> [social leadership]</span>
 	</li>
 	
-	<li class="note [philosophy]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/radical-rational/">Radical Rational</a>
-		<span class="noteinfo"> [philosophy]</span>
 	</li>
 	
-	<li class="note [philosophy theology reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-orthodoxy/">Reading: Orthodoxy</a>
-		<span class="noteinfo"> [philosophy theology reading]</span>
 	</li>
 	
-	<li class="note [social politics software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/social-media-impact/">Social Media Impact</a>
-		<span class="noteinfo"> [social politics software]</span>
 	</li>
 	
-	<li class="note [social education]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/progressive-education/">Progressive Education</a>
-		<span class="noteinfo"> [social education]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/amortal-death/">Amortal Death</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social economics reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-utah-economic-exceptionalism/">Reading: Utah’s Economic Exceptionalism</a>
-		<span class="noteinfo"> [social economics reading]</span>
 	</li>
 	
-	<li class="note [social leadership]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/social-capital-preference/">Social Capital Preference</a>
-		<span class="noteinfo"> [social leadership]</span>
 	</li>
 	
-	<li class="note [social politics law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/encapsulated-majorities/">Encapsulated Majorities</a>
-		<span class="noteinfo"> [social politics law]</span>
 	</li>
 	
-	<li class="note [leadership biotech reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-bad-blood/">Reading: Bad Blood</a>
-		<span class="noteinfo"> [leadership biotech reading]</span>
 	</li>
 	
-	<li class="note [social education]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/student-value-extraction/">Student Value Extraction</a>
-		<span class="noteinfo"> [social education]</span>
 	</li>
 	
-	<li class="note [software]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/immediate-testing/">Immediate Testing</a>
-		<span class="noteinfo"> [software]</span>
 	</li>
 	
-	<li class="note [social politics economics reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-fratelli-tutti/">Reading: Fratelli Tutti</a>
-		<span class="noteinfo"> [social politics economics reading]</span>
 	</li>
 	
-	<li class="note [leadership]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/silent-action/">Silent Action</a>
-		<span class="noteinfo"> [leadership]</span>
 	</li>
 	
-	<li class="note [social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/noble-savage/">Noble Savage</a>
-		<span class="noteinfo"> [social]</span>
 	</li>
 	
-	<li class="note [philosophy social logic reading]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reading-cynical-theories/">Reading: Cynical Theories</a>
-		<span class="noteinfo"> [philosophy social logic reading]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/breathe/">Breathe</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/microservice-news/">Microservice News</a>
-		<span class="noteinfo"> [social]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/friend-disagreements/">Friend Disagreements</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/impressionism/">Impressionism</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social politics economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/citizens-dividend-competition/">Citizen&#39;s Dividend Competition</a>
-		<span class="noteinfo"> [social politics economics]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/anti-wozniak/">Anti-Wozniak</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [politics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/political-brainstorm-no-1/">Political Brainstorm No. 1</a>
-		<span class="noteinfo"> [politics]</span>
 	</li>
 	
-	<li class="note [social politics economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/citizens-dividend-vs-ubi/">Citizen&#39;s Dividend vs UBI</a>
-		<span class="noteinfo"> [social politics economics]</span>
 	</li>
 	
-	<li class="note [work education]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/splitting-education/">Splitting Education</a>
-		<span class="noteinfo"> [work education]</span>
 	</li>
 	
-	<li class="note [politics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/political-duopoloy/">Political Duopoloy</a>
-		<span class="noteinfo"> [politics]</span>
 	</li>
 	
-	<li class="note [social economics energy]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/georgism-and-energy/">Georgism and Energy</a>
-		<span class="noteinfo"> [social economics energy]</span>
 	</li>
 	
-	<li class="note [biotech pharmaceutical]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/pharma-software/">Pharmaceuticals As Software</a>
-		<span class="noteinfo"> [biotech pharmaceutical]</span>
 	</li>
 	
-	<li class="note [work leadership]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/small-team-skill/">Small Team Skill</a>
-		<span class="noteinfo"> [work leadership]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/born-with-nothing/">Born With Nothing</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social politics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/healthy-authority-skeptic/">Healthy Authority Skeptic</a>
-		<span class="noteinfo"> [social politics]</span>
 	</li>
 	
-	<li class="note [philosophy social law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/moral-laws/">Moral Laws</a>
-		<span class="noteinfo"> [philosophy social law]</span>
 	</li>
 	
-	<li class="note [work leadership]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/facilitating-decisions/">Facilitating Decisions</a>
-		<span class="noteinfo"> [work leadership]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/challenging-work/">Challenging Work</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [philosophy]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/happiness-vs-joy/">Happiness vs Joy</a>
-		<span class="noteinfo"> [philosophy]</span>
 	</li>
 	
-	<li class="note [economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/economic-mesas/">Economic Mesas</a>
-		<span class="noteinfo"> [economics]</span>
 	</li>
 	
-	<li class="note [work economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/reverse-equity/">Reverse Equity</a>
-		<span class="noteinfo"> [work economics]</span>
 	</li>
 	
-	<li class="note [philosophy social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/philosophic-ancestry/">Philosophic Ancestry</a>
-		<span class="noteinfo"> [philosophy social]</span>
 	</li>
 	
-	<li class="note [social ethics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/opportunities-for-good/">Opportunities For Good</a>
-		<span class="noteinfo"> [social ethics]</span>
 	</li>
 	
-	<li class="note [creativity]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/boring-problems/">Boring Problems</a>
-		<span class="noteinfo"> [creativity]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/conversation-percentages/">Conversation Percentages</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/first-sip/">First Sip</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [leadership combat]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/war-king/">War King</a>
-		<span class="noteinfo"> [leadership combat]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/facilitating-conversation/">Facilitating Conversation</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/core-project-principles/">Core Project Principles</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/requirements-over-process/">Requirements Over Process</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [creativity work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/minimal-resource-creativity/">Minimal Resource Creativity</a>
-		<span class="noteinfo"> [creativity work]</span>
 	</li>
 	
-	<li class="note [creativity]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/simple-solution-fun/">Simple Solution Fun</a>
-		<span class="noteinfo"> [creativity]</span>
 	</li>
 	
-	<li class="note [philosophy logic law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/natural-variables/">Natural Variables</a>
-		<span class="noteinfo"> [philosophy logic law]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/work-burnout/">Work Burnout</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
-	<li class="note [philosophy work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/increased-self-direction/">Increased Self-Direction</a>
-		<span class="noteinfo"> [philosophy work]</span>
 	</li>
 	
-	<li class="note [creativity work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/challenging-innovations/">Challenging Innovations</a>
-		<span class="noteinfo"> [creativity work]</span>
 	</li>
 	
-	<li class="note [work economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/sweat-equity-unification/">Sweat Equity Unification</a>
-		<span class="noteinfo"> [work economics]</span>
 	</li>
 	
-	<li class="note [social economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/microservice-economy/">Microservice Economy</a>
-		<span class="noteinfo"> [social economics]</span>
 	</li>
 	
-	<li class="note [economics work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/craftsmanship-pride/">Craftsmanship Pride</a>
-		<span class="noteinfo"> [economics work]</span>
 	</li>
 	
-	<li class="note [social economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/distributism-maker-ownership/">Distributism Maker Ownership</a>
-		<span class="noteinfo"> [social economics]</span>
 	</li>
 	
-	<li class="note [social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/statues/">Statues</a>
-		<span class="noteinfo"> [social]</span>
 	</li>
 	
-	<li class="note [philosophy theology]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/simple-truths/">Simple Truths</a>
-		<span class="noteinfo"> [philosophy theology]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/where-youre-from/">Where You&#39;re From</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [social]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/vulnerable-dignity/">Vulnerable Dignity</a>
-		<span class="noteinfo"> [social]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/friends-favors/">Friends Favors</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [miscellaneous]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/family-blood/">Family Blood</a>
-		<span class="noteinfo"> [miscellaneous]</span>
 	</li>
 	
-	<li class="note [creativity]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/unscripted-interactions/">Unscripted Interactions</a>
-		<span class="noteinfo"> [creativity]</span>
 	</li>
 	
-	<li class="note [social open-source economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/open-source-productivity/">Open Source Productivity</a>
-		<span class="noteinfo"> [social open-source economics]</span>
 	</li>
 	
-	<li class="note [social politics law]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/democratic-competition/">Democratic Competition</a>
-		<span class="noteinfo"> [social politics law]</span>
 	</li>
 	
-	<li class="note [social open-source economics]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/open-source-economic-good/">Open Source Economic Good</a>
-		<span class="noteinfo"> [social open-source economics]</span>
 	</li>
 	
-	<li class="note [work]">
+	<li class="note">
 		<a href="https://johnforstmeier.com/notes/working-with-others/">Working With Others</a>
-		<span class="noteinfo"> [work]</span>
 	</li>
 	
 </ul>

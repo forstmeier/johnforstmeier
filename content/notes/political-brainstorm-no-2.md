@@ -2,9 +2,6 @@
 title: "Political Brainstorm No. 2"
 date: 2021-10-07T08:45:00-04:00
 draft: false
-tags: [
-	"politics",
-]
 ---
 Here are some more loose ideas on simple ways to potentially improve the U.S. political system.
 

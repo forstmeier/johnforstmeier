@@ -2,9 +2,6 @@
 title: "Requirements Over Process"
 date: 2019-12-02T18:31:23-04:00
 draft: false
-tags: [
-	"work",
-]
 ---
 Favor requirements over processes while building. When you do need a process, automate it.
 

@@ -2,9 +2,6 @@
 title: "Facilitating Conversation"
 date: 2019-12-21T18:23:41-04:00
 draft: false
-tags: [
-	"work",
-]
 ---
 Sometimes facilitating conversation is more important than contributing to it.
 

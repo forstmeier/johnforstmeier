@@ -2,9 +2,6 @@
 title: "Simple Solution Fun"
 date: 2019-11-21T19:25:42-04:00
 draft: false
-tags: [
-	"creativity",
-]
 ---
 Building simple solutions is ***fun***.
 

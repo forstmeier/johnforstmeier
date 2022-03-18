@@ -2,10 +2,6 @@
 title: "Facilitating Decisions"
 date: 2020-04-23T08:41:55-04:00
 draft: false
-tags: [
-	"work",
-	"leadership",
-]
 ---
 The individuals best suited for making decisions on any solution are those closest to the problem. It is the leader's only job to facilitate these decisions. A leader should:
 

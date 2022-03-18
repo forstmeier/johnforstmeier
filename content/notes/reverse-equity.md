@@ -2,10 +2,6 @@
 title: "Reverse Equity"
 date: 2020-03-15T08:58:07-04:00
 draft: false
-tags: [
-	"work",
-	"economics",
-]
 ---
 Something to consider:
 

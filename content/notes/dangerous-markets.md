@@ -2,12 +2,7 @@
 title: "Dangerous Markets"
 date: 2021-03-26T08:30:00-04:00
 draft: false
-tags: [
-	"economics",
-	"law",
-]
 ---
-
 > Financial markets should be easy to enter but difficult to actively participate in.
 
 Encouraging reduced barriers to entry and limitations on participation improve price discovery through the removal of arbitrary restrictions. However, a _big_ caveat should be made to retail investors so that they're aware that they're very likely outgunned by the resources available to institutional investors.

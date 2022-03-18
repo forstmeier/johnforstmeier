@@ -2,9 +2,6 @@
 title: "Noble Savage"
 date: 2020-11-26T08:00:00-05:00
 draft: false
-tags: [
-	"social",
-]
 ---
 Sometimes prior stages of human development are presented as a model to emulate with claims the early _homo_ genuses better coexisted with their natural environment.
 

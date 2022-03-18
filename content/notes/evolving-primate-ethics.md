@@ -2,10 +2,6 @@
 title: "Evolving Primate Ethics"
 date: 2022-02-07T08:51:11-05:00
 draft: false
-tags: [
-	"philosophy",
-	"theology",
-]
 ---
 If we assume that non-human primates are experiencing evolutionary growth we may eventually face similar questions to those Lewis raises in _Religion and Rocketry_ [[1](https://johnforstmeier.com/notes/reading-religion-and-rocketry/ "Reading: Religion and Rocketry - Forstmeier")].
 

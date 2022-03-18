@@ -2,10 +2,6 @@
 title: "Increased Self-Direction"
 date: 2019-10-25T19:44:42-04:00
 draft: false
-tags: [
-	"philosophy",
-	"work",
-]
 ---
 The goal of increased individual self-direction requires providing both the *individual decision-making capacity* and the *resources to take action with*.
 

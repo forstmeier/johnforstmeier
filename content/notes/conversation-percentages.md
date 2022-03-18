@@ -2,9 +2,6 @@
 title: "Conversation Percentages"
 date: 2020-01-20T13:38:19-04:00
 draft: false
-tags: [
-	"miscellaneous",
-]
 ---
 So many people forget that fifty percent of every conversation between two people is silence.
 

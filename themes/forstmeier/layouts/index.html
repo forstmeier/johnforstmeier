@@ -3,54 +3,10 @@
 {{ partial "home.html" . }}
 
 <h2>Notes</h2>
-<script>
-	function no_filter() {
-		let notes = document.getElementsByClassName('note');
-		for (let note of notes) {
-			note.style.display = "";
-		}
-	}
-
-	function filter(name) {
-		let notes = document.getElementsByClassName('note');
-		for (let note of notes) {
-			if (note.className.includes(name)) {
-				note.style.display = "";
-			} else {
-				note.style.display = "none";
-			}
-		}
-	}
-</script>
-<h4>Tags</h4>
-<div class="filters">
-	<button onclick="no_filter()">all</button>
-	<button onclick="filter('philosophy')">philosophy</button>
-	<button onclick="filter('social')">social</button>
-	<button onclick="filter('creativity')">creativity</button>
-	<button onclick="filter('work')">work</button>
-	<button onclick="filter('politics')">politics</button>
-	<button onclick="filter('miscellaneous')">miscellaneous</button>
-	<button onclick="filter('theology')">theology</button>
-	<button onclick="filter('logic')">logic</button>
-	<button onclick="filter('open-source')">open-source</button>
-	<button onclick="filter('economics')">economics</button>
-	<button onclick="filter('leadership')">leadership</button>
-	<button onclick="filter('law')">law</button>
-	<button onclick="filter('biotech')">biotech</button>
-	<button onclick="filter('pharmaceutical')">pharmaceutical</button>
-	<button onclick="filter('energy')">energy</button>
-	<button onclick="filter('education')">education</button>
-	<button onclick="filter('reading')">reading</button>
-	<button onclick="filter('software')">software</button>
-	<button onclick="filter('finance')">finance</button>
-	<button onclick="filter('combat')">combat</button>
-</div>
 <ul>
 	{{ range .Site.RegularPages }}
-	<li class="note {{ .Params.tags }}">
+	<li class="note">
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
-		<span class="noteinfo"> {{ .Params.tags }}</span>
 	</li>
 	{{ end }}
 </ul>

@@ -2,10 +2,6 @@
 title: "Microservice Economy"
 date: 2019-10-15T19:54:39-04:00
 draft: false
-tags: [
-	"social",
-	"economics",
-]
 ---
 Large numbers of small producers reduces market consolidation and increases economic resiliency. Sort of an microservice economy.
 

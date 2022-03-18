@@ -2,11 +2,6 @@
 title: "Reputation Over Regulation"
 date: 2021-10-29T08:30:00-04:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"economics",
-]
 ---
 Regulations on business interactions between entities can be arbitrary and typically come from a highly centralized source. Market participants must either lobby for changes (which ends up being dominated by larger financial players) or submit to regulation (which all ultimately have to anyway).
 

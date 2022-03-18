@@ -2,10 +2,6 @@
 title: "Adversity Figures"
 date: 2021-02-10T08:45:00-05:00
 draft: false
-tags: [
-	"social",
-	"leadership",
-]
 ---
 Anecdotally to the observer, it seems that _national_ adversity produces **heroes** while _personal_ adversity produces **victims**.
 

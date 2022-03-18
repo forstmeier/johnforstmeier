@@ -2,9 +2,6 @@
 title: "Boring Problems"
 date: 2020-01-30T13:36:52-04:00
 draft: false
-tags: [
-	"creativity",
-]
 ---
 > Boring problems often have fascinating solutions.
 

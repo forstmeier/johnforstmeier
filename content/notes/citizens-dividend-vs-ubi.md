@@ -2,13 +2,7 @@
 title: "Citizen's Dividend vs UBI"
 date: 2020-10-08T08:15:06-04:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"economics",
-]
 ---
-
 The difference in the concepts of a _citizen's dividend_ and _universal basic income_ ("UBI") are laid out in the terms "dividend" and "income."
 
 | Feature   | Dividend                                 | Income                             |

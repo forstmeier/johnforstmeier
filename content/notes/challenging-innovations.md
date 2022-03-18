@@ -2,10 +2,6 @@
 title: "Challenging Innovations"
 date: 2019-10-22T19:48:26-04:00
 draft: false
-tags: [
-	"creativity",
-	"work",
-]
 ---
 Many innovations today focus on making life easier - why not build things that make life more **challenging**?
 

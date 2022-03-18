@@ -2,9 +2,6 @@
 title: "Software Development Emotional Cycle"
 date: 2022-03-10T08:42:24-05:00
 draft: false
-tags: [
-	"software",
-]
 ---
 Writing software typically occurs in rapid iterations and can have a similarly rapid emotional cycle attached to the work. Personally, this can be mapped to **confidence over time** in the plot below.
 

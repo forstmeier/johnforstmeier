@@ -2,9 +2,6 @@
 title: "Amortal Death"
 date: 2021-01-20T08:30:00-05:00
 draft: false
-tags: [
-	"miscellaneous",
-]
 ---
 > The moment we become amortal, God will have to kill us.
 

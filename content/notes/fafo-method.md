@@ -2,10 +2,6 @@
 title: "FAFO Method"
 date: 2022-03-03T08:43:46-05:00
 draft: false
-tags: [
-	"creativity",
-	"work",
-]
 ---
 An approach I've been thinking about is something I'm dubbing the **"FAFO Method"** or **"fuck around, find out"**.
 

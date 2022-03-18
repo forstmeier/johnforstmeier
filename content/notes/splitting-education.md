@@ -2,12 +2,7 @@
 title: "Splitting Education"
 date: 2020-09-30T08:06:23-04:00
 draft: false
-tags: [
-	"work",
-	"education",
-]
 ---
-
 Currently, there is a conflation between higher education and vocational training. Typical, four-year degrees are providing both a general education and serving as credentialing frequently required in the workforce. Separating these aspects could provide more tailored services to students based on interest and need.
 
 **Educational**

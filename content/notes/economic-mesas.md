@@ -2,9 +2,6 @@
 title: "Economic Mesas"
 date: 2020-03-20T08:54:56-04:00
 draft: false
-tags: [
-	"economics",
-]
 ---
 A **citizen's dividend** would create an "economic mesa" and establish a natural and humane border.
 

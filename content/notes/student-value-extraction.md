@@ -2,10 +2,6 @@
 title: "Student Value Extraction"
 date: 2020-12-30T08:00:00-05:00
 draft: false
-tags: [
-	"social",
-	"education",
-]
 ---
 As of the time of this writing, the average dropout rate for U.S. college freshmen is approximately 30%. Traditional four-year schools appear to be un/intentionally positioning for this to maximize value extraction from attending students.
 

@@ -2,9 +2,6 @@
 title: "Core Project Principles"
 date: 2019-12-12T18:29:30-04:00
 draft: false
-tags: [
-	"work",
-]
 ---
 > Collaboration, communication, community.
 

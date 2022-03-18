@@ -2,11 +2,6 @@
 title: "Natural Variables"
 date: 2019-11-11T19:28:28-04:00
 draft: false
-tags: [
-	"philosophy",
-	"logic",
-	"law",
-]
 ---
 Variables utilized in human decision making should be based in the *natural world* rather than *arbitrary selection*.
 

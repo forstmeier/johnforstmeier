@@ -2,10 +2,6 @@
 title: "Minimal Resource Creativity"
 date: 2019-11-25T19:22:03-04:00
 draft: false
-tags: [
-	"creativity",
-	"work",
-]
 ---
 It really seems like a minimal resource set necessitates creative solutions and efficient design.
 

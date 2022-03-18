@@ -2,13 +2,7 @@
 title: "Encapsulated Majorities"
 date: 2021-01-14T08:30:00-05:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"law",
-]
 ---
-
 Increased local political autonomy may reduce voting majorities to their smallest sphere of influence.  This would lead to many, independent, and encapsulated majorities operating within a larger, shared population.
 
 Several interesting points arise in this situation:

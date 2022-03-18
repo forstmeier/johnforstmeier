@@ -2,13 +2,7 @@
 title: "Better Bootcamp"
 date: 2021-10-12T08:30:00-04:00
 draft: false
-tags: [
-	"open-source",
-	"education",
-	"software",
-]
 ---
-
 Coding bootcamps seem to focus heavily on the _coding_ aspect of development work. While teaching coding is important, I think bootcamps could differentiate themselves significantly by focusing on developing team-based skills and experience.
 
 For example they could:

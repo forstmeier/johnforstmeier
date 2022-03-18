@@ -2,10 +2,6 @@
 title: "Sweat Equity Unification"
 date: 2019-10-18T19:50:54-04:00
 draft: false
-tags: [
-	"work",
-	"economics",
-]
 ---
 Companies that unite *shareholders* and *stakeholders* invest in their employees and community. And this happens at the same time.
 

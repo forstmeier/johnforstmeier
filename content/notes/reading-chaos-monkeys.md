@@ -2,12 +2,6 @@
 title: "Reading: Chaos Monkeys"
 date: 2022-03-16T18:15:16-04:00
 draft: false
-tags: [
-	"social",
-	"creativity",
-	"reading",
-	"software",
-]
 ---
 This is a brief summary of my takeaways from _Chaos Monkeys_ [[1](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458205/ref=sr_1_1?keywords=chaos+monkeys&qid=1647469106&s=books&sprefix=chaos+monkeys%2Cstripbooks%2C66&sr=1-1 "Chaos Monkeys - Amazon")] by Antonio Garcia Martinez [[2](https://antoniogarciamartinez.com/ "Antonio Garcia Martinez - Website")].
 

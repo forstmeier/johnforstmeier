@@ -2,10 +2,6 @@
 title: "Private Prison Incentives"
 date: 2022-02-09T08:32:46-05:00
 draft: false
-tags: [
-	"social",
-	"law",
-]
 ---
 Adjusting private prison contracts may better align their incentives with what the public expects from them as a service.
 

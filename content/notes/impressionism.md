@@ -2,11 +2,7 @@
 title: "Impressionism"
 date: 2020-11-05T08:30:00-05:00
 draft: false
-tags: [
-	"miscellaneous",
-]
 ---
-
 Impressionism [[1](https://en.wikipedia.org/wiki/Impressionism "Impressionism - Wikipedia")] as a painting style has a strong personal, albeit uninformed, appeal.
 
 The style prefers to see _everything_ in a given scope without focusing on _specific_ details. Produced images are more of a summary or a simplification of the subject which significantly reduces cognitive overhead in consuming these pieces.

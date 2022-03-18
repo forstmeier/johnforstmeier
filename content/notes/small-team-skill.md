@@ -2,10 +2,6 @@
 title: "Small Team Skill"
 date: 2020-09-03T08:20:01-04:00
 draft: false
-tags: [
-	"work",
-	"leadership",
-]
 ---
 One of the most important skills a _small_ team can collectively have is the ability to identify what they **don't need to build** for a _minimum viable product_ ("MVP").
 

@@ -23,14 +23,14 @@ body,
 html {
   height: 100%;
   width: 100%;
-	font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 
 button {
   color: #007CCF;
   border: none;
   outline: none;
-	cursor: pointer;
+  cursor: pointer;
 }
 
 code {
@@ -67,8 +67,7 @@ h4,
 hr,
 ol,
 p,
-ul,
-.filters {
+ul {
   margin-top: 1rem;
 }
 
@@ -106,13 +105,12 @@ td {
     width: 100%;
   }
 
-	h4,
-	.filters {
+  h4 {
     display: none;
   }
 
-	span.noteinfo {
-		visibility: hidden;
-		display: none;
-	}
+  span.noteinfo {
+    visibility: hidden;
+    display: none;
+  }
 }

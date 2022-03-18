@@ -2,11 +2,6 @@
 title: "Open Source Economic Good"
 date: 2019-06-26T19:29:30-04:00
 draft: false
-tags: [
-	"social",
-	"open-source",
-	"economics",
-]
 ---
 Open source software projects are a collaborative effort. Individual developers contribute to the betterment of the project and create a publicly available, shared resource.
 

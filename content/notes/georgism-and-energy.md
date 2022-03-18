@@ -2,13 +2,7 @@
 title: "Georgism and Energy"
 date: 2020-09-17T08:20:31-04:00
 draft: false
-tags: [
-	"social",
-	"economics",
-	"energy",
-]
 ---
-
 The **land value tax** ("LVT") at the center of Georgism directly encourages efficient land usage in energy production. Given that this core principal assesses taxes as a percentage of the value of the land held, it drives producers to establish the smallest physical footprint possible.
 
 If it were introduced, there would be an immediate impact to all existing energy producers:

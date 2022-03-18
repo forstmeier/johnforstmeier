@@ -2,10 +2,6 @@
 title: "Retail HFT"
 date: 2021-07-22T08:30:00-04:00
 draft: false
-tags: [
-	"economics",
-	"finance",
-]
 ---
 High-frequency trading ("HFT") [[1](https://en.wikipedia.org/wiki/High-frequency_trading "High-frequency trading - Wikipedia")] is often portrayed negatively and as "taking advantage" of retail investors through blindingly fast trading strategies.
 

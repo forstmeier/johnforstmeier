@@ -2,10 +2,6 @@
 title: "Pharmaceuticals As Software"
 date: 2020-09-10T08:25:32-04:00
 draft: false
-tags: [
-	"biotech",
-	"pharmaceutical",
-]
 ---
 Some characteristics of pharmaceuticals make them comparable to software. Basically software and pharmaceuticals have:
 

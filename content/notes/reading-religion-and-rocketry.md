@@ -2,14 +2,7 @@
 title: "Reading: Religion and Rocketry"
 date: 2021-02-24T08:25:00-05:00
 draft: false
-tags: [
-	"philosophy",
-	"social",
-	"theology",
-	"reading",
-]
 ---
-
 The short essay "Religion and Rocketry" from C.S. Lewis' [[1](https://en.wikipedia.org/wiki/C._S._Lewis "C.S. Lewis - Wikipedia")] collection _The World's Last Night_ [[2](https://www.amazon.com/Worlds-Last-Night-Other-Essays/dp/0156027712 "The World's Last Night - Amazon")] addresses the existence of extraterrestrial life.
 
 What's interesting about this piece is that it takes their existence for granted and digs into the theological and ethical implications their existence entails. Lewis poses a series of questions regarding their spiritual nature - two in particular ask whether the aliens are **fallen**, as we are, and what, if any, mechanism exists for their **redemption**.

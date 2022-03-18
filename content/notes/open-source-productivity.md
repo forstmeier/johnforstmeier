@@ -2,11 +2,6 @@
 title: "Open Source Productivity"
 date: 2019-07-16T18:57:39-04:00
 draft: false
-tags: [
-	"social",
-	"open-source",
-	"economics",
-]
 ---
 Maximizing productive output while maintaining individual rights and dignity is the primary concern in an increasingly automated workforce system. Open source caters to this scenario and provides hyper-productive individuals with a series of resources to leverage their output and effectively provide for consumers.
 

@@ -2,10 +2,6 @@
 title: "Silicon Valley Diffusion"
 date: 2021-10-25T08:45:00-04:00
 draft: false
-tags: [
-	"work",
-	"economics",
-]
 ---
 No single city needs to supplant the San Francisco Bay Area as a high-technology center in order for that area to lose its dominant position. An unofficial confederation of other locations, ranging from urban to rural, could each sap resources from the centralized Bay Area talent.
 

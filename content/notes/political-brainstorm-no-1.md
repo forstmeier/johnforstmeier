@@ -2,11 +2,7 @@
 title: "Political Brainstorm No. 1"
 date: 2020-10-15T08:40:00-04:00
 draft: false
-tags: [
-	"politics",
-]
 ---
-
 Below is a loose, unordered collection of "radical", but practically implementable, ideas for the U.S. political system. These have not been evaluated for completeness - this is a braindump. However, they may be expanded on individually in the future.
 
 **Ideas**

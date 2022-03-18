@@ -2,10 +2,6 @@
 title: "Reading: The Second World Wars"
 date: 2021-09-22T08:15:00-04:00
 draft: false
-tags: [
-	"reading",
-	"combat",
-]
 ---
 There are several interesting takeaways from Victor Davis Hanson's _The Second World Wars_ [[1](https://www.amazon.com/Second-World-Wars-Global-Conflict/dp/0465066984 "The Second World Wars - Amazon")]. The whole work is presented from a numerical viewpoint and basically offers "accountant's lessons" from the war. Here are some that stood out to me.
 

@@ -2,14 +2,7 @@
 title: "Reading: Fratelli Tutti"
 date: 2020-12-17T07:30:00-05:00
 draft: false
-tags: [
-	"social",
-	"politics",
-	"economics",
-	"reading",
-]
 ---
-
 This is a breakdown of the encyclical _Fratelli Tutti_ [[1](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html "Fratelli Tutti")] written by Pope Francis.
 
 The encyclical covers a wide range of topics and displays a generally more political tone while attempting to balance diverging viewpoints. Sometimes this leads to over-simplification or self-contradiction.
