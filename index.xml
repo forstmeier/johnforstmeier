@@ -6,7 +6,17 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2022 13:08:52 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 08:30:19 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Time Investment</title>
+      <link>https://johnforstmeier.com/notes/project-time-investment/</link>
+      <pubDate>Thu, 21 Apr 2022 08:30:19 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/project-time-investment/</guid>
+      <description>The time investment for a project is less than the sum of its tasks.
+ Maybe it&amp;rsquo;s not the clearest statement, but it means if you do lots of smaller, quicker steps, the entire project will get done faster than if they were done in fewer, slower steps. This is just my personal observation but it seems to hold true when the estimated time to completion is equal for both approaches.</description>
+    </item>
+    
     <item>
       <title>Build by Elimination</title>
       <link>https://johnforstmeier.com/notes/build-by-elimination/</link>
