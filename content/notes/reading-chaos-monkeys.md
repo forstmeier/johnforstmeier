@@ -11,4 +11,4 @@ In particular, the way Martinez recounts navigating the interpersonal relationsh
 
 Each pivotal moment felt like Martinez was managing **individual incentives** for the involved parties and netting them against each other in order to optimize each outcome. Read if you want to work in startups.
 
-> Identify and manage individual incentives
+> Identify and manage individual incentives.
