@@ -6,7 +6,17 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 08:32:33 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 09:18:16 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Ignorance Obfuscation</title>
+      <link>https://johnforstmeier.com/notes/code-ignorance-obfuscation/</link>
+      <pubDate>Fri, 27 May 2022 09:18:16 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/code-ignorance-obfuscation/</guid>
+      <description>Following test-driven development [1] can compensate for broad gaps in knowledge of the language being used.
+For example, situations where values are passed instead of pointers or some tricky break statement can all be accounted for in the test suite. If the code is modular enough and the tests are fairly exhaustive, the actual implementation doesn&amp;rsquo;t really matter - as long as the contract between the method and the tests is respected, you don&amp;rsquo;t need to know how it makes anything happen.</description>
+    </item>
+    
     <item>
       <title>Principles-First Startups</title>
       <link>https://johnforstmeier.com/notes/principles-first-startups/</link>
