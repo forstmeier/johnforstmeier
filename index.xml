@@ -6,7 +6,18 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2022 08:57:53 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 10:18:06 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Method Design</title>
+      <link>https://johnforstmeier.com/notes/software-method-design/</link>
+      <pubDate>Mon, 20 Jun 2022 10:18:06 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/software-method-design/</guid>
+      <description>This is a high-level outline of my current approach to method design in software. It&amp;rsquo;s not groundbreaking - it&amp;rsquo;s more just my working mental model.
+Methods are split into two types:
+ Manipulators Managers  Manipulators are responsible for in-memory actions like creating or updating resources - for example struct types representing domain objects. Managers do the storing and fetching of those struct types to and from the persistence layer.</description>
+    </item>
+    
     <item>
       <title>Asceticism</title>
       <link>https://johnforstmeier.com/notes/asceticism/</link>
