@@ -4,3 +4,22 @@ title: "John Forstmeier"
 theme: "forstmeier"
 publishdir: ""
 staticDir: "static"
+
+params:
+  about:
+    - John is a senior engineer at Shipyard and founder at Automated Capital. In his sparetime he enjoys building side projects, writing, reading, and lifting.
+    - John plans on working in early-stage startups in hard-tech industrial sectors as well as operating his own independent side project.
+    - John can be reached via direct message on Twitter.
+  links:
+    - name: Twitter
+      url: https://twitter.com/forstmeier
+    - name: GitHub
+      url: https://github.com/forstmeier
+    - name: Instagram
+      url: https://www.instagram.com/johnforstmeier/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/johnforstmeier/
+    - name: AngelList
+      url: https://angel.co/u/forstmeier
+    - name: Automated Capital
+      url: https://automated.capital/
