@@ -6,7 +6,20 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 20:21:17 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 14:40:28 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farming Exceptionalism</title>
+      <link>https://johnforstmeier.com/notes/farming-exceptionalism/</link>
+      <pubDate>Mon, 25 Jul 2022 14:40:28 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/farming-exceptionalism/</guid>
+      <description>U.S. agricultural dominance entails food independence and net exports in trade. This ensures a strong national security posture and allows soft power projection.
+Achieving this means increasing farm productivity and output.
+Below are several features of U.S. farming that may be useful in identifying improvements and defining possible solutions.
+Imports and exports
+The U.S. is the world’s largest agricultural exporter. However, in 2020 there was a deficit as more foods were imported.</description>
+    </item>
+    
     <item>
       <title>Futurist and Traditionalist</title>
       <link>https://johnforstmeier.com/notes/futurist-and-traditionalist/</link>
@@ -16,8 +29,7 @@
       <description>My own philosophy is a combination of futurist and traditionalist perspectives.
 Both progressive and conservative.
 I revere and retain our shared histories and traditions while simultaneously cultivating and creating our future and forward progress.
- After all, what are we preserving the past for if not for the future?
- </description>
+After all, what are we preserving the past for if not for the future?</description>
     </item>
     
     <item>
@@ -28,7 +40,8 @@ I revere and retain our shared histories and traditions while simultaneously cul
       <guid>https://johnforstmeier.com/notes/software-method-design/</guid>
       <description>This is a high-level outline of my current approach to method design in software. It&amp;rsquo;s not groundbreaking - it&amp;rsquo;s more just my working mental model.
 Methods are split into two types:
- Manipulators Managers  Manipulators are responsible for in-memory actions like creating or updating resources - for example struct types representing domain objects. Managers do the storing and fetching of those struct types to and from the persistence layer.</description>
+Manipulators Managers Manipulators are responsible for in-memory actions like creating or updating resources - for example struct types representing domain objects. Managers do the storing and fetching of those struct types to and from the persistence layer.
+By keeping these two method types very separate, code is easily decoupled.</description>
     </item>
     
     <item>
@@ -39,10 +52,10 @@ Methods are split into two types:
       <guid>https://johnforstmeier.com/notes/asceticism/</guid>
       <description>To me, asceticism can be framed in two different ways.
 One is:
- Saying &amp;ldquo;no&amp;rdquo; to many things.
- And the other is:
- Saying &amp;ldquo;yes&amp;rdquo; to a few things.
- In a secular setting, both accomplish the goal of living simply. I do prefer the latter which is in itself a simpler solution.</description>
+Saying &amp;ldquo;no&amp;rdquo; to many things.
+And the other is:
+Saying &amp;ldquo;yes&amp;rdquo; to a few things.
+In a secular setting, both accomplish the goal of living simply. I do prefer the latter which is in itself a simpler solution.</description>
     </item>
     
     <item>
@@ -73,7 +86,7 @@ Startups built like this are incapable of caving to serve fad ideologies or immo
       
       <guid>https://johnforstmeier.com/notes/project-time-investment/</guid>
       <description>The time investment for a project is less than the sum of its tasks.
- Maybe it&amp;rsquo;s not the clearest statement, but it means if you do lots of smaller, quicker steps, the entire project will get done faster than if they were done in fewer, slower steps. This is just my personal observation but it seems to hold true when the estimated time to completion is equal for both approaches.</description>
+Maybe it&amp;rsquo;s not the clearest statement, but it means if you do lots of smaller, quicker steps, the entire project will get done faster than if they were done in fewer, slower steps. This is just my personal observation but it seems to hold true when the estimated time to completion is equal for both approaches.</description>
     </item>
     
     <item>
@@ -83,7 +96,7 @@ Startups built like this are incapable of caving to serve fad ideologies or immo
       
       <guid>https://johnforstmeier.com/notes/build-by-elimination/</guid>
       <description>Forward momentum is an important component of actually building things. There are basically two options for keeping that momentum high:
- Increase the pace of item production Decrease the number of items in production  The latter is most applicable to MVPs (&amp;ldquo;minimum viable products&amp;rdquo;).
+Increase the pace of item production Decrease the number of items in production The latter is most applicable to MVPs (&amp;ldquo;minimum viable products&amp;rdquo;).
 Reducing things to do increases productive turnover and avoids maintaining large mental overhead associated with bigger chunks of work. If it feels like it&amp;rsquo;ll take a long time, the first instinct should be to just say &amp;ldquo;let&amp;rsquo;s try it without it.</description>
     </item>
     
@@ -94,8 +107,8 @@ Reducing things to do increases productive turnover and avoids maintaining large
       
       <guid>https://johnforstmeier.com/notes/extreme-personal-ownership/</guid>
       <description>I seek a future of extreme ownership. Individuals owning increasingly greater elements so each may personally steward the world around them.
- Spaceships, space stations, planets, solar systems, galaxies.
- Each person individually protecting greater tracts of creation. While some may still be drawn to the noble pursuit of asceticism, many must shoulder the mantle of the universe.</description>
+Spaceships, space stations, planets, solar systems, galaxies.
+Each person individually protecting greater tracts of creation. While some may still be drawn to the noble pursuit of asceticism, many must shoulder the mantle of the universe.</description>
     </item>
     
     <item>
@@ -118,7 +131,7 @@ Each pivotal moment felt like Martinez was managing individual incentives for th
       <guid>https://johnforstmeier.com/notes/software-development-emotional-cycle/</guid>
       <description>Writing software typically occurs in rapid iterations and can have a similarly rapid emotional cycle attached to the work. Personally, this can be mapped to confidence over time in the plot below.
 The pattern goes something like this:
- confidence increases as software is shipped something breaks which halts the rising confidence &amp;ldquo;Why did I ever choose to work in software?&amp;rdquo; =&amp;gt; self-loathing confidence moves lower while the problem is worked on something fixes the problem bottoming the drop &amp;ldquo;Why did I think I could do this?</description>
+confidence increases as software is shipped something breaks which halts the rising confidence &amp;ldquo;Why did I ever choose to work in software?&amp;rdquo; =&amp;gt; self-loathing confidence moves lower while the problem is worked on something fixes the problem bottoming the drop &amp;ldquo;Why did I think I could do this?</description>
     </item>
     
     <item>
@@ -129,7 +142,7 @@ The pattern goes something like this:
       <guid>https://johnforstmeier.com/notes/fafo-method/</guid>
       <description>An approach I&amp;rsquo;ve been thinking about is something I&amp;rsquo;m dubbing the &amp;ldquo;FAFO Method&amp;rdquo; or &amp;ldquo;fuck around, find out&amp;rdquo;.
 Basically, this boils down to:
- Learn the minimum about an idea to be dangerous Quickly iterate and implement the idea  It&amp;rsquo;s not quite a &amp;ldquo;see what sticks&amp;rdquo; method because you still want to evaluate and prioritize how you spend your time prior to spending it. And then on top of that, you want to minimize the time actually spent doing the thing.</description>
+Learn the minimum about an idea to be dangerous Quickly iterate and implement the idea It&amp;rsquo;s not quite a &amp;ldquo;see what sticks&amp;rdquo; method because you still want to evaluate and prioritize how you spend your time prior to spending it. And then on top of that, you want to minimize the time actually spent doing the thing.</description>
     </item>
     
     <item>
@@ -161,7 +174,7 @@ And to do that, contracts could be based around the post-release actions of the 
       
       <guid>https://johnforstmeier.com/notes/evolving-primate-ethics/</guid>
       <description>If we assume that non-human primates are experiencing evolutionary growth we may eventually face similar questions to those Lewis raises in Religion and Rocketry [1].
- For example, can the primates have evolved to the point they have received the divine spark of an immortal soul endowed with reason? If so, are they fallen, pre-fallen, post-fallen, or some other state we are not aware of? And what is our responsibility towards our newly-elevated evolutionary cousins?</description>
+For example, can the primates have evolved to the point they have received the divine spark of an immortal soul endowed with reason? If so, are they fallen, pre-fallen, post-fallen, or some other state we are not aware of? And what is our responsibility towards our newly-elevated evolutionary cousins?</description>
     </item>
     
     <item>
@@ -171,7 +184,7 @@ And to do that, contracts could be based around the post-release actions of the 
       
       <guid>https://johnforstmeier.com/notes/make-tools/</guid>
       <description>If you can&amp;rsquo;t do a thing, make tools for those who can.
- If you find yourself in a creative slump, look around and see what other people are working on. Build them something that would make them even more productive.</description>
+If you find yourself in a creative slump, look around and see what other people are working on. Build them something that would make them even more productive.</description>
     </item>
     
     <item>
@@ -181,7 +194,7 @@ And to do that, contracts could be based around the post-release actions of the 
       
       <guid>https://johnforstmeier.com/notes/indirect-participation/</guid>
       <description>If you can&amp;rsquo;t do a thing, build tools for those who can.
- By this I mean that if you&amp;rsquo;re struggling to find inspiration or are interested in a field without an immediate affinity or ability you can still be productive.
+By this I mean that if you&amp;rsquo;re struggling to find inspiration or are interested in a field without an immediate affinity or ability you can still be productive.
 You can participate indirectly by building tools for others in that field in order to help them scale their impact.</description>
     </item>
     
@@ -202,8 +215,8 @@ Finding ways to prioritize reputation markets, wherever feasible, may be a bette
       
       <guid>https://johnforstmeier.com/notes/silicon-valley-diffusion/</guid>
       <description>No single city needs to supplant the San Francisco Bay Area as a high-technology center in order for that area to lose its dominant position. An unofficial confederation of other locations, ranging from urban to rural, could each sap resources from the centralized Bay Area talent.
- A slow bleed from many cuts.
- No single other location needs to rise in order to overthrow mantle. This is exemplified by the chart below; while there has been an increase as a result of the COVID-19 events, there was a pre-existing upward trend that appears to be continuing following the spike.</description>
+A slow bleed from many cuts.
+No single other location needs to rise in order to overthrow mantle. This is exemplified by the chart below; while there has been an increase as a result of the COVID-19 events, there was a pre-existing upward trend that appears to be continuing following the spike.</description>
     </item>
     
     <item>
@@ -214,7 +227,7 @@ Finding ways to prioritize reputation markets, wherever feasible, may be a bette
       <guid>https://johnforstmeier.com/notes/better-bootcamp/</guid>
       <description>Coding bootcamps seem to focus heavily on the coding aspect of development work. While teaching coding is important, I think bootcamps could differentiate themselves significantly by focusing on developing team-based skills and experience.
 For example they could:
- provide students with guidance on how to receive and conduct pull request reviews go over designing and maintaining robust CI/CD pipelines instill best-practices for writing unit and integration tests participate in tasking stories and organizing development sprints  And this could potentially be done within the scope of a pre-existing open source project.</description>
+provide students with guidance on how to receive and conduct pull request reviews go over designing and maintaining robust CI/CD pipelines instill best-practices for writing unit and integration tests participate in tasking stories and organizing development sprints And this could potentially be done within the scope of a pre-existing open source project.</description>
     </item>
     
     <item>
@@ -223,8 +236,7 @@ For example they could:
       <pubDate>Sun, 10 Oct 2021 13:30:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/notes/longevity-wish/</guid>
-      <description> I want longevity to manifest so that exploring the cosmos for a decade only feels like a day.
- </description>
+      <description>I want longevity to manifest so that exploring the cosmos for a decade only feels like a day.</description>
     </item>
     
     <item>
@@ -235,7 +247,8 @@ For example they could:
       <guid>https://johnforstmeier.com/notes/political-brainstorm-no-2/</guid>
       <description>Here are some more loose ideas on simple ways to potentially improve the U.S. political system.
 Ideas
- Quantifiable legislative goals: during campaigns, politicians should pledge, or maybe even be required, to set out a handful of specific policy goals with quantifiable outcomes (and preset measurement criteria). If these goals were met, assuming a successful election, they could run again after their term expires.   Goal: move elections towards data-driven performers.</description>
+Quantifiable legislative goals: during campaigns, politicians should pledge, or maybe even be required, to set out a handful of specific policy goals with quantifiable outcomes (and preset measurement criteria). If these goals were met, assuming a successful election, they could run again after their term expires. Goal: move elections towards data-driven performers.
+Campaign finance simplification: only allow personal donations with a maximum donation amount - this could mirror the fact that each citizen only gets one vote and financial disparities should not come into play.</description>
     </item>
     
     <item>
@@ -255,8 +268,8 @@ Improvements can be rolled out in later iterations, even significant breaking ch
       
       <guid>https://johnforstmeier.com/notes/reading-the-second-world-wars/</guid>
       <description>There are several interesting takeaways from Victor Davis Hanson&amp;rsquo;s The Second World Wars [1]. The whole work is presented from a numerical viewpoint and basically offers &amp;ldquo;accountant&amp;rsquo;s lessons&amp;rdquo; from the war. Here are some that stood out to me.
- Emphasize support resources
-  Massive production of basic support vehicles and robust supply lines were a constant focus for the Allies throughout the war &amp;ldquo;Boring&amp;rdquo; things like unarmed and unarmored trucks were essential in ensuring sustainable campaigning   Produce fewer similar models</description>
+Emphasize support resources
+Massive production of basic support vehicles and robust supply lines were a constant focus for the Allies throughout the war &amp;ldquo;Boring&amp;rdquo; things like unarmed and unarmored trucks were essential in ensuring sustainable campaigning Produce fewer similar models</description>
     </item>
     
     <item>
@@ -265,8 +278,7 @@ Improvements can be rolled out in later iterations, even significant breaking ch
       <pubDate>Fri, 17 Sep 2021 14:00:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/notes/imperfect-vessel/</guid>
-      <description> Be an imperfect vessel of a perfect glory.
- </description>
+      <description>Be an imperfect vessel of a perfect glory.</description>
     </item>
     
     <item>
@@ -277,7 +289,7 @@ Improvements can be rolled out in later iterations, even significant breaking ch
       <guid>https://johnforstmeier.com/notes/more-impressionism/</guid>
       <description>Another wonderful example of impressionism [1] by Manet [2] is &amp;ldquo;Tarring a Boat&amp;rdquo; [3].
 Personal highlights
- ship inner details are expressed but not defined interesting strokes for the anchor in the foreground no specifics are conveyed on people in the image  </description>
+ship inner details are expressed but not defined interesting strokes for the anchor in the foreground no specifics are conveyed on people in the image </description>
     </item>
     
     <item>
@@ -288,8 +300,7 @@ Personal highlights
       <guid>https://johnforstmeier.com/notes/future-homo-species/</guid>
       <description>Interplanetary colonization will likely lead to the development of new species under the homo genus.
 Interstellar colonization absolutely will.
- It&amp;rsquo;s something we should begin planning for.
- </description>
+It&amp;rsquo;s something we should begin planning for.</description>
     </item>
     
     <item>
@@ -319,8 +330,7 @@ Instead of taking a stance against HFT, participation in these funds should be m
       
       <guid>https://johnforstmeier.com/notes/human-economic-element/</guid>
       <description>The main difference between capitalism and socialism is which end of the machine the human is on. For the former it’s at the levers while for the latter it’s at the tooltip.
- In one the human controls the cogs and in the other the human is a cog.
- </description>
+In one the human controls the cogs and in the other the human is a cog.</description>
     </item>
     
     <item>
@@ -341,8 +351,9 @@ The authors highlight specific issues in how the younger generations (at the tim
       
       <guid>https://johnforstmeier.com/notes/orthodoxy-rising/</guid>
       <description>This post reflects a general personal sense - I&amp;rsquo;ve looked for no data to back up the position. It&amp;rsquo;s purely an observation and prediction based on gut. That statement is:
- The current political and social climate is turning my generation towards tradition.
- Being inundated with polarization while simultaneously being drawn into diametrically opposed systems of hyper-individualism and hyper-collectivism has been socially destructive. Individualism destroys meaning while collectivism destroys agency.</description>
+The current political and social climate is turning my generation towards tradition.
+Being inundated with polarization while simultaneously being drawn into diametrically opposed systems of hyper-individualism and hyper-collectivism has been socially destructive. Individualism destroys meaning while collectivism destroys agency.
+And a silent objection to those alternatives is appearing.</description>
     </item>
     
     <item>
@@ -351,8 +362,7 @@ The authors highlight specific issues in how the younger generations (at the tim
       <pubDate>Thu, 22 Apr 2021 21:45:00 -0400</pubDate>
       
       <guid>https://johnforstmeier.com/notes/stationary-radical/</guid>
-      <description> I&amp;rsquo;ve become a radical by sitting still while the world moved.
- </description>
+      <description>I&amp;rsquo;ve become a radical by sitting still while the world moved.</description>
     </item>
     
     <item>
@@ -381,7 +391,7 @@ For example, an MVP for an API-based service shouldn&amp;rsquo;t focus on accomm
       
       <guid>https://johnforstmeier.com/notes/dangerous-markets/</guid>
       <description>Financial markets should be easy to enter but difficult to actively participate in.
- Encouraging reduced barriers to entry and limitations on participation improve price discovery through the removal of arbitrary restrictions. However, a big caveat should be made to retail investors so that they&amp;rsquo;re aware that they&amp;rsquo;re very likely outgunned by the resources available to institutional investors.
+Encouraging reduced barriers to entry and limitations on participation improve price discovery through the removal of arbitrary restrictions. However, a big caveat should be made to retail investors so that they&amp;rsquo;re aware that they&amp;rsquo;re very likely outgunned by the resources available to institutional investors.
 Markets should be much closer to an &amp;ldquo;anything goes&amp;rdquo; model while making transaction and holdings data public.</description>
     </item>
     
@@ -392,7 +402,7 @@ Markets should be much closer to an &amp;ldquo;anything goes&amp;rdquo; model wh
       
       <guid>https://johnforstmeier.com/notes/progressive-vs-expansive/</guid>
       <description>The term &amp;ldquo;progressive&amp;rdquo; has been conflated with the word &amp;ldquo;expansive&amp;rdquo; with regards to legislative initiatives. In some ways, this is similar to the theme in Peter Thiel&amp;rsquo;s [1] book Zero to One [2].
- moving 0 -&amp;gt; 1 creates an entirely new solution moving 1 -&amp;gt; N scales an existing solution  The latter is dominant while being billed as the former in legislation. Currently, this is particularly true in two areas: minimum wage and college education.</description>
+moving 0 -&amp;gt; 1 creates an entirely new solution moving 1 -&amp;gt; N scales an existing solution The latter is dominant while being billed as the former in legislation. Currently, this is particularly true in two areas: minimum wage and college education.</description>
     </item>
     
     <item>
@@ -432,8 +442,8 @@ What&amp;rsquo;s interesting about this piece is that it takes their existence f
       
       <guid>https://johnforstmeier.com/notes/adversity-figures/</guid>
       <description>Anecdotally to the observer, it seems that national adversity produces heroes while personal adversity produces victims.
- Why is there a perceived difference and why can&amp;rsquo;t personal adversity produce public heroes?
- In national-level issues, everyone is impacted and all shoulder the burden while a few rise as leaders. For example, in World War II individuals such as Churchill [1], Murphy [2], Winters [2], and Sendler [4] are rightfully treated as heroes for their noble defense of freedom even as the conflict touched all lives.</description>
+Why is there a perceived difference and why can&amp;rsquo;t personal adversity produce public heroes?
+In national-level issues, everyone is impacted and all shoulder the burden while a few rise as leaders. For example, in World War II individuals such as Churchill [1], Murphy [2], Winters [2], and Sendler [4] are rightfully treated as heroes for their noble defense of freedom even as the conflict touched all lives.</description>
     </item>
     
     <item>
@@ -443,7 +453,7 @@ What&amp;rsquo;s interesting about this piece is that it takes their existence f
       
       <guid>https://johnforstmeier.com/notes/radical-rational/</guid>
       <description>Radically hold rational positions.
- Being open to new ideas does not mean you need to immediately accept everything that comes your way. Challenge them, push them, fight them.
+Being open to new ideas does not mean you need to immediately accept everything that comes your way. Challenge them, push them, fight them.
 Let the best ideas win.</description>
     </item>
     
@@ -455,8 +465,8 @@ Let the best ideas win.</description>
       <guid>https://johnforstmeier.com/notes/reading-orthodoxy/</guid>
       <description>Here are a series of short notes on G.K. Chesterton&amp;rsquo;s [1] book Orthodoxy [2].
 Chesterton earns the nickname the &amp;ldquo;prince of paradox&amp;rdquo;; every chapter contains multiple statements that flip the conventional perspective. Two statements in particular from the chapter &amp;ldquo;The Flag of the World&amp;rdquo; stood out.
- Rational optimism leads to stagnation; it is irrational optimism that leads to reform.
-  The more transcendental is your patriotism, the more practical are your politics.</description>
+Rational optimism leads to stagnation; it is irrational optimism that leads to reform.
+The more transcendental is your patriotism, the more practical are your politics.</description>
     </item>
     
     <item>
@@ -466,7 +476,7 @@ Chesterton earns the nickname the &amp;ldquo;prince of paradox&amp;rdquo;; every
       
       <guid>https://johnforstmeier.com/notes/social-media-impact/</guid>
       <description>There is an interesting series of questions that can be raised regarding social media listed below.
- Has the net impact of social media been positive or negative in developed nations? Has the net impact of social media been positive or negative in underdeveloped nations? If there is a difference in the answers to those questions, what causes the disparity?  These services have contributed positively and negatively to the world - identifying what distribution these contributions take would be valuable in helping to understand their proper function.</description>
+Has the net impact of social media been positive or negative in developed nations? Has the net impact of social media been positive or negative in underdeveloped nations? If there is a difference in the answers to those questions, what causes the disparity? These services have contributed positively and negatively to the world - identifying what distribution these contributions take would be valuable in helping to understand their proper function.</description>
     </item>
     
     <item>
@@ -487,7 +497,7 @@ Pumping money into failing approaches is not progressive.</description>
       
       <guid>https://johnforstmeier.com/notes/amortal-death/</guid>
       <description>The moment we become amortal, God will have to kill us.
- The only thing that can kill an amortal being is an immortal one. And if our lives can&amp;rsquo;t end naturally, only the end of the universe will bring us down.</description>
+The only thing that can kill an amortal being is an immortal one. And if our lives can&amp;rsquo;t end naturally, only the end of the universe will bring us down.</description>
     </item>
     
     <item>
@@ -509,8 +519,8 @@ The article points to factors like low income disparity, high upward mobility, a
       <guid>https://johnforstmeier.com/notes/social-capital-preference/</guid>
       <description>Some companies rely heavily on social capital as part of their continued financial success. To varying degrees, this makes them dependent on current social trends.
 However, even companies that are not overly impacted by social perception (e.g. ones with strong customer stickiness) seem to seek it out. In doing so they appear to voluntarily relinquish an advantageous position.
- Why take on an unnecessary dependency?
- Maybe there is or always has been a strong need to &amp;ldquo;belong&amp;rdquo; even in profit-driven enterprises.</description>
+Why take on an unnecessary dependency?
+Maybe there is or always has been a strong need to &amp;ldquo;belong&amp;rdquo; even in profit-driven enterprises.</description>
     </item>
     
     <item>
@@ -521,7 +531,7 @@ However, even companies that are not overly impacted by social perception (e.g. 
       <guid>https://johnforstmeier.com/notes/encapsulated-majorities/</guid>
       <description>Increased local political autonomy may reduce voting majorities to their smallest sphere of influence. This would lead to many, independent, and encapsulated majorities operating within a larger, shared population.
 Several interesting points arise in this situation:
- Any tyrannical majority is confined to a small operating area In worst cases even tyrannical majorities are likely generally aligned with local interests Constituents may easily move from tyrannical majorities to elsewhere within the larger population  </description>
+Any tyrannical majority is confined to a small operating area In worst cases even tyrannical majorities are likely generally aligned with local interests Constituents may easily move from tyrannical majorities to elsewhere within the larger population </description>
     </item>
     
     <item>
@@ -566,7 +576,7 @@ Simple approaches, like adding a unit_tests script to the repo containing just a
       <description>This is a breakdown of the encyclical Fratelli Tutti [1] written by Pope Francis.
 The encyclical covers a wide range of topics and displays a generally more political tone while attempting to balance diverging viewpoints. Sometimes this leads to over-simplification or self-contradiction.
 This note primarily discusses socio-economic subjects and reference numbers are provided for the appropriate sections of the encyclical.
-   Topic Summary Comments     Culture Exporting or copying cultural models reduces national identity (#51) and different cultures are not enemies (#147).</description>
+Topic Summary Comments Culture Exporting or copying cultural models reduces national identity (#51) and different cultures are not enemies (#147).</description>
     </item>
     
     <item>
@@ -576,7 +586,7 @@ This note primarily discusses socio-economic subjects and reference numbers are 
       
       <guid>https://johnforstmeier.com/notes/silent-action/</guid>
       <description>Actions taken to accomplish good works should be done without seeking attention.
- Sometimes attention is unavoidable but it should be reduced to the minimal amount needed to get the work done or to what will maximize the impact of the act.
+Sometimes attention is unavoidable but it should be reduced to the minimal amount needed to get the work done or to what will maximize the impact of the act.
 Everything else above this minimized amount is performative and serves no other purpose than self-aggrandizement.</description>
     </item>
     
@@ -608,9 +618,8 @@ Tracing specific ancestries and outlining each field&amp;rsquo;s current form an
       <pubDate>Mon, 16 Nov 2020 09:00:00 -0500</pubDate>
       
       <guid>https://johnforstmeier.com/notes/breathe/</guid>
-      <description> Take a deep breath.
-  And then take another.
- </description>
+      <description>Take a deep breath.
+And then take another.</description>
     </item>
     
     <item>
@@ -629,8 +638,7 @@ This fragmentation would force consumers to actively build their own networks wh
       <pubDate>Mon, 09 Nov 2020 08:37:38 -0500</pubDate>
       
       <guid>https://johnforstmeier.com/notes/friend-disagreements/</guid>
-      <description> Friends can disagree over things that matter.
- </description>
+      <description>Friends can disagree over things that matter.</description>
     </item>
     
     <item>
@@ -643,7 +651,7 @@ This fragmentation would force consumers to actively build their own networks wh
 The style prefers to see everything in a given scope without focusing on specific details. Produced images are more of a summary or a simplification of the subject which significantly reduces cognitive overhead in consuming these pieces.
 A favorite is The Battle of the Kearsarge and the Alabama [2] by Édouard Manet, pictured below.
 Personal highlights:
- smoke obscuring ship details or entire vessels quick lines for distant masts and rigging approximately two-thirds is water most of which is empty no specifics are conveyed on people in the image  </description>
+smoke obscuring ship details or entire vessels quick lines for distant masts and rigging approximately two-thirds is water most of which is empty no specifics are conveyed on people in the image </description>
     </item>
     
     <item>
@@ -674,7 +682,7 @@ Avoiding &amp;ldquo;representing yourself&amp;rdquo; [3] in the product removes 
       <guid>https://johnforstmeier.com/notes/political-brainstorm-no-1/</guid>
       <description>Below is a loose, unordered collection of &amp;ldquo;radical&amp;rdquo;, but practically implementable, ideas for the U.S. political system. These have not been evaluated for completeness - this is a braindump. However, they may be expanded on individually in the future.
 Ideas
- Comprehensive Federal term limits: all Federal-level roles, including the Vice Presidency, the Senate, the House, and the Supreme Court, would be term-limited. Service could be potentially capped at eight years each.</description>
+Comprehensive Federal term limits: all Federal-level roles, including the Vice Presidency, the Senate, the House, and the Supreme Court, would be term-limited. Service could be potentially capped at eight years each.</description>
     </item>
     
     <item>
@@ -684,7 +692,8 @@ Ideas
       
       <guid>https://johnforstmeier.com/notes/citizens-dividend-vs-ubi/</guid>
       <description>The difference in the concepts of a citizen&amp;rsquo;s dividend and universal basic income (&amp;ldquo;UBI&amp;rdquo;) are laid out in the terms &amp;ldquo;dividend&amp;rdquo; and &amp;ldquo;income.&amp;rdquo;
-   Feature Dividend Income     Amount Floating value based on excess revenue Fixed value determined by contract   Frequency Non-guaranteed, likely monthly/quarterly Guaranteed, determined by contract   Source Equity ownership allocates share Labor contributed under contract    These features are present in fiscal policy options.</description>
+Feature Dividend Income Amount Floating value based on excess revenue Fixed value determined by contract Frequency Non-guaranteed, likely monthly/quarterly Guaranteed, determined by contract Source Equity ownership allocates share Labor contributed under contract These features are present in fiscal policy options.
+A citizen&amp;rsquo;s dividend in a Georgist model [1] would derive funding from tax revenue, ideally a land value tax, minus government spending distributed on a per capita basis to all citizens.</description>
     </item>
     
     <item>
@@ -695,7 +704,7 @@ Ideas
       <guid>https://johnforstmeier.com/notes/splitting-education/</guid>
       <description>Currently, there is a conflation between higher education and vocational training. Typical, four-year degrees are providing both a general education and serving as credentialing frequently required in the workforce. Separating these aspects could provide more tailored services to students based on interest and need.
 Educational
- &amp;ldquo;traditional&amp;rdquo; four-year college environment providing broad teachings and exposure to abstract concepts examples: history, higher-order math, music, computer theory, etc.   &amp;gt; more theoretical, less appied</description>
+&amp;ldquo;traditional&amp;rdquo; four-year college environment providing broad teachings and exposure to abstract concepts examples: history, higher-order math, music, computer theory, etc. &amp;gt; more theoretical, less appied</description>
     </item>
     
     <item>
@@ -716,7 +725,7 @@ Splitting these duopolies into multiple mini-parties encourages more active disc
       <guid>https://johnforstmeier.com/notes/georgism-and-energy/</guid>
       <description>The land value tax (&amp;ldquo;LVT&amp;rdquo;) at the center of Georgism directly encourages efficient land usage in energy production. Given that this core principal assesses taxes as a percentage of the value of the land held, it drives producers to establish the smallest physical footprint possible.
 If it were introduced, there would be an immediate impact to all existing energy producers:
- &amp;ldquo;Traditional&amp;rdquo; fuels (e.g. oil, LNG, coal): large land, and potentially offshore, resources would be adjusted to find the optimal boundary of exerting exclusive rights to the resources and minimizing the taxable land held; additionally the valuable resources held in the land would increase the land value and taxes owed.</description>
+&amp;ldquo;Traditional&amp;rdquo; fuels (e.g. oil, LNG, coal): large land, and potentially offshore, resources would be adjusted to find the optimal boundary of exerting exclusive rights to the resources and minimizing the taxable land held; additionally the valuable resources held in the land would increase the land value and taxes owed.</description>
     </item>
     
     <item>
@@ -726,7 +735,7 @@ If it were introduced, there would be an immediate impact to all existing energy
       
       <guid>https://johnforstmeier.com/notes/pharma-software/</guid>
       <description>Some characteristics of pharmaceuticals make them comparable to software. Basically software and pharmaceuticals have:
- high development costs low distribution costs  For example, both require a large, upfront resource investment in research and composition. After initial R&amp;amp;D expenses, both are relatively easily manufactured and distributed at scale.
+high development costs low distribution costs For example, both require a large, upfront resource investment in research and composition. After initial R&amp;amp;D expenses, both are relatively easily manufactured and distributed at scale.
 Knowing this, pharmaceuticals may be well placed to leverage wide-reaching treatments while reducing healthcare costs. Additionally, with precision medicine [1], highly-focused solutions can be developed or even compounded on-demand for individual use to increase effectiveness.</description>
     </item>
     
@@ -747,8 +756,7 @@ Smaller teams inherently have fewer human resources available to build things an
       
       <guid>https://johnforstmeier.com/notes/born-with-nothing/</guid>
       <description>It&amp;rsquo;s worth reiterating that you are born with nothing and no one owes you anything. All you have are your rights and even those have been endowed to you.
- Remember you are dust and unto dust you shall return.
- </description>
+Remember you are dust and unto dust you shall return.</description>
     </item>
     
     <item>
@@ -759,7 +767,7 @@ Smaller teams inherently have fewer human resources available to build things an
       <guid>https://johnforstmeier.com/notes/healthy-authority-skeptic/</guid>
       <description>Being a healthy skeptic of authority is a good thing. The keyword being healthy.
 A certain amount of structure is definitely necessary to enable human socio-economic interactions. But evaluations of the structure should be constantly made:
- Evaluate the validity of the those in authority - does their position of power stem from the governed? Evaluate whether their actions fall within the purview of those in authority - are they doing what they have the capacity to do on behalf of the governed?</description>
+Evaluate the validity of the those in authority - does their position of power stem from the governed? Evaluate whether their actions fall within the purview of those in authority - are they doing what they have the capacity to do on behalf of the governed?</description>
     </item>
     
     <item>
@@ -779,7 +787,7 @@ Sins should be easier to commit than laws should be to break.</description>
       
       <guid>https://johnforstmeier.com/notes/facilitating-decisions/</guid>
       <description>The individuals best suited for making decisions on any solution are those closest to the problem. It is the leader&amp;rsquo;s only job to facilitate these decisions. A leader should:
- Provide guidance when it is requested Arbitrate disputes when they arise Make decisions when presented options Spread vision and purpose when leading  Leaders should work to empower individuals to make their own decisions and only impose their own when absolutely necessary.</description>
+Provide guidance when it is requested Arbitrate disputes when they arise Make decisions when presented options Spread vision and purpose when leading Leaders should work to empower individuals to make their own decisions and only impose their own when absolutely necessary.</description>
     </item>
     
     <item>
@@ -819,8 +827,8 @@ Following the Georgist [1] model, a citizen&amp;rsquo;s dividend would have the 
       
       <guid>https://johnforstmeier.com/notes/reverse-equity/</guid>
       <description>Something to consider:
- Equity creates equity in the employees from the point of view of the company.
-  Equity: relatively non-liquid asset conveying financial value from dividends and non-financial value from voting rights Salary: highly liquid asset conveying financial value on receipt and provides no non-financial value  The former establishes a direct and more-or-less permanent investment in the company by the employee while the latter is available to the employee only through the life of the employment contract.</description>
+Equity creates equity in the employees from the point of view of the company.
+Equity: relatively non-liquid asset conveying financial value from dividends and non-financial value from voting rights Salary: highly liquid asset conveying financial value on receipt and provides no non-financial value The former establishes a direct and more-or-less permanent investment in the company by the employee while the latter is available to the employee only through the life of the employment contract.</description>
     </item>
     
     <item>
@@ -840,8 +848,8 @@ The beauty and diversity of antique philosophy should be fought for and maintain
       
       <guid>https://johnforstmeier.com/notes/opportunities-for-good/</guid>
       <description>Something that strikes me:
- Small opportunities to be good seem so difficult to take advantage of while the truly great require no deliberation.
- I wonder if this has to do with smaller opportunities so often coming into conflict with prevailing social norms while the options that accompany truly great opportunities are universally held to be true. Now this isn&amp;rsquo;t to say the small are lesser but that accomplishing them requires a different kind of courage.</description>
+Small opportunities to be good seem so difficult to take advantage of while the truly great require no deliberation.
+I wonder if this has to do with smaller opportunities so often coming into conflict with prevailing social norms while the options that accompany truly great opportunities are universally held to be true. Now this isn&amp;rsquo;t to say the small are lesser but that accomplishing them requires a different kind of courage.</description>
     </item>
     
     <item>
@@ -851,7 +859,7 @@ The beauty and diversity of antique philosophy should be fought for and maintain
       
       <guid>https://johnforstmeier.com/notes/boring-problems/</guid>
       <description>Boring problems often have fascinating solutions.
- This may be more or less true, and is likely dependent on personal experience, but I’ve found that boring problems have typically been left un-explored for the very reason that they’re boring. This makes it all new territory for someone venturing into it. Whatever they make to solve the problem will be entirely new.</description>
+This may be more or less true, and is likely dependent on personal experience, but I’ve found that boring problems have typically been left un-explored for the very reason that they’re boring. This makes it all new territory for someone venturing into it. Whatever they make to solve the problem will be entirely new.</description>
     </item>
     
     <item>
@@ -871,8 +879,8 @@ Active listening is a real thing; when I realize someone is really listening, th
       
       <guid>https://johnforstmeier.com/notes/first-sip/</guid>
       <description>When you&amp;rsquo;re kicking back in the evening&amp;hellip;
- Enjoy the first sip of your beer.
- Especially when you&amp;rsquo;ve held off drinking all week and Friday rolls around.</description>
+Enjoy the first sip of your beer.
+Especially when you&amp;rsquo;ve held off drinking all week and Friday rolls around.</description>
     </item>
     
     <item>
@@ -882,7 +890,7 @@ Active listening is a real thing; when I realize someone is really listening, th
       
       <guid>https://johnforstmeier.com/notes/war-king/</guid>
       <description>The king who avoids war at all costs is the king to avoid in war.
- Those who are passionate for peace will passionately pursue its return.</description>
+Those who are passionate for peace will passionately pursue its return.</description>
     </item>
     
     <item>
@@ -902,7 +910,7 @@ Try working with developers talking past each other for thirty minutes and you&a
       
       <guid>https://johnforstmeier.com/notes/core-project-principles/</guid>
       <description>Collaboration, communication, community.
- These are three core principles I look for in projects I associate myself with. Open/active discussions about the roadmap with no one individual deciding things, clearly and consistently adhering to a roadmap, and including all stakeholders in formalizing the roadmap.</description>
+These are three core principles I look for in projects I associate myself with. Open/active discussions about the roadmap with no one individual deciding things, clearly and consistently adhering to a roadmap, and including all stakeholders in formalizing the roadmap.</description>
     </item>
     
     <item>
@@ -924,8 +932,7 @@ Basically: let people be creative and then when they&amp;rsquo;ve built some coo
       <guid>https://johnforstmeier.com/notes/minimal-resource-creativity/</guid>
       <description>It really seems like a minimal resource set necessitates creative solutions and efficient design.
 I’m a firm believer in this. It’s sort of like building with a limited number of LEGOs: it forces you to think creatively and with imagination while also knowing intimately the number of pieces you have left and how they can work together.
- Necessity is the mother of invention.
- </description>
+Necessity is the mother of invention.</description>
     </item>
     
     <item>
@@ -1025,7 +1032,7 @@ A move towards distributism is a move towards a true system of social justice.</
       
       <guid>https://johnforstmeier.com/notes/statues/</guid>
       <description>Don’t build statues to people who are still alive.
- Best practice to avoid making people into gods in their own minds.</description>
+Best practice to avoid making people into gods in their own minds.</description>
     </item>
     
     <item>
@@ -1073,7 +1080,7 @@ Sort of a cheesy thing to say, but I believe it.</description>
       
       <guid>https://johnforstmeier.com/notes/family-blood/</guid>
       <description>Family is more than blood.
- While I think blood is a decent, in most cases, default binding connection, I believe we can hold those that we choose to associate ourselves with in similarly high regard.</description>
+While I think blood is a decent, in most cases, default binding connection, I believe we can hold those that we choose to associate ourselves with in similarly high regard.</description>
     </item>
     
     <item>
@@ -1095,7 +1102,7 @@ For example, I prefer the live/unscripted entertainment bits provided by Rooster
       <guid>https://johnforstmeier.com/notes/open-source-productivity/</guid>
       <description>Maximizing productive output while maintaining individual rights and dignity is the primary concern in an increasingly automated workforce system. Open source caters to this scenario and provides hyper-productive individuals with a series of resources to leverage their output and effectively provide for consumers.
 Benefits
- Common knowledge pool: shared and open intellectual property which reduces &amp;ldquo;reinvention&amp;rdquo; by participants creating proprietary alternatives Non-overlapping markets: entities focus on &amp;ldquo;peripheral&amp;rdquo; markets surrounding shared core resources which encourages focus on competitive advantages Lower entry barriers: new participants can enter market rapidly as core intellectual property is openly available for use Value creation prioritization: more value is created from open resources than is captured by each individual producer Balances market forces: monopolization and perfect competition are avoided through public core resources and competitive advantage focuses Supply chain cooperation: &amp;ldquo;niche&amp;rdquo; edge producers collaborating between individual horizontal and vertical segments Adaptive technologies: common core resources with multiple contributors provides rapid updates for changing environments/requirements  Consumers benefit in this scenario of a hyper-productive minority operating in a highly automated workforce through more rapid innovation and product development.</description>
+Common knowledge pool: shared and open intellectual property which reduces &amp;ldquo;reinvention&amp;rdquo; by participants creating proprietary alternatives Non-overlapping markets: entities focus on &amp;ldquo;peripheral&amp;rdquo; markets surrounding shared core resources which encourages focus on competitive advantages Lower entry barriers: new participants can enter market rapidly as core intellectual property is openly available for use Value creation prioritization: more value is created from open resources than is captured by each individual producer Balances market forces: monopolization and perfect competition are avoided through public core resources and competitive advantage focuses Supply chain cooperation: &amp;ldquo;niche&amp;rdquo; edge producers collaborating between individual horizontal and vertical segments Adaptive technologies: common core resources with multiple contributors provides rapid updates for changing environments/requirements Consumers benefit in this scenario of a hyper-productive minority operating in a highly automated workforce through more rapid innovation and product development.</description>
     </item>
     
     <item>
@@ -1128,7 +1135,7 @@ Since all parties share core intellectual property, competition is encouraged ar
       <description>Provide alternatives, don&amp;rsquo;t poke holes.
 Fight for the best idea, not yours.
 Think flexibly.
- Just some small one-liners that I think are valuable for me to keep in mind when working with others.</description>
+Just some small one-liners that I think are valuable for me to keep in mind when working with others.</description>
     </item>
     
   </channel>
