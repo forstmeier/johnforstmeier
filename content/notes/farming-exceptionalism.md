@@ -7,7 +7,7 @@ draft: false
 
 > Achieving this means increasing farm productivity and output.
 
-Below are several features of U.S. farming that may be useful in identifying improvements and defining possible solutions.
+Below are several features and opportunities within U.S. farming that may be targets for improvement.
 
 ---
 
@@ -15,7 +15,7 @@ Below are several features of U.S. farming that may be useful in identifying imp
 
 The U.S. is the world’s largest agricultural exporter. However, in 2020 there was a deficit as more foods were imported. Data from the USITC [[1](https://www.usitc.gov/research_and_analysis/tradeshifts/2020/agriculture.htm "Trade Shift Index 2020 Agricultural Products - United States International Trade Commission")] shows that our trading partner mix is evolving.
 
-> Takeaway: crops can be strategically grown for optimal export soft power projection.
+> Takeaway: international strategic perspectives matter in crop selection.
 
 **Biofuel**
 
@@ -37,7 +37,7 @@ There’s been an ongoing trend of consolidating acreage into fewer farms in the
 
 ![Gross cash farm income](/images/gross-cash-farm-income.png)
 
-As of 2021, there are approximately 2.01 million farms which produced a total of $510 billion gross cash farm income (GCFI). Using the values in the chart above, the most efficient value of production percentage to farms percentage is in the $5 million or more GCFI class. Assuming the smaller classes could be brought up to the same efficiency, an additional $1.12 trillion GCFI could be produced.
+As of 2021, there are approximately 2.01 million farms which produced a total of $510 billion gross cash farm income (GCFI). Using the values in the chart above, the most efficient value of production percentage to farms percentage is in the $5 million or more GCFI class. Assuming the smaller classes could be brought up to the same efficiency, or further consolidated, an additional $1.12 trillion GCFI could be produced.
 
 These are rough numbers using data from different periods but they illustrate a potential total addressable market for productivity improvement. 
 
@@ -81,7 +81,7 @@ In general, farm subsidies create market distortions and do little to increase p
 
 Most payments go to larger farms and bypass smaller farms that would theoretically be the target beneficiaries of such a program.
 
-Lastly, they’ve encourage specific crop production which disincentivizes sustainable practices like crop rotation and leads to over-fertilization and soil degradation.
+Lastly, they encourage specific crop production which disincentivizes sustainable practices like crop rotation and leads to over-fertilization and soil degradation.
 
 > Takeaway: removing subsidies would improve production quality and market functionality.
 
