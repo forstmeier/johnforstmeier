@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://johnforstmeier.com/notes/distributed-terrorism/</loc>
-    <lastmod>2022-08-05T08:50:18-04:00</lastmod>
-  </url><url>
     <loc>https://johnforstmeier.com/</loc>
-    <lastmod>2022-08-05T08:50:18-04:00</lastmod>
+    <lastmod>2022-08-23T11:11:22-04:00</lastmod>
   </url><url>
     <loc>https://johnforstmeier.com/notes/</loc>
+    <lastmod>2022-08-23T11:11:22-04:00</lastmod>
+  </url><url>
+    <loc>https://johnforstmeier.com/notes/political-brainstorm-no-3/</loc>
+    <lastmod>2022-08-23T11:11:22-04:00</lastmod>
+  </url><url>
+    <loc>https://johnforstmeier.com/notes/distributed-terrorism/</loc>
     <lastmod>2022-08-05T08:50:18-04:00</lastmod>
   </url><url>
     <loc>https://johnforstmeier.com/notes/farming-exceptionalism/</loc>

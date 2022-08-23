@@ -6,7 +6,18 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 08:50:18 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 11:11:22 -0400</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Political Brainstorm No. 3</title>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-3/</link>
+      <pubDate>Tue, 23 Aug 2022 11:11:22 -0400</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-3/</guid>
+      <description>Below is another loose collection of ideas to improve U.S. political function.
+Ideas
+Git-tracked legislation: while developing legislation, changes introduced by different members should be tracked in Git or a Git-like platform that would allow exact blame to be attributed. Additionally, this could be overlayed with political donation records to know exactly what influences there were. Note that this is basically if there are no single-issue bills available. Goal: exact legislative attribution.</description>
+    </item>
+    
     <item>
       <title>Distributed Terrorism</title>
       <link>https://johnforstmeier.com/notes/distributed-terrorism/</link>
