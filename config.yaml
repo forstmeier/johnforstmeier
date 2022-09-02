@@ -7,9 +7,9 @@ staticDir: "static"
 
 params:
   about:
-    - John is a senior engineer at Shipyard and founder at Automated Capital. In his spare time he enjoys working on side projects, writing, reading, and lifting.
-    - John is interested in building platforms that other builders use. In particular, he's interested in startups in the nuclear, farming, manufacturing, and space sectors and being on the founding team.
-    - John can be reached via direct message on Twitter.
+    - John is a senior full stack engineer at Shipyard and founder at Automated Capital. His personal activities include working on side projects, writing, reading, and lifting.
+    - John is interested in early-stage startups working on platforms in the nuclear, farming, manufacturing, and space sectors. He is pro-West, pro-growth, and pro-human.
+    - John can be reached via direct message on Twitter. He enjoys discussing ideas and building projects with like-minded individuals.
   links:
     - name: Twitter
       url: https://twitter.com/forstmeier
