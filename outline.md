@@ -1,0 +1,34 @@
+- what are GMOs (specifically)?
+    - plants genetically improved
+    - more resillient + higher yields
+    - greater sustainability + more nutrition
+- do fertilizers allow more crops per season?
+    - not more crops
+    - ensure high yields
+    - no fertilizers significantly impact output
+- how many crops are grown per season on average (in the U.S.)?
+    - depends on the region
+    - warmer areas allow "winter crops" to be grown
+    - called "double cropping"
+    - riskier in some climates
+    - creates insurance burden/risk
+- how many crop seasons are there in the U.S.?
+    - 1-2 depending on the region
+    - seasons
+        - fall: crop harvest
+        - winter: farm maintenance
+        - spring: preparation/planting
+        - summer: crop support
+- what is crop rotation?
+    - planting different crops different seasons
+    - avoids "monocropping"
+    - depletes nutrients
+    - allows less reliance on fertilizer/pesticides
+- what is a cover crop?
+    - non-harvested crop
+    - prevents soil errosion
+    - encourages soil health
+- can plants be engineered to grow faster?
+    - nasa technics "trick" plants to bloom
+    - blue/red LED lights
+    - ~6x faster
