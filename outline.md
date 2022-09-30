@@ -1,3 +1,14 @@
+general information
+
+- notes
+    - farmer ownership
+    - farm as a platfrom
+    - field as a service
+    - reduce equipment/cost overheads
+    - increase saf specialization
+    - inter-farm orchestration
+    - usda "farm business" definition == >$350k GCFI or <$350k GCFI with farming as primary occupation
+
 - what are GMOs (specifically)?
     - plants genetically improved
     - more resillient + higher yields
@@ -32,3 +43,62 @@
     - nasa technics "trick" plants to bloom
     - blue/red LED lights
     - ~6x faster
+
+saf information
+
+- notes
+    - one of the two main hypotheses
+    - coordinate saf
+    - improve productivity
+    - production at/above $500k GCFI
+    - farms can also be categorized as "small" based on GCFI
+        - this likely has overlap but also increase the farm count
+        - USDA seems to indicate anything below $350k GCFI
+    - USDA "farm specialization" definition
+        - 50% or more value
+        - driven from single commodity (e.g. type of crop)
+
+- how many SAFs are there (this might be in the original post)?
+    - as of 2014 ~294k farms
+    - <= 10 acres
+    - ~50% all farms in US are <$10k GCFI
+- what is the geographic distribution of SAFs?
+    - as of 2014 made up 13% of all US farms
+- what is the >$500k GCFI SAFs production breakdown?
+    - ~46k $10k-$500k GCFI
+    - ~3600 >$500k GCFI
+- how much heavy machinery to SAFs own vs rent service out?
+- are SAFs involved more in farm co-ops?
+    - "production" and "market" contracts
+    - former used by livestock saf specializers
+    - do a single lifecycle element
+    - operators making income from off-farm work
+    - hired elsewhere provides income
+- https://www.ers.usda.gov/topics/farm-economy/farm-structure-and-organization/farm-structure-and-contracting/
+- https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/assets-debt-and-wealth/
+    - lower liquidity may be bad
+    - locking up resources in hard assets
+    - unable to participate/diversify elsewhere
+- https://www.ers.usda.gov/webdocs/publications/43847/46432_eib123.pdf?v=0
+    - poultry, hogs, greenhouses largest shares of saf sales
+        - things that can live indoors w/ controlled environments
+        - allows intensive growing
+        - year-round production
+    - All farms and small acreage (SA) farms with $10,000 or more in sales in 2007, by operator age
+        - farming population is aging
+    - Small acreage (SA) farms by sales class in 2007
+        - split between opposite ends of the graph
+    - saf only need ~$10k NCFI (net cash farm income) (from 2014) to break even
+
+faas information
+
+- notes
+    - fits into saf productivity
+        - creates "twin"
+        - integrates digitally
+        - encourages data richness
+    - more data fed into fass == better saf integration/orchestration
+    - more data from individual farms == more efficient equipment deployment
+    - give data == get better service (from farmer perspective)
+    - get data == give better service (from provider perspective)
+    - "field-driven actions"
