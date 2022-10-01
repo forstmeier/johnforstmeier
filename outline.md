@@ -8,6 +8,10 @@ general information
     - increase saf specialization
     - inter-farm orchestration
     - usda "farm business" definition == >$350k GCFI or <$350k GCFI with farming as primary occupation
+    - telematics: tracking physiclal resources automatically
+        - https://www.samsara.com/guides/what-is-telematics/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH11774QVvlvZIw1UxOsmNLY1Ogs9oCJy-5YV_YmhNrXN5CdO_4jqV4dDkaAlg5EALw_wcB
+    - samsara (company) - equipment monitoring solution
+        - API: https://developers.samsara.com/reference/overview
 
 - what are GMOs (specifically)?
     - plants genetically improved
@@ -102,3 +106,19 @@ faas information
     - give data == get better service (from farmer perspective)
     - get data == give better service (from provider perspective)
     - "field-driven actions"
+- questions
+    - how many hours is each machine used/needed?
+        - unknown
+        - more active during specific seasons
+        - some regions also more likely to be busier than others
+        - some regions may have longer/shorter seasons
+    - what is the utilization of each farm machine?
+        - unknown
+    - is there a gap between current equipment utilization and max utilization?
+        - no specific answer but almost certainly so
+        - some farmers may already be using something like Samsara
+    - what are custom harvesters/applicators?
+        - applicator: applies pesticides/herbicides/fertilizers
+        - harvester: harvests/collects crops
+    - hourly operational costs are increasing
+        - https://farmdocdaily.illinois.edu/2021/10/machinery-cost-estimates-for-2021.html
