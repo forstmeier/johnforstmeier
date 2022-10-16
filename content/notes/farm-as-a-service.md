@@ -1,0 +1,59 @@
+---
+title: "Farm As A Service"
+date: 2022-10-16T09:06:52-04:00
+draft: false
+---
+
+- followup prior post
+- discussing u.s. farming exceptionalism
+- presented several targets improvement
+- now focusing specific proposed solutions
+- specific points:
+    - small acreage farms
+        - highly specialized crops
+        - need ~$10k to break even (as of 2014)
+        - include gmos
+        - more resillient/higher yield crops
+        - more sustainable/greater nutrition
+    - servicify hardware
+        - don't own + just rent/hire
+        - highly automated
+        - account aging farmers/lower workforce
+        - applicator: applies pesticides/herbicides/fertilizers
+        - harvester: harvests/collects crops
+        - hourly operational costs are increasing
+            - https://farmdocdaily.illinois.edu/2021/10/machinery-cost-estimates-for-2021.html
+    - inter-farm orchestration
+        - create larger "synthetic" farm
+        - allows farmer ownership
+        - distributist approach
+        - economies of scale available larger farms
+        - boost saf output to >$500k (highest/rarest bracket)
+    - digital field twin
+        - sub/pub + data api
+        - create system farmers update
+        - basically maintaining database w/ hardware collection/inputs
+        - more data fed into fass == better saf integration/orchestration
+        - more data from individual farms == more efficient equipment deployment
+        - give data == get better service (from farmer perspective)
+        - get data == give better service (from provider perspective)
+        - "field-driven actions"
+        - telematics: tracking physiclal resources automatically
+            - https://www.samsara.com/guides/what-is-telematics/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH11774QVvlvZIw1UxOsmNLY1Ogs9oCJy-5YV_YmhNrXN5CdO_4jqV4dDkaAlg5EALw_wcB
+        - samsara (company) - equipment monitoring solution
+            - API: https://developers.samsara.com/reference/overview
+    - enclosed + vertical growth
+        - more crops/control
+        - supported by current data
+        - https://www.ers.usda.gov/webdocs/publications/43847/46432_eib123.pdf?v=0
+            - poultry, hogs, greenhouses largest shares of saf sales
+                - things that can live indoors w/ controlled environments
+                - allows intensive growing
+                - year-round production
+        - potential increase crop growth
+            - nasa technics "trick" plants to bloom
+                - blue/red LED lights
+                - ~6x faster
+        - controlled fertilizer applications
+            - boost yields
+            - w/o runoff/soil damage/nutrient depletion
