@@ -14,7 +14,7 @@
       
       <guid>https://johnforstmeier.com/notes/unhinged-engineering/</guid>
       <description>This is a loose collection of aggressive development process ideas. Some I have implemented and others I haven&amp;rsquo;t although I will as soon as the opportunity arises.
-Automated testing: tests are run automatically on each new feature branch and must meet coverage and quality requirements - these should be treated as &amp;ldquo;baseline&amp;rdquo; regression and constantly updated. Automated process: between git branch feature and git merge feature no step should be manual - running tests, checking coverage, enforcing formatting, moving stories, alerting testers, and everything else should be automated.</description>
+Automated testing: tests are run automatically on each new feature branch and must meet coverage and quality requirements - these should be treated as &amp;ldquo;baseline&amp;rdquo; regression and constantly updated by both engineering and QA teams. Push-based process: between git branch feature and git merge feature no step should be manual - running tests, checking coverage, enforcing formatting, moving stories, alerting testers, and everything else should be automated.</description>
     </item>
     
     <item>
