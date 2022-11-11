@@ -3,9 +3,7 @@ title: "Manufacturing Distributism"
 date: 2022-11-10T08:47:38-05:00
 draft: false
 ---
-Anecdotally, the demand for skilled physical labor is outpacing supply.
-
-Technological advances and the distributist [[1](https://en.wikipedia.org/wiki/Distributism "Distributism - Wikipedia")] philosophy are well-positioned to work in tandem in this scenario.
+Anecdotally, the demand for skilled physical labor is outpacing supply in the U.S. Technological advances and the distributist [[1](https://en.wikipedia.org/wiki/Distributism "Distributism - Wikipedia")] philosophy are well-positioned to work in tandem in this scenario.
 
 Providing _direct_ ownership over machinery, robotics, and software that leverages the skilled laborer's abilities encourages participation and increases productivity.
 
