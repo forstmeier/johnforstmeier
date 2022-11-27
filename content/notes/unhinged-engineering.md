@@ -17,10 +17,6 @@ This is a loose collection of aggressive development process ideas. Some I have 
 10. **Single file deploys**: individual pull requests contain a single changed production file - this excludes test files and mandates small, incremental deployments.
 11. **Test in production**: developers manually testing new features in the production environment - this would come _after_ automated tests on feature branches but is still critical because they're never _quite_ the real thing.
 
-For manual testing, QA is a separate person/team but I'm recommending the developer observe in real time as they review since they're "shuttling" the change into production. QA should also basically be adding in automated tests for their manual evaluations so yes, I'd have them cycle through the development team.
-
-On #6, yes, I'd say squash merge into single commits so single commits going out would be the enforcement measure. And deploys to production occur immediately on merge to master which would be blocked on tests passing with additional pushes to that branch triggering test reruns.
-
-This is a non-exhaustive listing but what is here is to encourage _speed_ and _dynamism_ throughout the development cycle.
+This is a non-exhaustive listing but what is here is to encourage _speed_ and _dynamism_ throughout the development cycle by removing arbitrary processes.
 
 > Our enemy is entropy
