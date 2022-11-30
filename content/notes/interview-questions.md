@@ -1,6 +1,6 @@
 ---
 title: "Interview Questions"
-date: 2022-11-29T08:41:58-05:00
+date: 2022-11-30T08:38:58-05:00
 draft: false
 ---
 A personal weakness is evaluating individuals during interviews both as an interviewee and interviewer. To combat this, I want to establish a series of questions to help identify project and team fit. Ideally, these have some sort of concrete "metric-like" answer. Most will be applicable to either scenario.
