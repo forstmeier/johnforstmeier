@@ -6,7 +6,20 @@
     <description>Recent content on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 08:38:58 -0500</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 08:43:57 -0500</lastBuildDate><atom:link href="https://johnforstmeier.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceX Principles</title>
+      <link>https://johnforstmeier.com/notes/spacex-principles/</link>
+      <pubDate>Mon, 19 Dec 2022 08:43:57 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/spacex-principles/</guid>
+      <description>In the Substack post &amp;ldquo;The SpaceX Effect - The Culture Behind SpaceX&amp;rdquo; [1] the authors Jeff Burke [2] and Michael Madrid [3] consolidate the principles driving operations at SpaceX [4].
+Specifically, the second one stood out.
+Delete the part or process.
+This principle forces focus on values over features.
+Cutting out legacy features until teams or users request them back is the goal. Then they can be added back deliberately after weighing pros and cons, values and costs; ideally this also allows for a more precise implementation.</description>
+    </item>
+    
     <item>
       <title>Interview Questions</title>
       <link>https://johnforstmeier.com/notes/interview-questions/</link>
