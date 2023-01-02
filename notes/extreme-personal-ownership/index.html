@@ -15,6 +15,24 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
 </head>
 
 <body>
