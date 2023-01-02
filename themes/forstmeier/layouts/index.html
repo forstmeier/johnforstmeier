@@ -3,7 +3,8 @@
 {{ partial "home.html" . }}
 
 <h2>Notes</h2>
-<ul>
+<input type="text" id="search-notes" onkeyup="searchNotes()" placeholder="Search notes">
+<ul id="note-list">
 	{{ range .Site.RegularPages }}
 	<li class="note">
 		<a href="{{ .Permalink }}">{{ .Title }}</a>

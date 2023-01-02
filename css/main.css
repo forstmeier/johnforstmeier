@@ -41,7 +41,7 @@ code {
   border-radius: 5px;
 }
 
-pre > code {
+pre>code {
   display: block;
   padding: 1rem;
   margin-top: 1rem;
@@ -51,14 +51,14 @@ h2 {
   margin-top: 2rem;
 }
 
-p > img {
+p>img {
   border-radius: 0%;
   height: 100%;
   width: 100%;
 }
 
-li > ol,
-li > ul {
+li>ol,
+li>ul {
   margin-top: 0rem;
   padding-left: 1rem;
 }
@@ -67,7 +67,8 @@ h4,
 hr,
 ol,
 p,
-ul {
+ul,
+input {
   margin-top: 1rem;
 }
 
@@ -82,6 +83,11 @@ th {
 
 td {
   border-top: 1px solid #000000;
+}
+
+input {
+  border-color: #007CCF;
+  border-style: none !important;
 }
 
 .container {
