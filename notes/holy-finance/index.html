@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Holy Finance</h2>
+<div>
+	<p>> 2023-01-04</p>
+	<p><p>Modern finance is a powerful, indirect tool for forward progress.</p>
+<p>However, it often succumbs to greed and aravice or is hijacked by anti-growth systems like ESG [<a href="https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance" title="Environmental, social, and corporate governance - Wikipedia">1</a>].</p>
+<p>This pulls finance away from its greater potential; ways must be found to align finance with noble initiatives. And not just align, but indirectly contribute to through efficient and effective asset allocation.</p>
+<p>Utilizing self-interest to accelerate growth and galvanize action with a pro-human mindset is a challenge but one worth tackling.</p>
+<blockquote>
+<p>Make us greedy for greatness, not merely returns.</p>
+</blockquote>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
