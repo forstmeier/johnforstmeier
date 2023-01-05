@@ -63,7 +63,6 @@ li>ul {
   padding-left: 1rem;
 }
 
-h4,
 hr,
 ol,
 p,
@@ -109,14 +108,5 @@ input {
   .container {
     padding: 1rem;
     width: 100%;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  span.noteinfo {
-    visibility: hidden;
-    display: none;
   }
 }
