@@ -1,6 +1,6 @@
 ---
 title: "Watching: A Man for All Seasons - Devil and Law"
-date: 2022-12-26T10:01:16-05:00
+date: 2023-01-11T08:30:00-05:00
 draft: false
 ---
 My favorite scene from _A Man for All Seasons_ [[1](https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film) "A Man for All Seasons (1966 film) - Wikipedia")] is immediately following Richard Rich's [[2](https://en.wikipedia.org/wiki/Richard_Rich,_1st_Baron_Rich "Richard Rich, 1st Baron Rich - Wikipedia")] dismissal by Saint Thomas More [[3](https://en.wikipedia.org/wiki/Thomas_More "Thomas More - Wikipedia")] where the latter's family urges him to take action against Rich as a potential enemy. A rapid and important dialogue follows, densely packed with lessons with the greatest at the very end.

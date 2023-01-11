@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Watching: A Man for All Seasons - Devil and Law</h2>
+<div>
+	<p>> 2023-01-11</p>
+	<p><p>My favorite scene from <em>A Man for All Seasons</em> [<a href="https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)" title="A Man for All Seasons (1966 film) - Wikipedia">1</a>] is immediately following Richard Rich&rsquo;s [<a href="https://en.wikipedia.org/wiki/Richard_Rich,_1st_Baron_Rich" title="Richard Rich, 1st Baron Rich - Wikipedia">2</a>] dismissal by Saint Thomas More [<a href="https://en.wikipedia.org/wiki/Thomas_More" title="Thomas More - Wikipedia">3</a>] where the latter&rsquo;s family urges him to take action against Rich as a potential enemy. A rapid and important dialogue follows, densely packed with lessons with the greatest at the very end.</p>
+<blockquote>
+<p>&ldquo;Oh? And when the last law was down, and the Devil turned &lsquo;round on you, where would you hide, Roper, the laws all being flat? This country is planted thick with laws, from coast to coast, Man&rsquo;s laws, not God&rsquo;s! And if you cut them down, and you&rsquo;re just the man to do it, do you really think you could stand upright in the winds that would blow then? Yes, I&rsquo;d give the Devil benefit of law, for my own safety&rsquo;s sake!&rdquo; - Saint Thomas More</p>
+</blockquote>
+<p>Never destroy laws holding back Man&rsquo;s worst impulses in pursuit of what <strong>you</strong> hold as a righteous goal - <strong>others</strong> may have similar ideas.</p>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
