@@ -11,14 +11,14 @@ Below is another loose collection of ideas to improve U.S. political function.
 
 > Goal: exact legislative attribution.
 
-1. **Single-issue political platforms**: ad hoc parties formed for hyper-specific purposes. Essentially “one and done” operations put forward specific legislation and endorse candidates that pledge to enact it. After completion, they disband.
+2. **Single-issue political platforms**: ad hoc parties formed for hyper-specific purposes. Essentially “one and done” operations put forward specific legislation and endorse candidates that pledge to enact it. After completion, they disband.
 
 > Goal: outcome-oriented initiatives with broader party appeal.
 
-1. **Single-issue legislation**: this is a longstanding goal of many current politicians but it’s worth reiterating in this list.
+3. **Single-issue legislation**: this is a longstanding goal of many current politicians but it’s worth reiterating in this list.
 
 > Goal: simple and understandable legislation.
 
-1. **Single-payout financial distributions**: any legislation requiring financial payouts must be done in tandem, and only once, with it being passed. This means payouts cannot carry over into the future.
+4. **Single-payout financial distributions**: any legislation requiring financial payouts must be done in tandem, and only once, with it being passed. This means payouts cannot carry over into the future.
 
 > Goal: explicit “re-upping” for financial distributions and capped requisitions.
