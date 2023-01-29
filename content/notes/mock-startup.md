@@ -3,7 +3,11 @@ title: "Mock Startup"
 date: 2023-01-27T10:29:48-05:00
 draft: false
 ---
-Startups combine grand visions with lean resources which require functional **mocks** to be introduced in order to build the project. These mocks can be applied to three major startup areas.
+Startups combine grand visions with lean resources which require functional **mocks** to be introduced in order to build the project. 
+
+Here the term "mock" is taken from software development where they are used in testing environments to provided simulated responses and avoid using production resources. For example, mocking out a database call may involve having the invoked function return fixed data so that a real database is not needed in the course of the test.
+
+These mocks can be conceptually applied to three major startup areas.
 
 **Minimum viable product (MVP)**
 
