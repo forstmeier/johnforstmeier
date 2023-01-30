@@ -15,17 +15,17 @@ MVPs expose the smallest possible surface area capturing real usage to test the 
 
 | Startup | Example |
 |---|---|
-| Cloud seeding | Build software consolidating data identifying optimal seed targets and guide existing infrastructure accordingly |
-| Aerospace assembly | Build software optimizing assembly instructions while keeping existing sourcing and assembly with existing producers |
+| Cloud seeding | Build software consolidating meteorological data to identify optimal seed targets and guide existing infrastructure accordingly |
+| Aerospace assembly | Build software optimizing assembly instructions while keeping existing parts sourcing and construction with customers |
 
 **Minimum viable customer (MVC)**
 
-MVCs establish the slightest relationship with the startup capable of generating value. They fit a targeted, niche profile and provide value through MVP services provided. Actual constracts and payments are mocked.
+MVCs establish the slightest relationship with the startup capable of generating value. They fit a targeted, niche profile the startup can focus on and exchange information for serivces provided by the MVP.
 
 | Startup | Example |
 |---|---|
-| Cloud seeding | Water regulators and pilots divulging pain points and inefficiencies to use orchestration software |
-| Aerospace assembly | Drone manufacturer seeking increased output providing design files and prototypes |
+| Cloud seeding | Water regulators and pilots divulging pain points and inefficiencies in order to use orchestration software |
+| Aerospace assembly | Drone manufacturer seeking increased assembly speed from optimized instructions offering design files as training data |
 
 **Minimum viable investor (MVI)**
 
