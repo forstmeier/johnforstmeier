@@ -6,7 +6,17 @@
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 08:30:00 -0500</lastBuildDate><atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 09:00:00 -0500</lastBuildDate><atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mock Startup</title>
+      <link>https://johnforstmeier.com/notes/mock-startup/</link>
+      <pubDate>Wed, 08 Feb 2023 09:00:00 -0500</pubDate>
+      
+      <guid>https://johnforstmeier.com/notes/mock-startup/</guid>
+      <description>Startups combine grand visions with lean resources which require functional mocks to be introduced in order to build the project.
+Here the term &amp;ldquo;mock&amp;rdquo; is taken from software development where they are used in testing environments to provided simulated responses and avoid using production resources. For example, mocking out a database call may involve having the invoked function return fixed data so that a real database is not needed in the course of the test.</description>
+    </item>
+    
     <item>
       <title>Watching: A Man for All Seasons - Devil and Law</title>
       <link>https://johnforstmeier.com/notes/watching-a-man-for-all-seasons-devil-and-law/</link>

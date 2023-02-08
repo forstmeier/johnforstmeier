@@ -1,6 +1,6 @@
 ---
 title: "Mock Startup"
-date: 2023-01-27T10:29:48-05:00
+date: 2023-02-08T09:00:00-05:00
 draft: false
 ---
 Startups combine grand visions with lean resources which require functional **mocks** to be introduced in order to build the project. 

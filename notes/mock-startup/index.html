@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Mock Startup</h2>
+<div>
+	<p>> 2023-02-08</p>
+	<p><p>Startups combine grand visions with lean resources which require functional <strong>mocks</strong> to be introduced in order to build the project.</p>
+<p>Here the term &ldquo;mock&rdquo; is taken from software development where they are used in testing environments to provided simulated responses and avoid using production resources. For example, mocking out a database call may involve having the invoked function return fixed data so that a real database is not needed in the course of the test.</p>
+<p>These mocks can be conceptually applied to three major startup areas.</p>
+<p><strong>Minimum viable product (MVP)</strong></p>
+<p>MVPs expose the smallest possible surface area capturing real usage to test the product hypothesis with minimal resource outlay. Both software and hardware startups can mock most functionality with simple scripts, manual processes, or existing customer actions.</p>
+<table>
+<thead>
+<tr>
+<th>Startup</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cloud seeding</td>
+<td>Build software consolidating meteorological data to identify optimal seed targets and guide existing infrastructure accordingly</td>
+</tr>
+<tr>
+<td>Aerospace assembly</td>
+<td>Build software optimizing assembly instructions while keeping existing parts sourcing and construction with customers</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Minimum viable customer (MVC)</strong></p>
+<p>MVCs establish the slightest relationship with the startup capable of generating value. They fit a targeted, niche profile the startup can focus on and exchange information for serivces provided by the MVP.</p>
+<table>
+<thead>
+<tr>
+<th>Startup</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cloud seeding</td>
+<td>Water regulators and pilots divulging pain points and inefficiencies in order to use orchestration software</td>
+</tr>
+<tr>
+<td>Aerospace assembly</td>
+<td>Drone manufacturer seeking increased assembly speed from optimized instructions offering design files as training data</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Minimum viable investor (MVI)</strong></p>
+<p>MVIs provide resources to expand the project. Specific investors with appropriate networks help MVPs connect with MVCs without writing a check. The check should not be implemented until there is an absolute need for cash to scale or implement product mocks.</p>
+<table>
+<thead>
+<tr>
+<th>Startup</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cloud seeding</td>
+<td>Provides chemical experts and university connections for testing compounds</td>
+</tr>
+<tr>
+<td>Aerospace assembly</td>
+<td>Introduces to portfolio drone companies benefiting from increased manufacturing throughput</td>
+</tr>
+</tbody>
+</table>
+<p>Treating every resource from a <strong>minimum viable</strong> standpoint encourages efficient utilization.</p>
+<blockquote>
+<p>Startups move quickly and deliver things.</p>
+</blockquote>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
