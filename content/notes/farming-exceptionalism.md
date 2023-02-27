@@ -97,7 +97,7 @@ Many crops, like nuts and fruits, still require significant human involvement.
 
 These are a handful of notable features of U.S. farming that are likely targets for disruption.
 
-The sector has many inefficiencies and fragments that would benefit from innovation. And in doing so, builders here would be positioning the U.S. for agricultural dominance and to potentially become the “world’s bread basket.”
+The sector has many inefficiencies and fragments that would benefit from innovation. And in doing so, builders here would be positioning the U.S. for agricultural dominance and to potentially become the “world’s bread basket.” [[10](https://twitter.com/forstmeier/status/1551946528557830146 "Farming Exceptionalism Twitter thread - Twitter")]
 
 A mission that is both a strategic and moral good.
 
