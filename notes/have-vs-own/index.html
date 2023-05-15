@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Have vs Own</h2>
+<div>
+	<p>> 2023-05-15</p>
+	<p><p>A typical modern stance is to &ldquo;own nothing&rdquo; enhanced by the move into a service-based economy.</p>
+<p>While this may sound appealing and anti-materialistic, it diverges entirely from genuine austerity - something expressed wholly in Catholic monastic orders.</p>
+<p>Whereas the modern world urges <em>non-ownership</em>, the monastics eschew <em>having anything</em> at all.</p>
+<p>The conflation is damaging and seeks to cheapen the greater calling of those true ascetics.</p>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
