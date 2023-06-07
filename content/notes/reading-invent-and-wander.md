@@ -1,5 +1,5 @@
 ---
-title: "Reading Invent and Wander"
+title: "Reading: Invent and Wander"
 date: 2023-06-07T08:58:58-04:00
 draft: false
 ---
