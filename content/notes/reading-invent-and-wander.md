@@ -8,21 +8,48 @@ outline:
 - invent and wander
 - collection writings + talks jeff bezos
 - astoundingly clear look into mind
-- especially shareholder letters
+- interesting specifically shareholder letters
 - many read like blog post / thought pieces
-- even those explicitly discuss amazon
-- display problem solving approach
-- personal favorites
-- "making decisions" 2005
-- highlights rational vs instinctual
-- data vs gut decision making
-- former reliable, latter impactful
-- "working backward" 2008
-- pushing innovation + avoiding stagnation
-- combat complacency w/ core goals over existing competencies
-- overall roadmap build company culture
-- key seems be focus few tenants
-- nore merely lay out
-- enforce through relentless repetition
-- but leave implemention to team
-- "strong rules but few"
+- blueprint company building
+- problem solving + decision making culture
+- noteable ones
+- 1997: It's All About the Long Term
+    - laying groundwork
+    - principles all subsequent letters
+    - personal note fcf over gaap
+    - already thinking long-term
+- 2000: Taking the Long View
+    - classic w/ "ouch"
+    - continues emphasizing long-term
+    - still doing bold bets
+    - despite + midst downturn
+- 2003: Long-Term Thinking
+    - title continues theme
+    - but discusses specific manifestation
+    - often opposition current situation
+    - "long-term thinking" vs "short-term thinking"
+- 2005: Making Decisions
+    - highlights rational vs instinctual
+    - data vs gut decision making
+    - former reliable, latter impactful
+- 2008: Working Backward
+    - pushing innovation + avoiding stagnation
+    - combat complacency w/ core goals over existing competencies
+    - another instance comfort w/ discomfort
+- 2015: Big Winners Pay for Many Experiments
+    - continued failure culture
+    - knowing outcome != experiment
+    - investing in experiments + failure
+    - good pushing growth + innovation
+- two other takeaways
+- 1
+    - focusing few tenants
+    - more than merely lay out
+    - relentless enforce w/ repetition
+    - leave implementation to team
+    - "strong rules but few"
+- 2
+    - understanding business financials + properly aligning
+    - like using gravity roll rock down hill
+    - more or less guaranteed
+    - need focus specifics and let rest fall into place
