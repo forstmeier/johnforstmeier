@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Reading: Invent and Wander</h2>
+<div>
+	<p>> 2023-06-09</p>
+	<p><p><em>Invent and Wander</em> [<a href="https://www.amazon.com/Invent-Wander-Collected-Writings-Introduction/dp/1647820715/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=" title="Invent and Wander - Amazon">1</a>] is a collection of writings and talks by Jeff Bezos [<a href="https://en.wikipedia.org/wiki/Jeff_Bezos" title="Jeff Bezos - Wikipedia">2</a>] that provide an astoundingly clear look into his mind.</p>
+<blockquote>
+<p>It&rsquo;s a blueprint for company building.</p>
+</blockquote>
+<p>The shareholder letters are particularly illuminative in this aspect and often read more like blog posts or thought pieces. A common thread through them all is the importance of a <strong><em>long term perspective</em></strong>. Explicitly or implicitly, that concept is present in every letter and every other tenant builds from that perspective.</p>
+<p>Some personal year standouts:</p>
+<ul>
+<li><strong>1997</strong> [<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312513151836/d511111dex991.htm" title="Amazon 1997 letter to shareholders - SEC">3</a>] establishes the long term perspective and provides explicit principles (e.g. favoring cash flow over GAAP accounting) built on top of it. These principles are shockly consistent and are continuously referred to in later letters.</li>
+<li><strong>1999</strong> [<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm" title="Amazon 1999 letter to shareholders - SEC">4</a>] includes an excellent quote displaying a pure, fundamental business awareness: &ldquo;We have a market-size unconstrained opportunity in an area where the underlying foundational technology we employ improves every day. That is not normal.&rdquo; It&rsquo;s like understanding that once a ball is rolled down a hill, gravity will increase its velocity <em>given time, guaranteed</em>.</li>
+<li><strong>2000</strong> [<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm" title="Amazon 2000 letter to shareholders - SEC">5</a>] is a classic letter that starts with a single word sentence: &ldquo;Ouch.&rdquo; It continues to emphasize the long term perspective and even doubles down on the necessity of bold bets to expand the <em>future</em> business despite the broad market downturn.</li>
+<li><strong>2005</strong> [<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312506084815/dex991.htm" title="Amazon 2005 letter to shareholders - SEC">6</a>] explores decision making and the tradeoffs between rational (data-driven) and instinctual (gut-driven) decision making. The former is more reliable but the latter drives uncapped upside; the latter is <em>required</em> in a long term perspective.</li>
+<li><strong>2008</strong> [<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312509081096/dex991.htm" title="Amazon 2008 letter to shareholders - SEC">7</a>] introduces the concept of &ldquo;working backward&rdquo; to push innovation and avoid stagnation. Starting with immutable core principles instead of leveraging existing competencies forces adaption and combats complacency. Everything is always new.</li>
+<li><strong>2015</strong> [<a href="sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm" title="Amazon 2015 letter to shareholders - SEC">8</a>] highlights the importance of a &ldquo;failure culture&rdquo; - only experimenting and failing can lead to long term <em>leaps</em> in growth.</li>
+</ul>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
