@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>John Forstmeier</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@forstmeier">
+	<meta name="twitter:title" content="John Forstmeier">
+	<meta name="twitter:description" content="Personal website of John Forstmeier">
+	<meta name="twitter:image" content="https://johnforstmeier.com/twitter_card.jpg">
+	<meta name="twitter:image:alt" content="Profile image">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<script>
+		function searchNotes() {
+			var input = document.getElementById('search-notes');
+			var filter = input.value.toUpperCase();
+			var ul = document.getElementById("note-list");
+			var li = ul.getElementsByTagName('li');
+
+			for (var i = 0; i < li.length; i++) {
+				var a = li[i].getElementsByTagName("a")[0];
+				var textValue = a.textContent || a.innerText;
+				if (textValue.toUpperCase().indexOf(filter) > -1) {
+					li[i].style.display = "";
+				} else {
+					li[i].style.display = "none";
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<div class="container">
+
+<h2>Some Investments</h2>
+<div>
+	<p>> 2024-03-11</p>
+	<p><p>I&rsquo;ve made several venture-style investments as an entry-level angel. Below is the initial portfolio.</p>
+<p><strong>Calm Company Fund</strong> [<a href="https://calmfund.com/" title="Calm Company Fund - Calm Company Fund">1</a>]: This was a crowdfunded campaign for the fund company which invests in revenue-generating startups. It&rsquo;s the most thesis-driven stake I&rsquo;ve taken so far as it aligns with my position that SaaS companies should generate revenue immediately given their low barrier to entry. [<a href="https://johnforstmeier.com/notes/bootstrapped-vs-backed/" title="Bootstrapped vs Backed - John Forstmeier">2</a>]</p>
+<p><strong>Vuecason</strong> [<a href="https://www.vuecason.com/" title="Vuecason - Vuecason">3</a>]: In addition to the fascinating technology, the overall vibe compatibility drove this investment. My posts online drew the syndicate leader&rsquo;s attention leading her to solicit my investment. Additionally, the co-founder&rsquo;s overall worldview and problem-solving approach he presented online resonated with me.</p>
+<p><strong>Valar Atomics</strong> [<a href="https://www.valaratomics.com/" title="Valar Atomics - Valar Atomics">4</a>]: There was a similar vibe-based connection here as well as my longstanding interest in nuclear energy. [<a href="https://johnforstmeier.com/notes/georgism-and-energy/" title="Georgism and Energy - John Forstmeier">5</a>] I also found the arbitrage of energy format, nuclear to hydrocarbon, to be a particularly fascinating market-based engine to place the company on.</p>
+</p>
+	<p>> <a href="/">Home</a></p>
+</div>
+
+			<br>
+			<br>
+		</div>
+	</body>
+</html>
+
