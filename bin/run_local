@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 
 hugo server -D &
-local_server_pid=$!
+
+hugo_pid=$!
 
 open http://localhost:1313/
 
 sleep 600
 
-trap 'kill $local_server_pid' SIGINT INT
+trap "kill $hugo_pid" INT
+
+wait $hugo_pid
