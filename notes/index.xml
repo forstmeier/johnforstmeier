@@ -2,913 +2,906 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on John Forstmeier</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>https://johnforstmeier.com/notes/</link>
     <description>Recent content in Notes on John Forstmeier</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2024 08:47:33 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johnforstmeier.com/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Investments</title>
-      <link>http://localhost:1313/notes/some-investments/</link>
+      <link>https://johnforstmeier.com/notes/some-investments/</link>
       <pubDate>Mon, 11 Mar 2024 08:47:33 -0400</pubDate>
-      <guid>http://localhost:1313/notes/some-investments/</guid>
+      <guid>https://johnforstmeier.com/notes/some-investments/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve made several venture-style investments as an entry-level angel. Below is the initial portfolio.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Calm Company Fund&lt;/strong&gt; [&lt;a href=&#34;https://calmfund.com/&#34; title=&#34;Calm Company Fund - Calm Company Fund&#34;&gt;1&lt;/a&gt;]: This was a crowdfunded campaign for the fund company which invests in revenue-generating startups. It&amp;rsquo;s the most thesis-driven stake I&amp;rsquo;ve taken so far as it aligns with my position that SaaS companies should generate revenue immediately given their low barrier to entry. [&lt;a href=&#34;https://johnforstmeier.com/notes/bootstrapped-vs-backed/&#34; title=&#34;Bootstrapped vs Backed - John Forstmeier&#34;&gt;2&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Invent and Wander</title>
-      <link>http://localhost:1313/notes/reading-invent-and-wander/</link>
+      <link>https://johnforstmeier.com/notes/reading-invent-and-wander/</link>
       <pubDate>Fri, 09 Jun 2023 08:58:58 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reading-invent-and-wander/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-invent-and-wander/</guid>
       <description>&lt;p&gt;&lt;em&gt;Invent and Wander&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Invent-Wander-Collected-Writings-Introduction/dp/1647820715/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;amp;qid=&amp;amp;sr=&#34; title=&#34;Invent and Wander - Amazon&#34;&gt;1&lt;/a&gt;] is a collection of writings and talks by Jeff Bezos [&lt;a href=&#34;https://en.wikipedia.org/wiki/Jeff_Bezos&#34; title=&#34;Jeff Bezos - Wikipedia&#34;&gt;2&lt;/a&gt;] that provide an astoundingly clear look into his mind.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a blueprint for company building.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The shareholder letters are particularly illuminative in this aspect and often read more like blog posts or thought pieces. A common thread through them all is the importance of a &lt;strong&gt;&lt;em&gt;long term perspective&lt;/em&gt;&lt;/strong&gt;. Explicitly or implicitly, that concept is present in every letter and every other tenant builds from that perspective.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Have vs Own</title>
-      <link>http://localhost:1313/notes/have-vs-own/</link>
+      <link>https://johnforstmeier.com/notes/have-vs-own/</link>
       <pubDate>Mon, 15 May 2023 19:12:16 -0400</pubDate>
-      <guid>http://localhost:1313/notes/have-vs-own/</guid>
+      <guid>https://johnforstmeier.com/notes/have-vs-own/</guid>
       <description>&lt;p&gt;A typical modern stance is to &amp;ldquo;own nothing&amp;rdquo; enhanced by the move into a service-based economy.&lt;/p&gt;&#xA;&lt;p&gt;While this may sound appealing and anti-materialistic, it diverges entirely from genuine austerity - something expressed wholly in Catholic monastic orders.&lt;/p&gt;&#xA;&lt;p&gt;Whereas the modern world urges &lt;em&gt;non-ownership&lt;/em&gt;, the monastics eschew &lt;em&gt;having anything&lt;/em&gt; at all.&lt;/p&gt;&#xA;&lt;p&gt;The conflation is damaging and seeks to cheapen the greater calling of those true ascetics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Communal Poverty</title>
-      <link>http://localhost:1313/notes/communal-poverty/</link>
+      <link>https://johnforstmeier.com/notes/communal-poverty/</link>
       <pubDate>Sat, 18 Mar 2023 11:12:36 -0400</pubDate>
-      <guid>http://localhost:1313/notes/communal-poverty/</guid>
+      <guid>https://johnforstmeier.com/notes/communal-poverty/</guid>
       <description>&lt;p&gt;While both are, on paper, communal, communism and monasticism share poverty as a characteristic - the former as an inherent bug and the latter as an inherent feature.&lt;/p&gt;&#xA;&lt;p&gt;The adoration of the physical world and the use of it in the pursuit of truth and beauty are two very separate things.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mock Startup</title>
-      <link>http://localhost:1313/notes/mock-startup/</link>
+      <link>https://johnforstmeier.com/notes/mock-startup/</link>
       <pubDate>Wed, 08 Feb 2023 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/mock-startup/</guid>
+      <guid>https://johnforstmeier.com/notes/mock-startup/</guid>
       <description>&lt;p&gt;Startups combine grand visions with lean resources which require functional &lt;strong&gt;mocks&lt;/strong&gt; to be introduced in order to build the project.&lt;/p&gt;&#xA;&lt;p&gt;Here the term &amp;ldquo;mock&amp;rdquo; is taken from software development where they are used in testing environments to provided simulated responses and avoid using production resources. For example, mocking out a database call may involve having the invoked function return fixed data so that a real database is not needed in the course of the test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Watching: A Man for All Seasons - Devil and Law</title>
-      <link>http://localhost:1313/notes/watching-a-man-for-all-seasons-devil-and-law/</link>
+      <link>https://johnforstmeier.com/notes/watching-a-man-for-all-seasons-devil-and-law/</link>
       <pubDate>Wed, 11 Jan 2023 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/watching-a-man-for-all-seasons-devil-and-law/</guid>
+      <guid>https://johnforstmeier.com/notes/watching-a-man-for-all-seasons-devil-and-law/</guid>
       <description>&lt;p&gt;My favorite scene from &lt;em&gt;A Man for All Seasons&lt;/em&gt; [&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)&#34; title=&#34;A Man for All Seasons (1966 film) - Wikipedia&#34;&gt;1&lt;/a&gt;] is immediately following Richard Rich&amp;rsquo;s [&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Rich,_1st_Baron_Rich&#34; title=&#34;Richard Rich, 1st Baron Rich - Wikipedia&#34;&gt;2&lt;/a&gt;] dismissal by Saint Thomas More [&lt;a href=&#34;https://en.wikipedia.org/wiki/Thomas_More&#34; title=&#34;Thomas More - Wikipedia&#34;&gt;3&lt;/a&gt;] where the latter&amp;rsquo;s family urges him to take action against Rich as a potential enemy. A rapid and important dialogue follows, densely packed with lessons with the greatest at the very end.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Holy Finance</title>
-      <link>http://localhost:1313/notes/holy-finance/</link>
+      <link>https://johnforstmeier.com/notes/holy-finance/</link>
       <pubDate>Wed, 04 Jan 2023 08:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/holy-finance/</guid>
+      <guid>https://johnforstmeier.com/notes/holy-finance/</guid>
       <description>&lt;p&gt;Modern finance is a powerful, indirect tool for forward progress.&lt;/p&gt;&#xA;&lt;p&gt;However, it often succumbs to greed and aravice or is hijacked by anti-growth systems like ESG [&lt;a href=&#34;https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance&#34; title=&#34;Environmental, social, and corporate governance - Wikipedia&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;This pulls finance away from its greater potential; ways must be found to align finance with noble initiatives. And not just align, but indirectly contribute to through efficient and effective asset allocation.&lt;/p&gt;&#xA;&lt;p&gt;Utilizing self-interest to accelerate growth and galvanize action with a pro-human mindset is a challenge but one worth tackling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Watching: A Man for All Seasons - Rich and More</title>
-      <link>http://localhost:1313/notes/watching-a-man-for-all-seasons-rich-and-more/</link>
+      <link>https://johnforstmeier.com/notes/watching-a-man-for-all-seasons-rich-and-more/</link>
       <pubDate>Thu, 29 Dec 2022 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/watching-a-man-for-all-seasons-rich-and-more/</guid>
+      <guid>https://johnforstmeier.com/notes/watching-a-man-for-all-seasons-rich-and-more/</guid>
       <description>&lt;p&gt;Some of the most compelling scenes in &lt;em&gt;A Man for All Seasons&lt;/em&gt; [&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)&#34; title=&#34;A Man for All Seasons (1996 film) - Wikipedia&#34;&gt;1&lt;/a&gt;] are between Saint Thomas More [&lt;a href=&#34;https://en.wikipedia.org/wiki/Thomas_More&#34; title=&#34;Thomas More - Wikipedia&#34;&gt;2&lt;/a&gt;] and Richard Rich [&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Rich,_1st_Baron_Rich&#34; title=&#34;Richard Rich, 1st Baron Rich - Wikipedia&#34;&gt;3&lt;/a&gt;]. Each chronicles the gradual fall of the latter while the former remains stalwart.&lt;/p&gt;&#xA;&lt;p&gt;Below are some of the more notable interactions.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nortfolk asks More about Rich and if he recommends him which More declines - already the importance More puts on his word is being highlighted.&lt;/li&gt;&#xA;&lt;li&gt;More offers Rich a teaching role and counsels against going where he will be tempted - this indicates that More is not tempted by the powers of higher office and predicts Rich&amp;rsquo;s later choices.&lt;/li&gt;&#xA;&lt;li&gt;Rich begs More for a position which More refuses - More&amp;rsquo;s strategic care comes into conflict with Rich&amp;rsquo;s ambitious weakness.&lt;/li&gt;&#xA;&lt;li&gt;More&amp;rsquo;s various interrogations by Cromwell and others are observed by Rich - these juxtapose their choices leading to ongoing hardships and immediate rewards, respectively.&lt;/li&gt;&#xA;&lt;li&gt;Rich perjures himself and the two share a last interaction over his new seal of office - Rich must face what he has done by succumbing to his lesser impulses.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;In the end, Rich&amp;rsquo;s fate to &amp;ldquo;die in his bed&amp;rdquo; only serves to tell us the most important lesson: &lt;strong&gt;we all must die but our conduct before then is what truly matters&lt;/strong&gt;. [&lt;a href=&#34;https://www.youtube.com/watch?v=-zuNxMCTTDc&#34; title=&#34;A Man for All Seasons Soundtrack: Opening Credits - YouTube&#34;&gt;4&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpaceX Principles</title>
-      <link>http://localhost:1313/notes/spacex-principles/</link>
+      <link>https://johnforstmeier.com/notes/spacex-principles/</link>
       <pubDate>Mon, 19 Dec 2022 08:43:57 -0500</pubDate>
-      <guid>http://localhost:1313/notes/spacex-principles/</guid>
-      <description>&lt;p&gt;In the Substack post &amp;ldquo;The SpaceX Effect - The Culture Behind SpaceX&amp;rdquo; [&lt;a href=&#34;https://jeffburke.substack.com/p/the-spacex-effect-the-culture-behind&#34; title=&#34;The SpaceX Effect - The Culture Behind SpaceX - Substack&#34;&gt;1&lt;/a&gt;] the authors Jeff Burke [&lt;a href=&#34;https://twitter.com/Jeff_Burke14&#34; title=&#34;Jeff Burke - Twitter&#34;&gt;2&lt;/a&gt;] and Michael Madrid [&lt;a href=&#34;https://twitter.com/buildingMadrid&#34; title=&#34;Michael Madrid - Twitter&#34;&gt;3&lt;/a&gt;] consolidate the principles driving operations at SpaceX [&lt;a href=&#34;https://www.spacex.com/&#34; title=&#34;SpaceX - Spacex&#34;&gt;4&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/spacex-principles.png&#34; alt=&#34;SpaceX Principles&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Specifically, the second one stood out.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Delete the part or process.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This principle forces focus on &lt;strong&gt;values&lt;/strong&gt; over &lt;strong&gt;features&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Cutting out legacy features until teams or users request them back is the goal. Then they can be added back deliberately after weighing pros and cons, values and costs; ideally this also allows for a more precise implementation.&lt;/p&gt;</description>
+      <guid>https://johnforstmeier.com/notes/spacex-principles/</guid>
+      <description>&lt;p&gt;In the Substack post &amp;ldquo;The SpaceX Effect - The Culture Behind SpaceX&amp;rdquo; [&lt;a href=&#34;https://jeffburke.substack.com/p/the-spacex-effect-the-culture-behind&#34; title=&#34;The SpaceX Effect - The Culture Behind SpaceX - Substack&#34;&gt;1&lt;/a&gt;] the authors Jeff Burke [&lt;a href=&#34;https://twitter.com/Jeff_Burke14&#34; title=&#34;Jeff Burke - Twitter&#34;&gt;2&lt;/a&gt;] and Michael Madrid [&lt;a href=&#34;https://twitter.com/buildingMadrid&#34; title=&#34;Michael Madrid - Twitter&#34;&gt;3&lt;/a&gt;] consolidate the principles driving operations at SpaceX [&lt;a href=&#34;https://www.spacex.com/&#34; title=&#34;SpaceX - Spacex&#34;&gt;4&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://johnforstmeier.com/images/spacex-principles.png&#34; alt=&#34;SpaceX Principles&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Specifically, the second one stood out.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Delete the part or process.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This principle forces focus on &lt;strong&gt;values&lt;/strong&gt; over &lt;strong&gt;features&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Cutting out legacy features until teams or users request them back is the goal. Then they can be added back deliberately after weighing pros and cons, values and costs; ideally this also allows for a more precise implementation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview Questions</title>
-      <link>http://localhost:1313/notes/interview-questions/</link>
+      <link>https://johnforstmeier.com/notes/interview-questions/</link>
       <pubDate>Wed, 30 Nov 2022 08:38:58 -0500</pubDate>
-      <guid>http://localhost:1313/notes/interview-questions/</guid>
+      <guid>https://johnforstmeier.com/notes/interview-questions/</guid>
       <description>&lt;p&gt;A personal weakness is evaluating individuals during interviews both as an interviewee and interviewer. To combat this, I want to establish a series of questions to help identify project and team fit. Ideally, these have some sort of concrete &amp;ldquo;metric-like&amp;rdquo; answer. Most will be applicable to either scenario.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;List&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What percent of your savings would you put into this project?&lt;/li&gt;&#xA;&lt;li&gt;What is your minimum viable product for this project?&lt;/li&gt;&#xA;&lt;li&gt;What are you currently doing that doesn&amp;rsquo;t scale?&lt;/li&gt;&#xA;&lt;li&gt;Which of no bugs, all features, and on time do you pick for this project?&lt;/li&gt;&#xA;&lt;li&gt;Would you choose to deploy 70% of value to a user in 1 week or 90% of value in 2 weeks?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ever Upward</title>
-      <link>http://localhost:1313/notes/ever-upward/</link>
+      <link>https://johnforstmeier.com/notes/ever-upward/</link>
       <pubDate>Mon, 14 Nov 2022 08:48:01 -0500</pubDate>
-      <guid>http://localhost:1313/notes/ever-upward/</guid>
+      <guid>https://johnforstmeier.com/notes/ever-upward/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Turn your eyes to heaven.&lt;br&gt;&#xA;Humanity&amp;rsquo;s place among the stars.&lt;br&gt;&#xA;That is where we must be.&lt;br&gt;&#xA;Put your might and spirit towards the endeavor.&lt;br&gt;&#xA;Build robots, factories, ships.&lt;br&gt;&#xA;Build stations, colonies, civilizations.&lt;br&gt;&#xA;Build monuments, constellations, worlds.&lt;br&gt;&#xA;Take the dreamings of your mind and will them into existence.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Clever vs Simple</title>
-      <link>http://localhost:1313/notes/clever-vs-simple/</link>
+      <link>https://johnforstmeier.com/notes/clever-vs-simple/</link>
       <pubDate>Sat, 12 Nov 2022 19:33:37 -0500</pubDate>
-      <guid>http://localhost:1313/notes/clever-vs-simple/</guid>
+      <guid>https://johnforstmeier.com/notes/clever-vs-simple/</guid>
       <description>&lt;p&gt;Being clever is stupid.&lt;/p&gt;&#xA;&lt;p&gt;Being simple is smart.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t over-complicate solutions.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Manufacturing Distributism</title>
-      <link>http://localhost:1313/notes/manufacturing-distributism/</link>
+      <link>https://johnforstmeier.com/notes/manufacturing-distributism/</link>
       <pubDate>Thu, 10 Nov 2022 08:47:38 -0500</pubDate>
-      <guid>http://localhost:1313/notes/manufacturing-distributism/</guid>
+      <guid>https://johnforstmeier.com/notes/manufacturing-distributism/</guid>
       <description>&lt;p&gt;Anecdotally, the demand for skilled physical labor is outpacing supply in the U.S. Technological advances and the distributist [&lt;a href=&#34;https://en.wikipedia.org/wiki/Distributism&#34; title=&#34;Distributism - Wikipedia&#34;&gt;1&lt;/a&gt;] philosophy are well-positioned to work in tandem in this scenario.&lt;/p&gt;&#xA;&lt;p&gt;Providing &lt;em&gt;direct&lt;/em&gt; ownership over machinery, robotics, and software that leverages the skilled laborer&amp;rsquo;s abilities encourages participation and increases productivity.&lt;/p&gt;&#xA;&lt;p&gt;Bringing together these skilled individual owners under a separately owned but &lt;em&gt;centrally&lt;/em&gt; organized factory would allow for optimal coordination of these resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unhinged Engineering</title>
-      <link>http://localhost:1313/notes/unhinged-engineering/</link>
+      <link>https://johnforstmeier.com/notes/unhinged-engineering/</link>
       <pubDate>Fri, 04 Nov 2022 08:37:09 -0400</pubDate>
-      <guid>http://localhost:1313/notes/unhinged-engineering/</guid>
+      <guid>https://johnforstmeier.com/notes/unhinged-engineering/</guid>
       <description>&lt;p&gt;This is a loose collection of aggressive development process ideas. Some I have implemented and others I haven&amp;rsquo;t although I will as soon as the opportunity arises.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated testing&lt;/strong&gt;: tests are run automatically on each new &lt;code&gt;feature&lt;/code&gt; branch and must meet coverage and quality requirements - these should be treated as &amp;ldquo;baseline&amp;rdquo; regression and constantly updated by both engineering and QA teams.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Push-based process&lt;/strong&gt;: between &lt;code&gt;git branch feature&lt;/code&gt; and &lt;code&gt;git merge feature&lt;/code&gt; no step should be manual - running tests, checking coverage, enforcing formatting, moving stories, alerting testers, and everything else should be automated.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extreme custodianship&lt;/strong&gt;: no change is &amp;ldquo;handed off&amp;rdquo; to the next team (e.g. QA) - every proposed change is closely followed by the requesting developer through each step of the process which should ideally be short.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No documentation&lt;/strong&gt;: everything must be derived from code living in Git - self-documenting code through naming conventions, method annotations, or AI-generated interpretations must be based off of code which is the single source of truth.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;QA collaboration&lt;/strong&gt;: developers join QA teams in manually reviewing &lt;code&gt;feature&lt;/code&gt; branches - this should a) make testing requirements explicit and b) allow developers to immediately understand issues as they are discovered turning a bottleneck into a value-add.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dual branches&lt;/strong&gt;: only &lt;code&gt;master&lt;/code&gt; and &lt;code&gt;feature&lt;/code&gt; branches exist in the development process - &lt;code&gt;feature&lt;/code&gt; branches are created on-demand for each pull request with &lt;code&gt;master&lt;/code&gt; as the source of truth protected by merge requirements and is constantly deployed to production from &lt;code&gt;HEAD&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Single commit deploys&lt;/strong&gt;: a single, squashed, logical piece of work attached to a story under the responsibility of a sole developer - this isolates blast radius and decreases complexity in understanding errors as they arise from automatic deploys from merges into &lt;code&gt;master&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Single severity bugs&lt;/strong&gt;: every bug is a &lt;em&gt;top&lt;/em&gt; severity and &lt;em&gt;everything&lt;/em&gt; stops until a fix has been introduced for it - this removes questions around priority or potentially losing it in a backlog.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Roll forward fixes&lt;/strong&gt;: bug in production are fixed via pull request incrementing the release number - rollback strategies are admitting you were wrong while rollforward strategies are declaring you just weren&amp;rsquo;t right yet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Single file deploys&lt;/strong&gt;: individual pull requests contain a single changed production file - this excludes test files and mandates small, incremental deployments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Test in production&lt;/strong&gt;: developers manually testing new features in the production environment - this would come &lt;em&gt;after&lt;/em&gt; automated tests on feature branches but is still critical because they&amp;rsquo;re never &lt;em&gt;quite&lt;/em&gt; the real thing.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This is a non-exhaustive listing but what is here is to encourage &lt;em&gt;speed&lt;/em&gt; and &lt;em&gt;dynamism&lt;/em&gt; throughout the development cycle by removing arbitrary processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Farm As A Service</title>
-      <link>http://localhost:1313/notes/farm-as-a-service/</link>
+      <link>https://johnforstmeier.com/notes/farm-as-a-service/</link>
       <pubDate>Thu, 20 Oct 2022 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/farm-as-a-service/</guid>
+      <guid>https://johnforstmeier.com/notes/farm-as-a-service/</guid>
       <description>&lt;p&gt;As a followup to a post regarding U.S. farming exceptionalism [&lt;a href=&#34;https://johnforstmeier.com/notes/farming-exceptionalism/&#34; title=&#34;Farming Exceptionalism - Forstmeier&#34;&gt;1&lt;/a&gt;], specific targets for farming improvements are laid out here. These proposals apply specifically to small acreage farms. [&lt;a href=&#34;https://www.ers.usda.gov/webdocs/publications/43847/46432_eib123.pdf?v=0&#34; title=&#34;USDA - Working the Land with 10 Acres&#34;&gt;2&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Small acreage farms&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As discussed in the original piece, these farms (classified by the USDA as having 10 or fewer acres) benefit from positioning themselves in highly niche products or product lifecycle stages. Additionally, introducing GMOs would help to boost small crop resillience and yield. As of 2014, farms of this size only need $10k GCFI to break even.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human Self-Control</title>
-      <link>http://localhost:1313/notes/human-self-control/</link>
+      <link>https://johnforstmeier.com/notes/human-self-control/</link>
       <pubDate>Fri, 14 Oct 2022 09:17:10 -0400</pubDate>
-      <guid>http://localhost:1313/notes/human-self-control/</guid>
+      <guid>https://johnforstmeier.com/notes/human-self-control/</guid>
       <description>&lt;p&gt;Personally instigated deprivation is a &lt;strong&gt;uniquely&lt;/strong&gt; human ability.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Animals act on base instincts as they arise&lt;/li&gt;&#xA;&lt;li&gt;Humans can delay gratification and mortify&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;To exert self-control is to be human.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Complacent Luxury</title>
-      <link>http://localhost:1313/notes/complacent-luxury/</link>
+      <link>https://johnforstmeier.com/notes/complacent-luxury/</link>
       <pubDate>Wed, 12 Oct 2022 08:46:47 -0400</pubDate>
-      <guid>http://localhost:1313/notes/complacent-luxury/</guid>
+      <guid>https://johnforstmeier.com/notes/complacent-luxury/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Luxury is not an excuse for complacency.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;If you’re afforded an advantage, or even just a nice thing, leverage it. Push yourself - you were not meant to simply enjoy the thing.&lt;/p&gt;&#xA;&lt;p&gt;Make use of it and grow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Red Famine</title>
-      <link>http://localhost:1313/notes/reading-red-famine/</link>
+      <link>https://johnforstmeier.com/notes/reading-red-famine/</link>
       <pubDate>Mon, 19 Sep 2022 08:33:24 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reading-red-famine/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-red-famine/</guid>
       <description>&lt;p&gt;Anne Applebaum&amp;rsquo;s &lt;em&gt;Red Famine: Stalin&amp;rsquo;s War on Ukraine&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Red-Famine-Stalins-War-Ukraine/dp/0804170886/ref=sr_1_1?keywords=red+famine+anne+applebaum&amp;amp;qid=1663591400&amp;amp;sprefix=red+famine%2Caps%2C52&amp;amp;sr=8-1&#34; title=&#34;Red Famine: Stalin&#39;s War on Ukraine - Amazon&#34;&gt;1&lt;/a&gt;] provides an explicit accounting of the manmade famines in Ukraine under the rule of the Soviet Union.&lt;/p&gt;&#xA;&lt;p&gt;What is chronicled is not just pertinent given the modern Russian and Ukrainian geopolitical position but also how authoritarian, socialist operations use oppresive, divisive tactics to build their power while annihilating humans living under their control.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Some of these same tactics can even be seen in modern America.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Population and Automation</title>
-      <link>http://localhost:1313/notes/population-and-automation/</link>
+      <link>https://johnforstmeier.com/notes/population-and-automation/</link>
       <pubDate>Tue, 06 Sep 2022 08:34:54 -0400</pubDate>
-      <guid>http://localhost:1313/notes/population-and-automation/</guid>
+      <guid>https://johnforstmeier.com/notes/population-and-automation/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Population decline is a greater threat to social cohesion than employment automation.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Increased automation typically leads to increased productivity; historically, it has triggered the creation of entirely new industries (e.g. motor vehicles).&lt;/p&gt;&#xA;&lt;p&gt;Declining populations provide no economic or social benfit - in this scenario, there are few young, productive individuals required to support many old, dependent individuals.&lt;/p&gt;&#xA;&lt;p&gt;Not only is automation &lt;strong&gt;&lt;em&gt;not bad&lt;/em&gt;&lt;/strong&gt;, we&amp;rsquo;re going to need &lt;strong&gt;&lt;em&gt;significantly more&lt;/em&gt;&lt;/strong&gt; of it in the future especially in the face of population decline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Brainstorm No. 3</title>
-      <link>http://localhost:1313/notes/political-brainstorm-no-3/</link>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-3/</link>
       <pubDate>Tue, 23 Aug 2022 11:11:22 -0400</pubDate>
-      <guid>http://localhost:1313/notes/political-brainstorm-no-3/</guid>
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-3/</guid>
       <description>&lt;p&gt;Below is another loose collection of ideas to improve U.S. political function.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ideas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git-tracked legislation&lt;/strong&gt;: while developing legislation, changes introduced by different members should be tracked in Git or a Git-like platform that would allow exact &lt;code&gt;blame&lt;/code&gt; to be attributed. Additionally, this could be overlayed with political donation records to know exactly what influences there were. Note that this is basically if there are no single-issue bills available.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Goal: exact legislative attribution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distributed Terrorism</title>
-      <link>http://localhost:1313/notes/distributed-terrorism/</link>
+      <link>https://johnforstmeier.com/notes/distributed-terrorism/</link>
       <pubDate>Fri, 05 Aug 2022 08:50:18 -0400</pubDate>
-      <guid>http://localhost:1313/notes/distributed-terrorism/</guid>
+      <guid>https://johnforstmeier.com/notes/distributed-terrorism/</guid>
       <description>&lt;p&gt;This is a thought experiment on &lt;strong&gt;alternative terrorist attack vectors&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;General hallmarks of terroism are violent attacks against non-combatants to achieve ideological goals. Additionally, in my own observations it typically involves:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;improvised weaponry (such as hijacked airplanes)&lt;/li&gt;&#xA;&lt;li&gt;leveraged impact (high target/attacker ratio)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The &lt;em&gt;latter&lt;/em&gt; is what I&amp;rsquo;m inverting in this scenario.&lt;/p&gt;&#xA;&lt;p&gt;Instead of several attackers hitting large collections of targets, several attackers would target individual or small groups of targets separately.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Farming Exceptionalism</title>
-      <link>http://localhost:1313/notes/farming-exceptionalism/</link>
+      <link>https://johnforstmeier.com/notes/farming-exceptionalism/</link>
       <pubDate>Mon, 25 Jul 2022 14:40:28 -0400</pubDate>
-      <guid>http://localhost:1313/notes/farming-exceptionalism/</guid>
+      <guid>https://johnforstmeier.com/notes/farming-exceptionalism/</guid>
       <description>&lt;p&gt;&lt;strong&gt;U.S. agricultural dominance&lt;/strong&gt; entails food independence and net exports in trade. This ensures a strong &lt;em&gt;national security posture&lt;/em&gt; and allows &lt;em&gt;soft power projection&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Achieving this means increasing farm productivity and output.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Below are several features and opportunities within U.S. farming that may be targets for improvement.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Imports and exports&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The U.S. is the world’s largest agricultural exporter. However, in 2020 there was a deficit as more foods were imported. Data from the USITC [&lt;a href=&#34;https://www.usitc.gov/research_and_analysis/tradeshifts/2020/agriculture.htm&#34; title=&#34;Trade Shift Index 2020 Agricultural Products - United States International Trade Commission&#34;&gt;1&lt;/a&gt;] shows that our trading partner mix is evolving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Futurist and Traditionalist</title>
-      <link>http://localhost:1313/notes/futurist-and-traditionalist/</link>
+      <link>https://johnforstmeier.com/notes/futurist-and-traditionalist/</link>
       <pubDate>Fri, 01 Jul 2022 20:21:17 -0400</pubDate>
-      <guid>http://localhost:1313/notes/futurist-and-traditionalist/</guid>
+      <guid>https://johnforstmeier.com/notes/futurist-and-traditionalist/</guid>
       <description>&lt;p&gt;My own philosophy is a combination of &lt;strong&gt;futurist&lt;/strong&gt; and &lt;strong&gt;traditionalist&lt;/strong&gt; perspectives.&lt;/p&gt;&#xA;&lt;p&gt;Both &lt;em&gt;progressive&lt;/em&gt; and &lt;em&gt;conservative&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I revere and retain our shared histories and traditions while simultaneously cultivating and creating our future and forward progress.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;After all, what are we preserving the past for if not for the future?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Software Method Design</title>
-      <link>http://localhost:1313/notes/software-method-design/</link>
+      <link>https://johnforstmeier.com/notes/software-method-design/</link>
       <pubDate>Mon, 20 Jun 2022 10:18:06 -0400</pubDate>
-      <guid>http://localhost:1313/notes/software-method-design/</guid>
+      <guid>https://johnforstmeier.com/notes/software-method-design/</guid>
       <description>&lt;p&gt;This is a high-level outline of my current approach to method design in software. It&amp;rsquo;s not groundbreaking - it&amp;rsquo;s more just my working mental model.&lt;/p&gt;&#xA;&lt;p&gt;Methods are split into two types:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Manipulators&lt;/li&gt;&#xA;&lt;li&gt;Managers&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Manipulators&lt;/strong&gt; are responsible for in-memory actions like creating or updating resources - for example &lt;code&gt;struct&lt;/code&gt; types representing domain objects. &lt;strong&gt;Managers&lt;/strong&gt; do the storing and fetching of those &lt;code&gt;struct&lt;/code&gt; types to and from the persistence layer.&lt;/p&gt;&#xA;&lt;p&gt;By keeping these two method types &lt;em&gt;very&lt;/em&gt; separate, code is easily decoupled. Definining them in their own &lt;code&gt;interface&lt;/code&gt; types, implementing them in their own package, and then exporting them to their callsite makes for a highly mentally comprehensible and easily tested codebase.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Asceticism</title>
-      <link>http://localhost:1313/notes/asceticism/</link>
+      <link>https://johnforstmeier.com/notes/asceticism/</link>
       <pubDate>Thu, 16 Jun 2022 08:57:53 -0400</pubDate>
-      <guid>http://localhost:1313/notes/asceticism/</guid>
+      <guid>https://johnforstmeier.com/notes/asceticism/</guid>
       <description>&lt;p&gt;To me, &lt;strong&gt;asceticism&lt;/strong&gt; can be framed in two different ways.&lt;/p&gt;&#xA;&lt;p&gt;One is:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Saying &amp;ldquo;no&amp;rdquo; to many things.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;And the other is:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Saying &amp;ldquo;yes&amp;rdquo; to a few things.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In a secular setting, both accomplish the goal of living simply. I do prefer the latter which is in itself a simpler solution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code Ignorance Obfuscation</title>
-      <link>http://localhost:1313/notes/code-ignorance-obfuscation/</link>
+      <link>https://johnforstmeier.com/notes/code-ignorance-obfuscation/</link>
       <pubDate>Fri, 27 May 2022 09:18:16 -0400</pubDate>
-      <guid>http://localhost:1313/notes/code-ignorance-obfuscation/</guid>
+      <guid>https://johnforstmeier.com/notes/code-ignorance-obfuscation/</guid>
       <description>&lt;p&gt;Following test-driven development [&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34; title=&#34;Test-driven development - Wikipedia&#34;&gt;1&lt;/a&gt;] can compensate for broad gaps in knowledge of the language being used.&lt;/p&gt;&#xA;&lt;p&gt;For example, situations where &lt;em&gt;values&lt;/em&gt; are passed instead of &lt;em&gt;pointers&lt;/em&gt; or some tricky &lt;code&gt;break&lt;/code&gt; statement can all be accounted for in the test suite. If the code is modular enough and the tests are fairly exhaustive, the actual implementation doesn&amp;rsquo;t really matter - as long as the &lt;strong&gt;contract between the method and the tests is respected, you don&amp;rsquo;t need to know how it makes anything happen&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principles-First Startups</title>
-      <link>http://localhost:1313/notes/principles-first-startups/</link>
+      <link>https://johnforstmeier.com/notes/principles-first-startups/</link>
       <pubDate>Thu, 19 May 2022 08:32:33 -0400</pubDate>
-      <guid>http://localhost:1313/notes/principles-first-startups/</guid>
+      <guid>https://johnforstmeier.com/notes/principles-first-startups/</guid>
       <description>&lt;p&gt;Many, if not most, startups are founded to solve a specific problem. Now I&amp;rsquo;m increasingly noticing startups founded around &lt;strong&gt;defending specific principles&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s really interesting seeing founders standing for a set of principles and then finding a way for the market to support and defend those principles through private enterprise. Examples of these principles are defending U.S. constitutional rights or Western thought and ideals.&lt;/p&gt;&#xA;&lt;p&gt;Startups built like this are incapable of caving to serve fad ideologies or immoral positions because their entire purpose, and profit incentives, are aligned with their &lt;strong&gt;principles-first approach&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Time Investment</title>
-      <link>http://localhost:1313/notes/project-time-investment/</link>
+      <link>https://johnforstmeier.com/notes/project-time-investment/</link>
       <pubDate>Thu, 21 Apr 2022 08:30:19 -0400</pubDate>
-      <guid>http://localhost:1313/notes/project-time-investment/</guid>
+      <guid>https://johnforstmeier.com/notes/project-time-investment/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The time investment for a project is less than the sum of its tasks.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Maybe it&amp;rsquo;s not the clearest statement, but it means if you do lots of smaller, quicker steps, the entire project will get done faster than if they were done in fewer, slower steps. This is just my personal observation but it seems to hold true when the estimated time to completion is equal for both approaches.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build by Elimination</title>
-      <link>http://localhost:1313/notes/build-by-elimination/</link>
+      <link>https://johnforstmeier.com/notes/build-by-elimination/</link>
       <pubDate>Fri, 15 Apr 2022 13:08:52 -0400</pubDate>
-      <guid>http://localhost:1313/notes/build-by-elimination/</guid>
+      <guid>https://johnforstmeier.com/notes/build-by-elimination/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Forward momentum&lt;/strong&gt; is an important component of actually building things. There are basically two options for keeping that momentum high:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Increase the pace of item production&lt;/li&gt;&#xA;&lt;li&gt;Decrease the number of items in production&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The latter is most applicable to MVPs (&amp;ldquo;minimum viable products&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Reducing things to do increases productive turnover and avoids maintaining large mental overhead associated with bigger chunks of work. If it feels like it&amp;rsquo;ll take a long time, the first instinct should be to just say &amp;ldquo;let&amp;rsquo;s try it without it.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extreme Personal Ownership</title>
-      <link>http://localhost:1313/notes/extreme-personal-ownership/</link>
+      <link>https://johnforstmeier.com/notes/extreme-personal-ownership/</link>
       <pubDate>Tue, 22 Mar 2022 08:41:58 -0400</pubDate>
-      <guid>http://localhost:1313/notes/extreme-personal-ownership/</guid>
+      <guid>https://johnforstmeier.com/notes/extreme-personal-ownership/</guid>
       <description>&lt;p&gt;I seek a future of &lt;strong&gt;&lt;em&gt;extreme ownership&lt;/em&gt;&lt;/strong&gt;. Individuals owning increasingly greater elements so each may personally steward the world around them.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Spaceships, space stations, planets, solar systems, galaxies.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Each person &lt;em&gt;individually&lt;/em&gt; protecting greater tracts of creation. While some may still be drawn to the noble pursuit of asceticism, many must shoulder the mantle of the universe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Chaos Monkeys</title>
-      <link>http://localhost:1313/notes/reading-chaos-monkeys/</link>
+      <link>https://johnforstmeier.com/notes/reading-chaos-monkeys/</link>
       <pubDate>Wed, 16 Mar 2022 18:15:16 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reading-chaos-monkeys/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-chaos-monkeys/</guid>
       <description>&lt;p&gt;This is a brief summary of my takeaways from &lt;em&gt;Chaos Monkeys&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458205/ref=sr_1_1?keywords=chaos+monkeys&amp;amp;qid=1647469106&amp;amp;s=books&amp;amp;sprefix=chaos+monkeys%2Cstripbooks%2C66&amp;amp;sr=1-1&#34; title=&#34;Chaos Monkeys - Amazon&#34;&gt;1&lt;/a&gt;] by Antonio Garcia Martinez [&lt;a href=&#34;https://antoniogarciamartinez.com/&#34; title=&#34;Antonio Garcia Martinez - Website&#34;&gt;2&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a phenomenal education without the textbook.&lt;/p&gt;&#xA;&lt;p&gt;In particular, the way Martinez recounts navigating the interpersonal relationships in his professional endeavours is highly valuable. It is something that can only be taught directly (your own experience) or recounted (his own experience) - doing so in a classroom would be absurd and stilted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software Development Emotional Cycle</title>
-      <link>http://localhost:1313/notes/software-development-emotional-cycle/</link>
+      <link>https://johnforstmeier.com/notes/software-development-emotional-cycle/</link>
       <pubDate>Thu, 10 Mar 2022 08:42:24 -0500</pubDate>
-      <guid>http://localhost:1313/notes/software-development-emotional-cycle/</guid>
-      <description>&lt;p&gt;Writing software typically occurs in rapid iterations and can have a similarly rapid emotional cycle attached to the work. Personally, this can be mapped to &lt;strong&gt;confidence over time&lt;/strong&gt; in the plot below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/softare-development-emotional-cycle-plot.jpg&#34; alt=&#34;Software development emotional cycle plot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The pattern goes something like this:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;confidence increases as software is shipped&lt;/li&gt;&#xA;&lt;li&gt;something breaks which halts the rising confidence&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Why did I ever choose to work in software?&amp;rdquo; =&amp;gt; &lt;em&gt;self-loathing&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;confidence moves lower while the problem is worked on&lt;/li&gt;&#xA;&lt;li&gt;something fixes the problem bottoming the drop&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Why did I think I could do this?&amp;rdquo; =&amp;gt; &lt;em&gt;imposter syndrome&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;and then the cycle repeats itself&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a tongue-in-cheek representation, but in actuality, I think a mature developer recognizes this and takes steps to keep the slopes flat as possible.&lt;/p&gt;</description>
+      <guid>https://johnforstmeier.com/notes/software-development-emotional-cycle/</guid>
+      <description>&lt;p&gt;Writing software typically occurs in rapid iterations and can have a similarly rapid emotional cycle attached to the work. Personally, this can be mapped to &lt;strong&gt;confidence over time&lt;/strong&gt; in the plot below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://johnforstmeier.com/images/softare-development-emotional-cycle-plot.jpg&#34; alt=&#34;Software development emotional cycle plot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The pattern goes something like this:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;confidence increases as software is shipped&lt;/li&gt;&#xA;&lt;li&gt;something breaks which halts the rising confidence&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Why did I ever choose to work in software?&amp;rdquo; =&amp;gt; &lt;em&gt;self-loathing&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;confidence moves lower while the problem is worked on&lt;/li&gt;&#xA;&lt;li&gt;something fixes the problem bottoming the drop&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Why did I think I could do this?&amp;rdquo; =&amp;gt; &lt;em&gt;imposter syndrome&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;and then the cycle repeats itself&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a tongue-in-cheek representation, but in actuality, I think a mature developer recognizes this and takes steps to keep the slopes flat as possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAFO Method</title>
-      <link>http://localhost:1313/notes/fafo-method/</link>
+      <link>https://johnforstmeier.com/notes/fafo-method/</link>
       <pubDate>Thu, 03 Mar 2022 08:43:46 -0500</pubDate>
-      <guid>http://localhost:1313/notes/fafo-method/</guid>
+      <guid>https://johnforstmeier.com/notes/fafo-method/</guid>
       <description>&lt;p&gt;An approach I&amp;rsquo;ve been thinking about is something I&amp;rsquo;m dubbing the &lt;strong&gt;&amp;ldquo;FAFO Method&amp;rdquo;&lt;/strong&gt; or &lt;strong&gt;&amp;ldquo;fuck around, figure out&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Basically, this boils down to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Learn the minimum about an idea to be dangerous&lt;/li&gt;&#xA;&lt;li&gt;Quickly iterate and implement the idea&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not quite a &amp;ldquo;see what sticks&amp;rdquo; method because you still want to evaluate and prioritize &lt;em&gt;how&lt;/em&gt; you spend your time prior to spending it. And then on top of that, you want to &lt;em&gt;minimize&lt;/em&gt; the time actually spent doing the thing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bootstrapped vs Backed</title>
-      <link>http://localhost:1313/notes/bootstrapped-vs-backed/</link>
+      <link>https://johnforstmeier.com/notes/bootstrapped-vs-backed/</link>
       <pubDate>Tue, 01 Mar 2022 07:41:45 -0500</pubDate>
-      <guid>http://localhost:1313/notes/bootstrapped-vs-backed/</guid>
+      <guid>https://johnforstmeier.com/notes/bootstrapped-vs-backed/</guid>
       <description>&lt;p&gt;Startups can generally finance via &lt;em&gt;bootstrapping&lt;/em&gt; or venture capital &lt;em&gt;backing&lt;/em&gt; or some combination of the two (ignoring straight debt financing as it&amp;rsquo;s atypical in this scenario).&lt;/p&gt;&#xA;&lt;p&gt;Going forward, pure software and SaaS companies are likely to start to focus on the former while hard-tech startups with a physical component will likely dominate the later.&lt;/p&gt;&#xA;&lt;p&gt;The former has increasingly lower barriers for entry (hosting, tooling, etc.) - this means it&amp;rsquo;s a more highly competitive field with lower expected upside potential for each startup. Given tools like Stripe [&lt;a href=&#34;https://stripe.com/&#34; title=&#34;Stripe - landing page&#34;&gt;1&lt;/a&gt;] or Pipe [&lt;a href=&#34;https://pipe.com/&#34; title=&#34;Pipe - landing page&#34;&gt;2&lt;/a&gt;], bootstrapping is highly viable for software-based startups.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Private Prison Incentives</title>
-      <link>http://localhost:1313/notes/private-prison-incentives/</link>
+      <link>https://johnforstmeier.com/notes/private-prison-incentives/</link>
       <pubDate>Wed, 09 Feb 2022 08:32:46 -0500</pubDate>
-      <guid>http://localhost:1313/notes/private-prison-incentives/</guid>
+      <guid>https://johnforstmeier.com/notes/private-prison-incentives/</guid>
       <description>&lt;p&gt;Adjusting private prison contracts may better align their incentives with what the public expects from them as a service.&lt;/p&gt;&#xA;&lt;p&gt;Prison is intended to either &lt;em&gt;temporarily punish and rehabilitate&lt;/em&gt; or &lt;em&gt;permanently remove&lt;/em&gt; offenders from society.  The more cases that can be shifted to the former, the better.&lt;/p&gt;&#xA;&lt;p&gt;And to do that, contracts could be based around the post-release actions of the formerly incarcerated. For example, repeat offenses, recidivism, and other lapses would &lt;strong&gt;negatively financially impact&lt;/strong&gt; the prison that should be primarily focused on rehabilitation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolving Primate Ethics</title>
-      <link>http://localhost:1313/notes/evolving-primate-ethics/</link>
+      <link>https://johnforstmeier.com/notes/evolving-primate-ethics/</link>
       <pubDate>Mon, 07 Feb 2022 08:51:11 -0500</pubDate>
-      <guid>http://localhost:1313/notes/evolving-primate-ethics/</guid>
+      <guid>https://johnforstmeier.com/notes/evolving-primate-ethics/</guid>
       <description>&lt;p&gt;If we assume that non-human primates are experiencing evolutionary growth we may eventually face similar questions to those Lewis raises in &lt;em&gt;Religion and Rocketry&lt;/em&gt; [&lt;a href=&#34;https://johnforstmeier.com/notes/reading-religion-and-rocketry/&#34; title=&#34;Reading: Religion and Rocketry - Forstmeier&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For example, can the primates have evolved to the point they have received the divine spark of an immortal soul endowed with reason?&lt;/li&gt;&#xA;&lt;li&gt;If so, are they fallen, pre-fallen, post-fallen, or some other state we are not aware of?&lt;/li&gt;&#xA;&lt;li&gt;And what is our responsibility towards our newly-elevated evolutionary cousins?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t have answers - only questions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Make Tools</title>
-      <link>http://localhost:1313/notes/make-tools/</link>
+      <link>https://johnforstmeier.com/notes/make-tools/</link>
       <pubDate>Wed, 26 Jan 2022 16:43:32 -0500</pubDate>
-      <guid>http://localhost:1313/notes/make-tools/</guid>
+      <guid>https://johnforstmeier.com/notes/make-tools/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If you can&amp;rsquo;t do a thing, make tools for those who can.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;If you find yourself in a creative slump, look around and see what other people are working on. Build them something that would make them even more productive.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Indirect Participation</title>
-      <link>http://localhost:1313/notes/indirect-participation/</link>
+      <link>https://johnforstmeier.com/notes/indirect-participation/</link>
       <pubDate>Sat, 08 Jan 2022 10:15:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/indirect-participation/</guid>
+      <guid>https://johnforstmeier.com/notes/indirect-participation/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If you can&amp;rsquo;t do a thing, build tools for those who can.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;By this I mean that if you&amp;rsquo;re struggling to find inspiration or are interested in a field without an immediate affinity or ability you can still be productive.&lt;/p&gt;&#xA;&lt;p&gt;You can participate indirectly by building tools for others in that field in order to help them scale their impact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reputation Over Regulation</title>
-      <link>http://localhost:1313/notes/reputation-over-regulation/</link>
+      <link>https://johnforstmeier.com/notes/reputation-over-regulation/</link>
       <pubDate>Fri, 29 Oct 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reputation-over-regulation/</guid>
+      <guid>https://johnforstmeier.com/notes/reputation-over-regulation/</guid>
       <description>&lt;p&gt;Regulations on business interactions between entities can be arbitrary and typically come from a highly centralized source. Market participants must either lobby for changes (which ends up being dominated by larger financial players) or submit to regulation (which all ultimately have to anyway).&lt;/p&gt;&#xA;&lt;p&gt;Finding ways to prioritize &lt;strong&gt;reputation markets&lt;/strong&gt;, wherever feasible, may be a better alternative. Members of the given market would build a reputation through participation and staking value to have &amp;ldquo;skin in the game&amp;rdquo; and increase the cost to potential manipulators [&lt;a href=&#34;https://docs.numer.ai/tournament/learn#staking&#34; title=&#34;Staking - Numerai&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Silicon Valley Diffusion</title>
-      <link>http://localhost:1313/notes/silicon-valley-diffusion/</link>
+      <link>https://johnforstmeier.com/notes/silicon-valley-diffusion/</link>
       <pubDate>Mon, 25 Oct 2021 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/silicon-valley-diffusion/</guid>
+      <guid>https://johnforstmeier.com/notes/silicon-valley-diffusion/</guid>
       <description>&lt;p&gt;No single city needs to supplant the San Francisco Bay Area as a high-technology center in order for that area to lose its dominant position. An unofficial confederation of other locations, ranging from urban to rural, could each sap resources from the centralized Bay Area talent.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A slow bleed from many cuts.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;No single other location needs to rise in order to overthrow mantle. This is exemplified by the chart below; while there has been an increase as a result of the COVID-19 events, there was a pre-existing upward trend that appears to be continuing following the spike.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Better Bootcamp</title>
-      <link>http://localhost:1313/notes/better-bootcamp/</link>
+      <link>https://johnforstmeier.com/notes/better-bootcamp/</link>
       <pubDate>Tue, 12 Oct 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/better-bootcamp/</guid>
+      <guid>https://johnforstmeier.com/notes/better-bootcamp/</guid>
       <description>&lt;p&gt;Coding bootcamps seem to focus heavily on the &lt;em&gt;coding&lt;/em&gt; aspect of development work. While teaching coding is important, I think bootcamps could differentiate themselves significantly by focusing on developing team-based skills and experience.&lt;/p&gt;&#xA;&lt;p&gt;For example they could:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;provide students with guidance on how to receive and conduct pull request reviews&lt;/li&gt;&#xA;&lt;li&gt;go over designing and maintaining robust CI/CD pipelines&lt;/li&gt;&#xA;&lt;li&gt;instill best-practices for writing unit and integration tests&lt;/li&gt;&#xA;&lt;li&gt;participate in tasking stories and organizing development sprints&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And this could potentially be done within the scope of a pre-existing open source project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Longevity Wish</title>
-      <link>http://localhost:1313/notes/longevity-wish/</link>
+      <link>https://johnforstmeier.com/notes/longevity-wish/</link>
       <pubDate>Sun, 10 Oct 2021 13:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/longevity-wish/</guid>
+      <guid>https://johnforstmeier.com/notes/longevity-wish/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I want longevity to manifest so that exploring the cosmos for a decade only feels like a day.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Political Brainstorm No. 2</title>
-      <link>http://localhost:1313/notes/political-brainstorm-no-2/</link>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-2/</link>
       <pubDate>Thu, 07 Oct 2021 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/political-brainstorm-no-2/</guid>
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-2/</guid>
       <description>&lt;p&gt;Here are some more loose ideas on simple ways to potentially improve the U.S. political system.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ideas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantifiable legislative goals&lt;/strong&gt;: during campaigns, politicians should pledge, or maybe even be required, to set out a handful of specific policy goals with quantifiable outcomes (and preset measurement criteria). If these goals were met, assuming a successful election, they could run again after their term expires.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Goal: move elections towards data-driven performers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Campaign finance simplification&lt;/strong&gt;: only allow personal donations with a maximum donation amount - this could mirror the fact that each citizen only gets one vote and financial disparities should not come into play.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Goal: reducing financial influence on elections.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minimum Value Delivery</title>
-      <link>http://localhost:1313/notes/minimum-value-delivery/</link>
+      <link>https://johnforstmeier.com/notes/minimum-value-delivery/</link>
       <pubDate>Sun, 03 Oct 2021 23:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/minimum-value-delivery/</guid>
+      <guid>https://johnforstmeier.com/notes/minimum-value-delivery/</guid>
       <description>&lt;p&gt;Something that I have to keep reminding myself is that products aren&amp;rsquo;t just products, they&amp;rsquo;re a &lt;strong&gt;value delivery system&lt;/strong&gt;. Products will only be adopted when value is received by using them. This means that the initial build of the product should contain the absolute minimum resources required to begin delivering that value.&lt;/p&gt;&#xA;&lt;p&gt;Improvements can be rolled out in later iterations, even significant breaking changes [&lt;a href=&#34;https://johnforstmeier.com/notes/initial-backwards-compatibility/&#34; title=&#34;Initial Backwards Compatibility - Forstmeier&#34;&gt;1&lt;/a&gt;], so long as &lt;strong&gt;&lt;em&gt;value delivery&lt;/em&gt;&lt;/strong&gt; can be immediately proven.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: The Second World Wars</title>
-      <link>http://localhost:1313/notes/reading-the-second-world-wars/</link>
+      <link>https://johnforstmeier.com/notes/reading-the-second-world-wars/</link>
       <pubDate>Wed, 22 Sep 2021 08:15:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reading-the-second-world-wars/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-the-second-world-wars/</guid>
       <description>&lt;p&gt;There are several interesting takeaways from Victor Davis Hanson&amp;rsquo;s &lt;em&gt;The Second World Wars&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Second-World-Wars-Global-Conflict/dp/0465066984&#34; title=&#34;The Second World Wars - Amazon&#34;&gt;1&lt;/a&gt;]. The whole work is presented from a numerical viewpoint and basically offers &amp;ldquo;accountant&amp;rsquo;s lessons&amp;rdquo; from the war. Here are some that stood out to me.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Emphasize support resources&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Massive production of basic support vehicles and robust supply lines were a constant focus for the Allies throughout the war&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Boring&amp;rdquo; things like unarmed and unarmored trucks were essential in ensuring sustainable campaigning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Produce fewer similar models&lt;/p&gt;</description>
     </item>
     <item>
       <title>Imperfect Vessel</title>
-      <link>http://localhost:1313/notes/imperfect-vessel/</link>
+      <link>https://johnforstmeier.com/notes/imperfect-vessel/</link>
       <pubDate>Fri, 17 Sep 2021 14:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/imperfect-vessel/</guid>
+      <guid>https://johnforstmeier.com/notes/imperfect-vessel/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Be an imperfect vessel of a perfect glory.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>More Impressionism</title>
-      <link>http://localhost:1313/notes/more-impressionism/</link>
+      <link>https://johnforstmeier.com/notes/more-impressionism/</link>
       <pubDate>Sun, 22 Aug 2021 12:00:15 -0400</pubDate>
-      <guid>http://localhost:1313/notes/more-impressionism/</guid>
-      <description>&lt;p&gt;Another wonderful example of impressionism [&lt;a href=&#34;https://en.wikipedia.org/wiki/Impressionism&#34; title=&#34;Impressionism - Wikipedia&#34;&gt;1&lt;/a&gt;] by Manet [&lt;a href=&#34;https://en.wikipedia.org/wiki/%C3%89douard_Manet&#34; title=&#34;Edouard Manet - Wikipedia&#34;&gt;2&lt;/a&gt;] is &amp;ldquo;Tarring a Boat&amp;rdquo; [&lt;a href=&#34;https://en.wikipedia.org/wiki/Tarring_a_Boat&#34; title=&#34;Tarring a Boat - Wikipedia&#34;&gt;3&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Personal highlights&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ship inner details are expressed but not defined&lt;/li&gt;&#xA;&lt;li&gt;interesting strokes for the anchor in the foreground&lt;/li&gt;&#xA;&lt;li&gt;no specifics are conveyed on people in the image&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/tarring-a-boat.jpg&#34; alt=&#34;Tarring a Boat&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://johnforstmeier.com/notes/more-impressionism/</guid>
+      <description>&lt;p&gt;Another wonderful example of impressionism [&lt;a href=&#34;https://en.wikipedia.org/wiki/Impressionism&#34; title=&#34;Impressionism - Wikipedia&#34;&gt;1&lt;/a&gt;] by Manet [&lt;a href=&#34;https://en.wikipedia.org/wiki/%C3%89douard_Manet&#34; title=&#34;Edouard Manet - Wikipedia&#34;&gt;2&lt;/a&gt;] is &amp;ldquo;Tarring a Boat&amp;rdquo; [&lt;a href=&#34;https://en.wikipedia.org/wiki/Tarring_a_Boat&#34; title=&#34;Tarring a Boat - Wikipedia&#34;&gt;3&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Personal highlights&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ship inner details are expressed but not defined&lt;/li&gt;&#xA;&lt;li&gt;interesting strokes for the anchor in the foreground&lt;/li&gt;&#xA;&lt;li&gt;no specifics are conveyed on people in the image&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://johnforstmeier.com/images/tarring-a-boat.jpg&#34; alt=&#34;Tarring a Boat&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Future Homo Species</title>
-      <link>http://localhost:1313/notes/future-homo-species/</link>
+      <link>https://johnforstmeier.com/notes/future-homo-species/</link>
       <pubDate>Sat, 14 Aug 2021 12:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/future-homo-species/</guid>
+      <guid>https://johnforstmeier.com/notes/future-homo-species/</guid>
       <description>&lt;p&gt;Interplanetary colonization will likely lead to the development of new species under the &lt;em&gt;homo&lt;/em&gt; genus.&lt;/p&gt;&#xA;&lt;p&gt;Interstellar colonization absolutely will.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s something we should begin planning for.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Retail HFT</title>
-      <link>http://localhost:1313/notes/retail-hft/</link>
+      <link>https://johnforstmeier.com/notes/retail-hft/</link>
       <pubDate>Thu, 22 Jul 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/retail-hft/</guid>
+      <guid>https://johnforstmeier.com/notes/retail-hft/</guid>
       <description>&lt;p&gt;High-frequency trading (&amp;ldquo;HFT&amp;rdquo;) [&lt;a href=&#34;https://en.wikipedia.org/wiki/High-frequency_trading&#34; title=&#34;High-frequency trading - Wikipedia&#34;&gt;1&lt;/a&gt;] is often portrayed negatively and as &amp;ldquo;taking advantage&amp;rdquo; of retail investors through blindingly fast trading strategies.&lt;/p&gt;&#xA;&lt;p&gt;In reality, HFT firms are just 1) employing research and technology effectively and 2) taking on high amounts of investment risk. Essentially, they are shouldering the &lt;em&gt;very high&lt;/em&gt; upfront cost of these tools which are an absolute prerequisite to even &lt;em&gt;trying&lt;/em&gt; to reap the rewards of this strategy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software Supporting Physical</title>
-      <link>http://localhost:1313/notes/software-supporting-physical/</link>
+      <link>https://johnforstmeier.com/notes/software-supporting-physical/</link>
       <pubDate>Tue, 20 Jul 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/software-supporting-physical/</guid>
+      <guid>https://johnforstmeier.com/notes/software-supporting-physical/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s somewhat of an obvious statement, but software is best utilized when directly improving the &lt;em&gt;physical&lt;/em&gt; world. That&amp;rsquo;s something that I think can be lost from the software developer and venture capital perspective. Keeping the &amp;ldquo;world of atoms&amp;rdquo; at the forefront can help truly realize the value of software by positioning it accordingly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human Economic Element</title>
-      <link>http://localhost:1313/notes/human-economic-element/</link>
+      <link>https://johnforstmeier.com/notes/human-economic-element/</link>
       <pubDate>Mon, 19 Jul 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/human-economic-element/</guid>
+      <guid>https://johnforstmeier.com/notes/human-economic-element/</guid>
       <description>&lt;p&gt;The main difference between &lt;strong&gt;capitalism&lt;/strong&gt; and &lt;strong&gt;socialism&lt;/strong&gt; is which end of the machine the human is on. For the former it’s at the &lt;em&gt;levers&lt;/em&gt; while for the latter it’s at the &lt;em&gt;tooltip&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In one the human controls the cogs and in the other the human is a cog.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Reading: The Coddling of the American Mind</title>
-      <link>http://localhost:1313/notes/reading-the-coddling-of-the-american-mind/</link>
+      <link>https://johnforstmeier.com/notes/reading-the-coddling-of-the-american-mind/</link>
       <pubDate>Mon, 17 May 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reading-the-coddling-of-the-american-mind/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-the-coddling-of-the-american-mind/</guid>
       <description>&lt;p&gt;This is a brief summary of &lt;em&gt;The Coddling of the American Mind&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919/ref=sr_1_1?dchild=1&amp;amp;keywords=the+coddling+of+the+american+mind&amp;amp;qid=1621255121&amp;amp;sr=8-1&#34;&gt;1&lt;/a&gt;] by Greg Lukianoff and Jonathan Haidt.&lt;/p&gt;&#xA;&lt;p&gt;In short, it is a well developed, explained, and supported book that is heavily data-driven. Overall, the book is critical of the &amp;ldquo;safetyism&amp;rdquo; which is increasingly present in society and encourages building more resillient members of the broader community.&lt;/p&gt;&#xA;&lt;p&gt;The authors highlight specific issues in how the younger generations (at the time of its writing) are being raised and present targeted solutions that parents may act upon. The book would be a good resource for anyong working with or raising children.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Orthodoxy Rising</title>
-      <link>http://localhost:1313/notes/orthodoxy-rising/</link>
+      <link>https://johnforstmeier.com/notes/orthodoxy-rising/</link>
       <pubDate>Fri, 14 May 2021 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/orthodoxy-rising/</guid>
+      <guid>https://johnforstmeier.com/notes/orthodoxy-rising/</guid>
       <description>&lt;p&gt;This post reflects a general personal sense - I&amp;rsquo;ve looked for no data to back up the position. It&amp;rsquo;s purely an observation and prediction based on gut. That statement is:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The current political and social climate is turning my generation towards tradition.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Being inundated with polarization while simultaneously being drawn into diametrically opposed systems of &lt;em&gt;hyper-individualism&lt;/em&gt; and &lt;em&gt;hyper-collectivism&lt;/em&gt; has been socially destructive. Individualism destroys &lt;strong&gt;meaning&lt;/strong&gt; while collectivism destroys &lt;strong&gt;agency&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And a silent objection to those alternatives is appearing. A noble rebellion of orthodoxy. An orthodoxy of immutable truth and tradition to be sought through individual struggle and collective support.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stationary Radical</title>
-      <link>http://localhost:1313/notes/stationary-radical/</link>
+      <link>https://johnforstmeier.com/notes/stationary-radical/</link>
       <pubDate>Thu, 22 Apr 2021 21:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/stationary-radical/</guid>
+      <guid>https://johnforstmeier.com/notes/stationary-radical/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve become a radical by sitting still while the world moved.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Initial Backwards Compatibility</title>
-      <link>http://localhost:1313/notes/initial-backwards-compatibility/</link>
+      <link>https://johnforstmeier.com/notes/initial-backwards-compatibility/</link>
       <pubDate>Thu, 15 Apr 2021 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/initial-backwards-compatibility/</guid>
+      <guid>https://johnforstmeier.com/notes/initial-backwards-compatibility/</guid>
       <description>&lt;p&gt;MVPs (&amp;ldquo;minimum viable products&amp;rdquo;) shouldn&amp;rsquo;t be built in a way to handle a wide range of future use cases.&lt;/p&gt;&#xA;&lt;p&gt;For example, an MVP for an API-based service shouldn&amp;rsquo;t focus on accommodating future expansions in its first iteration. Constructing a simple, albeit rigid, pattern addressing the &lt;em&gt;immediate&lt;/em&gt; need is the goal. If no one is using the API, focusing on delivering something that can be used to gather feedback is more important than planning for every eventuality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Right vs Reasonable</title>
-      <link>http://localhost:1313/notes/right-vs-reasonable/</link>
+      <link>https://johnforstmeier.com/notes/right-vs-reasonable/</link>
       <pubDate>Mon, 29 Mar 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/right-vs-reasonable/</guid>
+      <guid>https://johnforstmeier.com/notes/right-vs-reasonable/</guid>
       <description>&lt;p&gt;I can work with someone who isn&amp;rsquo;t &lt;em&gt;right&lt;/em&gt; but I can&amp;rsquo;t work with someone who isn&amp;rsquo;t &lt;em&gt;reasonable&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dangerous Markets</title>
-      <link>http://localhost:1313/notes/dangerous-markets/</link>
+      <link>https://johnforstmeier.com/notes/dangerous-markets/</link>
       <pubDate>Fri, 26 Mar 2021 08:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/dangerous-markets/</guid>
+      <guid>https://johnforstmeier.com/notes/dangerous-markets/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Financial markets should be easy to enter but difficult to actively participate in.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Encouraging reduced barriers to entry and limitations on participation improve price discovery through the removal of arbitrary restrictions. However, a &lt;em&gt;big&lt;/em&gt; caveat should be made to retail investors so that they&amp;rsquo;re aware that they&amp;rsquo;re very likely outgunned by the resources available to institutional investors.&lt;/p&gt;&#xA;&lt;p&gt;Markets should be much closer to an &amp;ldquo;anything goes&amp;rdquo; model while making transaction and holdings data public. It could be argued that rules should be seriously relaxed in a world where information is broadly available and reputational damage can be fatal - &lt;em&gt;the &lt;strong&gt;reputation market&lt;/strong&gt; would self-regulate bad actors&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Progressive vs Expansive</title>
-      <link>http://localhost:1313/notes/progressive-vs-expansive/</link>
+      <link>https://johnforstmeier.com/notes/progressive-vs-expansive/</link>
       <pubDate>Fri, 19 Mar 2021 08:45:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/progressive-vs-expansive/</guid>
+      <guid>https://johnforstmeier.com/notes/progressive-vs-expansive/</guid>
       <description>&lt;p&gt;The term &amp;ldquo;progressive&amp;rdquo; has been conflated with the word &amp;ldquo;expansive&amp;rdquo; with regards to legislative initiatives. In some ways, this is similar to the theme in Peter Thiel&amp;rsquo;s [&lt;a href=&#34;https://en.wikipedia.org/wiki/Peter_Thiel&#34; title=&#34;Peter Thiel - Wikipedia&#34;&gt;1&lt;/a&gt;] book &lt;em&gt;Zero to One&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?crid=1A6QLH3ITBA8X&amp;amp;dchild=1&amp;amp;keywords=zero+to+one&amp;amp;qid=1615985599&amp;amp;sprefix=zero+to+one%2Caps%2C153&amp;amp;sr=8-1&#34; title=&#34;Zero to One - Amazon&#34;&gt;2&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;moving 0 -&amp;gt; 1 creates an entirely new solution&lt;/li&gt;&#xA;&lt;li&gt;moving 1 -&amp;gt; N scales an existing solution&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The latter is dominant while being billed as the former in legislation. Currently, this is particularly true in two areas: &lt;strong&gt;minimum wage&lt;/strong&gt; and &lt;strong&gt;college education&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marian-Dedicated Work</title>
-      <link>http://localhost:1313/notes/marian-dedicated-work/</link>
+      <link>https://johnforstmeier.com/notes/marian-dedicated-work/</link>
       <pubDate>Mon, 15 Mar 2021 10:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/marian-dedicated-work/</guid>
+      <guid>https://johnforstmeier.com/notes/marian-dedicated-work/</guid>
       <description>&lt;p&gt;More of our common, day-to-day work must be dedicated to the &lt;strong&gt;Most Holy Mother of God&lt;/strong&gt; [&lt;a href=&#34;https://open.spotify.com/track/595LkwZCDWPm2ImNgiPDmC?si=i-GBD52OQ6atU1Tj-7-CBQ&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Numerical Objectives</title>
-      <link>http://localhost:1313/notes/numerical-objectives/</link>
+      <link>https://johnforstmeier.com/notes/numerical-objectives/</link>
       <pubDate>Tue, 09 Mar 2021 20:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/numerical-objectives/</guid>
+      <guid>https://johnforstmeier.com/notes/numerical-objectives/</guid>
       <description>&lt;p&gt;Using numbers when defining a task establishes a &lt;strong&gt;specific and measureable outcome&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Even if the number is an estimate and the estimate is off, it is something that can be learned from and adjusted over time.&lt;/p&gt;&#xA;&lt;p&gt;More importantly, the attached number helps mentally frame the task and make it &lt;em&gt;mentally attainable&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Religion and Rocketry</title>
-      <link>http://localhost:1313/notes/reading-religion-and-rocketry/</link>
+      <link>https://johnforstmeier.com/notes/reading-religion-and-rocketry/</link>
       <pubDate>Wed, 24 Feb 2021 08:25:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-religion-and-rocketry/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-religion-and-rocketry/</guid>
       <description>&lt;p&gt;The short essay &amp;ldquo;Religion and Rocketry&amp;rdquo; from C.S. Lewis&amp;rsquo; [&lt;a href=&#34;https://en.wikipedia.org/wiki/C._S._Lewis&#34; title=&#34;C.S. Lewis - Wikipedia&#34;&gt;1&lt;/a&gt;] collection &lt;em&gt;The World&amp;rsquo;s Last Night&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Worlds-Last-Night-Other-Essays/dp/0156027712&#34; title=&#34;The World&#39;s Last Night - Amazon&#34;&gt;2&lt;/a&gt;] addresses the existence of extraterrestrial life.&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s interesting about this piece is that it takes their existence for granted and digs into the theological and ethical implications their existence entails. Lewis poses a series of questions regarding their spiritual nature - two in particular ask whether the aliens are &lt;strong&gt;fallen&lt;/strong&gt;, as we are, and what, if any, mechanism exists for their &lt;strong&gt;redemption&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adversity Figures</title>
-      <link>http://localhost:1313/notes/adversity-figures/</link>
+      <link>https://johnforstmeier.com/notes/adversity-figures/</link>
       <pubDate>Wed, 10 Feb 2021 08:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/adversity-figures/</guid>
+      <guid>https://johnforstmeier.com/notes/adversity-figures/</guid>
       <description>&lt;p&gt;Anecdotally to the observer, it seems that &lt;em&gt;national&lt;/em&gt; adversity produces &lt;strong&gt;heroes&lt;/strong&gt; while &lt;em&gt;personal&lt;/em&gt; adversity produces &lt;strong&gt;victims&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Why is there a perceived difference and why can&amp;rsquo;t personal adversity produce public heroes?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In national-level issues, everyone is impacted and all shoulder the burden while a few rise as leaders. For example, in World War II individuals such as Churchill [&lt;a href=&#34;https://en.wikipedia.org/wiki/Winston_Churchill&#34; title=&#34;Winston Churchill - Wikipedia&#34;&gt;1&lt;/a&gt;], Murphy [&lt;a href=&#34;https://en.wikipedia.org/wiki/Audie_Murphy&#34; title=&#34;Audie Murphy - Wikipedia&#34;&gt;2&lt;/a&gt;], Winters [&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Winters&#34; title=&#34;Richard Winters - Wikipedia&#34;&gt;2&lt;/a&gt;], and Sendler [&lt;a href=&#34;https://en.wikipedia.org/wiki/Irena_Sendler&#34; title=&#34;Irena Sendler&#34;&gt;4&lt;/a&gt;] are rightfully treated as heroes for their noble defense of freedom even as the conflict touched all lives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Radical Rational</title>
-      <link>http://localhost:1313/notes/radical-rational/</link>
+      <link>https://johnforstmeier.com/notes/radical-rational/</link>
       <pubDate>Mon, 08 Feb 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/radical-rational/</guid>
+      <guid>https://johnforstmeier.com/notes/radical-rational/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Radically hold rational positions.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Being open to new ideas does not mean you need to immediately accept everything that comes your way. Challenge them, push them, fight them.&lt;/p&gt;&#xA;&lt;p&gt;Let the best ideas win.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Orthodoxy</title>
-      <link>http://localhost:1313/notes/reading-orthodoxy/</link>
+      <link>https://johnforstmeier.com/notes/reading-orthodoxy/</link>
       <pubDate>Wed, 03 Feb 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-orthodoxy/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-orthodoxy/</guid>
       <description>&lt;p&gt;Here are a series of short notes on G.K. Chesterton&amp;rsquo;s [&lt;a href=&#34;https://en.wikipedia.org/wiki/G._K._Chesterton&#34; title=&#34;G.K. Chesterton - Wikipedia&#34;&gt;1&lt;/a&gt;] book &lt;em&gt;Orthodoxy&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Orthodoxy-G-K-Chesterton/dp/1087200334/ref=sr_1_2_sspa?crid=ROTT15G405F3&amp;amp;dchild=1&amp;amp;keywords=orthodoxy+chesterton&amp;amp;qid=1612268452&amp;amp;s=books&amp;amp;sprefix=orthodoxy%2Caps%2C160&amp;amp;sr=1-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFKQ0xGVERTVEZMNzMmZW5jcnlwdGVkSWQ9QTAwMTQ5MDhYNURaNU5STVpSSVQmZW5jcnlwdGVkQWRJZD1BMDM1MTQ5MkJONzdKRURRQjUySCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&#34; title=&#34;Orthodoxy - Amazon&#34;&gt;2&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;Chesterton earns the nickname the &amp;ldquo;prince of paradox&amp;rdquo;; every chapter contains multiple statements that flip the conventional perspective. Two statements in particular from the chapter &amp;ldquo;The Flag of the World&amp;rdquo; stood out.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Rational optimism leads to stagnation; it is irrational optimism that leads to reform.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The more transcendental is your patriotism, the more practical are your politics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Media Impact</title>
-      <link>http://localhost:1313/notes/social-media-impact/</link>
+      <link>https://johnforstmeier.com/notes/social-media-impact/</link>
       <pubDate>Wed, 27 Jan 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/social-media-impact/</guid>
+      <guid>https://johnforstmeier.com/notes/social-media-impact/</guid>
       <description>&lt;p&gt;There is an interesting series of questions that can be raised regarding social media listed below.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Has the net impact of social media been positive or negative in developed nations?&lt;/li&gt;&#xA;&lt;li&gt;Has the net impact of social media been positive or negative in underdeveloped nations?&lt;/li&gt;&#xA;&lt;li&gt;If there is a difference in the answers to those questions, what causes the disparity?&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;These services have contributed positively and negatively to the world - identifying what distribution these contributions take would be valuable in helping to understand their proper function.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Progressive Education</title>
-      <link>http://localhost:1313/notes/progressive-education/</link>
+      <link>https://johnforstmeier.com/notes/progressive-education/</link>
       <pubDate>Mon, 25 Jan 2021 08:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/progressive-education/</guid>
+      <guid>https://johnforstmeier.com/notes/progressive-education/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;progressive&lt;/strong&gt; approach to education is to experiment with new methods intead of focusing solely on expanding access to old methods.&lt;/p&gt;&#xA;&lt;p&gt;These older methods, particularly the four year college in the U.S., are increasingly misaligned with student goals and fail to deliver successful outcomes. [&lt;a href=&#34;https://johnforstmeier.com/notes/splitting-education/&#34; title=&#34;Splitting Education - Forstmeier&#34;&gt;1&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;Pumping money into failing approaches is not &lt;strong&gt;progressive&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amortal Death</title>
-      <link>http://localhost:1313/notes/amortal-death/</link>
+      <link>https://johnforstmeier.com/notes/amortal-death/</link>
       <pubDate>Wed, 20 Jan 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/amortal-death/</guid>
+      <guid>https://johnforstmeier.com/notes/amortal-death/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The moment we become amortal, God will have to kill us.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The only thing that can kill an amortal being is an immortal one. And if our lives can&amp;rsquo;t end naturally, only the end of the universe will bring us down.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Utah’s Economic Exceptionalism</title>
-      <link>http://localhost:1313/notes/reading-utah-economic-exceptionalism/</link>
+      <link>https://johnforstmeier.com/notes/reading-utah-economic-exceptionalism/</link>
       <pubDate>Mon, 18 Jan 2021 09:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-utah-economic-exceptionalism/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-utah-economic-exceptionalism/</guid>
       <description>&lt;p&gt;Several aspects of the Beehive State&amp;rsquo;s socio-economic approach are discussed in an article titled &amp;ldquo;Utah’s Economic Exceptionalism&amp;rdquo; [&lt;a href=&#34;https://americanaffairsjournal.org/2020/11/utahs-economic-exceptionalism/&#34; title=&#34;Utah&#39;s Economic Exceptionalism - American Affairs&#34;&gt;1&lt;/a&gt;] by Natalie Gochnour.&lt;/p&gt;&#xA;&lt;p&gt;While the state&amp;rsquo;s economic position was solid during the COVID-19 pandemic in 2020, both in terms of mitigating negative fallout and general rising economic performance, the basis for this success appears to have been in place well prior to the outbreak.&lt;/p&gt;&#xA;&lt;p&gt;The article points to factors like low income disparity, high upward mobility, and even highly unusual feats such as under budget and early completion in major public works projects as indicators of the state&amp;rsquo;s favorable economic strategy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Capital Preference</title>
-      <link>http://localhost:1313/notes/social-capital-preference/</link>
+      <link>https://johnforstmeier.com/notes/social-capital-preference/</link>
       <pubDate>Fri, 15 Jan 2021 17:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/social-capital-preference/</guid>
+      <guid>https://johnforstmeier.com/notes/social-capital-preference/</guid>
       <description>&lt;p&gt;Some companies rely heavily on social capital as part of their continued financial success. To varying degrees, this makes them dependent on current social trends.&lt;/p&gt;&#xA;&lt;p&gt;However, even companies that are &lt;em&gt;not&lt;/em&gt; overly impacted by social perception (e.g. ones with strong customer stickiness) seem to seek it out. In doing so they appear to voluntarily relinquish an advantageous position.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Why take on an unnecessary dependency?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Maybe there is or always has been a strong need to &amp;ldquo;belong&amp;rdquo; even in profit-driven enterprises. This seems like a mistake.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Encapsulated Majorities</title>
-      <link>http://localhost:1313/notes/encapsulated-majorities/</link>
+      <link>https://johnforstmeier.com/notes/encapsulated-majorities/</link>
       <pubDate>Thu, 14 Jan 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/encapsulated-majorities/</guid>
+      <guid>https://johnforstmeier.com/notes/encapsulated-majorities/</guid>
       <description>&lt;p&gt;Increased local political autonomy may reduce voting majorities to their smallest sphere of influence.  This would lead to many, independent, and encapsulated majorities operating within a larger, shared population.&lt;/p&gt;&#xA;&lt;p&gt;Several interesting points arise in this situation:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Any tyrannical majority is confined to a small operating area&lt;/li&gt;&#xA;&lt;li&gt;In worst cases even tyrannical majorities are likely generally aligned with local interests&lt;/li&gt;&#xA;&lt;li&gt;Constituents may easily move from tyrannical majorities to elsewhere within the larger population&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Reading: Bad Blood</title>
-      <link>http://localhost:1313/notes/reading-bad-blood/</link>
+      <link>https://johnforstmeier.com/notes/reading-bad-blood/</link>
       <pubDate>Thu, 07 Jan 2021 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-bad-blood/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-bad-blood/</guid>
       <description>&lt;p&gt;This piece is on &lt;em&gt;Bad Blood&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/0525431993/ref=sr_1_1?crid=3KSDY7EGVIUYQ&amp;amp;dchild=1&amp;amp;keywords=bad+blood&amp;amp;qid=1609853534&amp;amp;s=books&amp;amp;sprefix=bad+blood%2Caps%2C160&amp;amp;sr=1-1&#34; title=&#34;Bad Blood - Amazon&#34;&gt;1&lt;/a&gt;] by John Carreyrou [&lt;a href=&#34;https://twitter.com/JohnCarreyrou&#34; title=&#34;John Carreyrou - Twitter&#34;&gt;2&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;I was familiar with the story of Elizabeth Holmes [&lt;a href=&#34;https://en.wikipedia.org/wiki/Elizabeth_Holmes&#34; title=&#34;Elizabeth Holmes - Wikipedia&#34;&gt;3&lt;/a&gt;] and her company Theranos [&lt;a href=&#34;https://en.wikipedia.org/wiki/Theranos&#34; title=&#34;Theranos - Wikipedia&#34;&gt;4&lt;/a&gt;] but the book provided greater insight into how she interacted with people regarding her work.&lt;/p&gt;&#xA;&lt;p&gt;It is unclear whether her extreme focus on &amp;ldquo;her mission&amp;rdquo; was a manipulative effort or actual self-denial; her actions could support both positions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Student Value Extraction</title>
-      <link>http://localhost:1313/notes/student-value-extraction/</link>
+      <link>https://johnforstmeier.com/notes/student-value-extraction/</link>
       <pubDate>Wed, 30 Dec 2020 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/student-value-extraction/</guid>
+      <guid>https://johnforstmeier.com/notes/student-value-extraction/</guid>
       <description>&lt;p&gt;As of the time of this writing, the average dropout rate for U.S. college freshmen is approximately 30%. Traditional four-year schools appear to be un/intentionally positioning for this to maximize value extraction from attending students.&lt;/p&gt;&#xA;&lt;p&gt;Anecdotal observations point to freshman and sophomore classes having significantly higher student-teacher ratios than junior and senior classes, on average.&lt;/p&gt;&#xA;&lt;p&gt;Several education spaces at the Penn State University Park campus have massive seating capacity and are often used by lower-year classes. For example, the Forum holds four 300 person capacity rooms while 100 Thomas has a seating capacity of over 700.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Immediate Testing</title>
-      <link>http://localhost:1313/notes/immediate-testing/</link>
+      <link>https://johnforstmeier.com/notes/immediate-testing/</link>
       <pubDate>Tue, 22 Dec 2020 10:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/immediate-testing/</guid>
+      <guid>https://johnforstmeier.com/notes/immediate-testing/</guid>
       <description>&lt;p&gt;Continuously testing entire code repositories increases the ability to introduce rapid changes. Being able to do this in early stages, such as the MVP, is highly valuable.&lt;/p&gt;&#xA;&lt;p&gt;Simple approaches, like adding a &lt;code&gt;unit_tests&lt;/code&gt; script to the repo containing just a &lt;code&gt;go test ./... -coverage&lt;/code&gt; command [&lt;a href=&#34;https://golang.org/pkg/cmd/go/internal/test/&#34;&gt;1&lt;/a&gt;][&lt;a href=&#34;https://blog.golang.org/cover&#34;&gt;2&lt;/a&gt;] achieve this. Even though it would initially be triggered manually, doing so would provide value to the developer even before a complete CI/CD pipeline could be established.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Fratelli Tutti</title>
-      <link>http://localhost:1313/notes/reading-fratelli-tutti/</link>
+      <link>https://johnforstmeier.com/notes/reading-fratelli-tutti/</link>
       <pubDate>Thu, 17 Dec 2020 07:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-fratelli-tutti/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-fratelli-tutti/</guid>
       <description>&lt;p&gt;This is a breakdown of the encyclical &lt;em&gt;Fratelli Tutti&lt;/em&gt; [&lt;a href=&#34;http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html&#34; title=&#34;Fratelli Tutti&#34;&gt;1&lt;/a&gt;] written by Pope Francis.&lt;/p&gt;&#xA;&lt;p&gt;The encyclical covers a wide range of topics and displays a generally more political tone while attempting to balance diverging viewpoints. Sometimes this leads to over-simplification or self-contradiction.&lt;/p&gt;&#xA;&lt;p&gt;This note primarily discusses socio-economic subjects and reference numbers are provided for the appropriate sections of the encyclical.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Topic&lt;/th&gt;&#xA;          &lt;th&gt;Summary&lt;/th&gt;&#xA;          &lt;th&gt;Comments&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Culture&lt;/td&gt;&#xA;          &lt;td&gt;Exporting or copying cultural models reduces national identity (#51) and different cultures are not enemies (#147).&lt;/td&gt;&#xA;          &lt;td&gt;This ignores that some cultures are objectively better at protecting human rights (e.g. abolishing slavery).&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Immigration&lt;/td&gt;&#xA;          &lt;td&gt;Improve origin nations to reduce unnecessary migration and avoid building welfare programs for migrants (#129) but establish comprehensive programs for necessary migration situations (#130).&lt;/td&gt;&#xA;          &lt;td&gt;Somewhat contradictory program scope points; providing local-level assistance and exporting state-level national improvements is likely a better and more targeted approach.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Localism&lt;/td&gt;&#xA;          &lt;td&gt;Globalism erodes national identity (#12), focus scope from local to global (#78), avoid universal, central planning (#100), balance nationalism and humanitarianism (#149), local organizations are more knowledgeable in local situations than global organizations are (#175).&lt;/td&gt;&#xA;          &lt;td&gt;Local problem solving better accounts for risk and resource assessments and avoids &amp;ldquo;one size fits all&amp;rdquo; solutions.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Economics&lt;/td&gt;&#xA;          &lt;td&gt;Reducing labor cost in production can produce negative consequences (#20), consumerism is destructive (#36), opportunities should include assistance to vulnerable individuals (#108), economics must not supersede human rights (#122), markets cannot solve all problems (#168).&lt;/td&gt;&#xA;          &lt;td&gt;Correctly states that economics must be human-centric and markets cannot solve all problems; however there are over-simplifications since reduced product costs make resources more available (e.g. cheaper food) and advance better technology (e.g. from coal to nuclear energy).&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Poverty&lt;/td&gt;&#xA;          &lt;td&gt;Wealth has increased along with inequality and new forms of poverty (#21).&lt;/td&gt;&#xA;          &lt;td&gt;This point ignores that absolute poverty has drastically declined in recent decades. [&lt;a href=&#34;https://en.wikipedia.org/wiki/Extreme_poverty#:~:text=The%20percentage%20of%20the%20global,and%201.2%20billion%20in%202008&#34; title=&#34;Extreme poverty - Wikipedia&#34;&gt;2&lt;/a&gt;]&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Individualism&lt;/td&gt;&#xA;          &lt;td&gt;Waiting for government-provided opportunities is irresponsible (#77), community relationships enrich self-definition (#89), equality does not induce fraternity (#103), individual differences build cultures (#218).&lt;/td&gt;&#xA;          &lt;td&gt;Unique individuals with charitable hearts working collaboratively build the strongest social fabrics; similar strength cannot be produced by legislative dictates.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Charity&lt;/td&gt;&#xA;          &lt;td&gt;Charity cannot be issued through one solution and must be through individual action (#165), moral formation drives individual charity (#167), and legislation can establish charity (#186).&lt;/td&gt;&#xA;          &lt;td&gt;The first two points conflict with the last which favors top-down solutions rather than individually-driven charitable interaction.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Borders&lt;/td&gt;&#xA;          &lt;td&gt;Borders cannot exclude resource access (#121 and #124), prosperous nations should support needy nations (#125).&lt;/td&gt;&#xA;          &lt;td&gt;Disolving borders reduces local self-determination by removing a citizen&amp;rsquo;s right to their produced resources but arbitrary migration restrictions are also unproductive. A more &amp;ldquo;natural&amp;rdquo; border could be established via a citizen&amp;rsquo;s dividend. [&lt;a href=&#34;https://johnforstmeier.com/notes/economic-mesas-1-0/&#34; title=&#34;Economic Mesas - Forstmeier&#34;&gt;3&lt;/a&gt;].&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Work&lt;/td&gt;&#xA;          &lt;td&gt;Economic goal of no stragglers (#110), using talents in work is noble (#123), and dignity is found in work (#162).&lt;/td&gt;&#xA;          &lt;td&gt;Somewhat utopian in vision and will likely never be realized but points regarding self-sufficiency and &amp;ldquo;noble work&amp;rdquo; are practically achievable.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Nuclear Weapons&lt;/td&gt;&#xA;          &lt;td&gt;Peace and trust cannot be established through threat of violence (#262).&lt;/td&gt;&#xA;          &lt;td&gt;While trust may not be built, peace certainly can - nuclear proliferation has coincided with decreased intensity of violent conflicts. [&lt;a href=&#34;https://www.belfercenter.org/sites/default/files/legacy/files/uploads/Rauchhaus_Evaluating_the_Nuclear_Peace.pdf&#34; title=&#34;Evaluating the Nuclear Peace Hypothesis: A Quantitative Approach - Rauchhaus&#34;&gt;4&lt;/a&gt;].&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Indigenous Peopls&lt;/td&gt;&#xA;          &lt;td&gt;Natives are less violent and more egalitarian (#220).&lt;/td&gt;&#xA;          &lt;td&gt;This conflicts with history; in the Americas tribal and imperial warfare was common as were their prehistoric contributions to early megafaunal exinctions. [&lt;a href=&#34;https://johnforstmeier.com/notes/noble-savage-1-0/&#34; title=&#34;Noble Savage - Forstmeier&#34;&gt;5&lt;/a&gt;]&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Public Order&lt;/td&gt;&#xA;          &lt;td&gt;Law enforcment is required in charitable societies (#164).&lt;/td&gt;&#xA;          &lt;td&gt;Safety and community organization cannot exist without a shared, enforced legal framework.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Private Property&lt;/td&gt;&#xA;          &lt;td&gt;All humans are shared stewards of world natural resources (#120).&lt;/td&gt;&#xA;          &lt;td&gt;This is in-line with Georgism [&lt;a href=&#34;https://en.wikipedia.org/wiki/Georgism&#34; title=&#34;Georgism - Wikipedia&#34;&gt;6&lt;/a&gt;] without denying the right to personally produced products.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Silent Action</title>
-      <link>http://localhost:1313/notes/silent-action/</link>
+      <link>https://johnforstmeier.com/notes/silent-action/</link>
       <pubDate>Thu, 03 Dec 2020 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/silent-action/</guid>
+      <guid>https://johnforstmeier.com/notes/silent-action/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Actions taken to accomplish good works should be done without seeking attention.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Sometimes attention is unavoidable but it should be reduced to the minimal amount needed to get the work done or to what will maximize the impact of the act.&lt;/p&gt;&#xA;&lt;p&gt;Everything else above this minimized amount is performative and serves no other purpose than self-aggrandizement.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Noble Savage</title>
-      <link>http://localhost:1313/notes/noble-savage/</link>
+      <link>https://johnforstmeier.com/notes/noble-savage/</link>
       <pubDate>Thu, 26 Nov 2020 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/noble-savage/</guid>
+      <guid>https://johnforstmeier.com/notes/noble-savage/</guid>
       <description>&lt;p&gt;Sometimes prior stages of human development are presented as a model to emulate with claims the early &lt;em&gt;homo&lt;/em&gt; genuses better coexisted with their natural environment.&lt;/p&gt;&#xA;&lt;p&gt;Contrary evidence [&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.9335&amp;amp;rep=rep1&amp;amp;type=pdf&#34; title=&#34;A Multispecies Overkill Simulation of the End-Pleistocene Megafaunal Mass Extinction - Alroy&#34;&gt;1&lt;/a&gt;] indicates early humans directly contributed to megafaunal extinction events across the globe; the correlative findings show mass extinctions were immediately preceeded by the arrival of migrating humans. Other factors may have contributed but these were not as significant as the presence of human hunters.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading: Cynical Theories</title>
-      <link>http://localhost:1313/notes/reading-cynical-theories/</link>
+      <link>https://johnforstmeier.com/notes/reading-cynical-theories/</link>
       <pubDate>Thu, 19 Nov 2020 08:45:05 -0500</pubDate>
-      <guid>http://localhost:1313/notes/reading-cynical-theories/</guid>
+      <guid>https://johnforstmeier.com/notes/reading-cynical-theories/</guid>
       <description>&lt;p&gt;This is a brief summary of takeaways from reading &lt;em&gt;Cynical Theories&lt;/em&gt; [&lt;a href=&#34;https://www.amazon.com/Cynical-Theories/dp/1800750048/ref=pd_lpo_14_t_0/140-8974515-7649455?_encoding=UTF8&amp;amp;pd_rd_i=1800750048&amp;amp;pd_rd_r=a5b2f4f1-033d-4fdd-848d-d62001eeaeb1&amp;amp;pd_rd_w=J0LQj&amp;amp;pd_rd_wg=cyDT9&amp;amp;pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&amp;amp;pf_rd_r=WWE3GV22QXV1VXKWFTME&amp;amp;psc=1&amp;amp;refRID=WWE3GV22QXV1VXKWFTME&#34; title=&#34;Grievance Studies - Lindsay and Pluckrose&#34;&gt;1&lt;/a&gt;] by James Lindsay and Helen Pluckrose of &amp;ldquo;grievance studies affair&amp;rdquo; [&lt;a href=&#34;https://www.youtube.com/watch?v=kVk9a5Jcd1k&amp;amp;t=104s&#34; title=&#34;Academics expose corruption in Grievance Studies - YouTube&#34;&gt;2&lt;/a&gt;] infamy.&lt;/p&gt;&#xA;&lt;p&gt;Overall, the book does an excellent job outlining the history of the overarching worldview termed &amp;ldquo;critical theory&amp;rdquo; as well as presenting a number of succinct counter arguments against it.&lt;/p&gt;&#xA;&lt;p&gt;The most interesting topics covered are the breakdowns of the individual fields within the broader philosophy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breathe</title>
-      <link>http://localhost:1313/notes/breathe/</link>
+      <link>https://johnforstmeier.com/notes/breathe/</link>
       <pubDate>Mon, 16 Nov 2020 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/breathe/</guid>
+      <guid>https://johnforstmeier.com/notes/breathe/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Take a deep breath.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;And then take another.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Microservice News</title>
-      <link>http://localhost:1313/notes/microservice-news/</link>
+      <link>https://johnforstmeier.com/notes/microservice-news/</link>
       <pubDate>Wed, 11 Nov 2020 08:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/microservice-news/</guid>
+      <guid>https://johnforstmeier.com/notes/microservice-news/</guid>
       <description>&lt;p&gt;An alternative news consumption paradigm could be one where individuals build themselves ad-hoc collections to establish a &amp;ldquo;microservice architecture&amp;rdquo; of preferred sources. Ideally, these sources would be smaller groups or independent journalists potentially providing highly specialized coverage and reporting - some sources might even exist only as long as the story they cover. All news producers would be treated as &lt;strong&gt;modular&lt;/strong&gt; and &lt;strong&gt;replaceable&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This fragmentation would force consumers to &lt;em&gt;actively build their own networks&lt;/em&gt; while also reducing narrative centralization from large producers. While it would still be possible for readers to build information echo chambers, to do so would require an active effort and would lack the input of recommendation engines.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friend Disagreements</title>
-      <link>http://localhost:1313/notes/friend-disagreements/</link>
+      <link>https://johnforstmeier.com/notes/friend-disagreements/</link>
       <pubDate>Mon, 09 Nov 2020 08:37:38 -0500</pubDate>
-      <guid>http://localhost:1313/notes/friend-disagreements/</guid>
+      <guid>https://johnforstmeier.com/notes/friend-disagreements/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Friends can disagree over things that matter.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Impressionism</title>
-      <link>http://localhost:1313/notes/impressionism/</link>
+      <link>https://johnforstmeier.com/notes/impressionism/</link>
       <pubDate>Thu, 05 Nov 2020 08:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/notes/impressionism/</guid>
+      <guid>https://johnforstmeier.com/notes/impressionism/</guid>
       <description>&lt;p&gt;Impressionism [&lt;a href=&#34;https://en.wikipedia.org/wiki/Impressionism&#34; title=&#34;Impressionism - Wikipedia&#34;&gt;1&lt;/a&gt;] as a painting style has a strong personal, albeit uninformed, appeal.&lt;/p&gt;&#xA;&lt;p&gt;The style prefers to see &lt;em&gt;everything&lt;/em&gt; in a given scope without focusing on &lt;em&gt;specific&lt;/em&gt; details. Produced images are more of a summary or a simplification of the subject which significantly reduces cognitive overhead in consuming these pieces.&lt;/p&gt;&#xA;&lt;p&gt;A favorite is &lt;em&gt;The Battle of the Kearsarge and the Alabama&lt;/em&gt; [&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Battle_of_the_Kearsarge_and_the_Alabama&#34; title=&#34;The Battle of the Kearsarge and the Alabama - Wikipedia&#34;&gt;2&lt;/a&gt;] by Édouard Manet, pictured below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Citizen&#39;s Dividend Competition</title>
-      <link>http://localhost:1313/notes/citizens-dividend-competition/</link>
+      <link>https://johnforstmeier.com/notes/citizens-dividend-competition/</link>
       <pubDate>Wed, 28 Oct 2020 08:40:20 -0400</pubDate>
-      <guid>http://localhost:1313/notes/citizens-dividend-competition/</guid>
+      <guid>https://johnforstmeier.com/notes/citizens-dividend-competition/</guid>
       <description>&lt;p&gt;A &lt;em&gt;non-guaranteed&lt;/em&gt; citizen&amp;rsquo;s dividend introduces &lt;strong&gt;fiscal competition&lt;/strong&gt; between political parties that are members of the dividend issuing government.&lt;/p&gt;&#xA;&lt;p&gt;For common equity dividends the amount per share is determined by profit surplus roughly calculated as revenue minus cost. Similarly, a citizen&amp;rsquo;s dividend is determined by government revenue minus government cost. Given government revenue is often primarily driven by taxation, the least impactful way to increase distributions to constituents is to reduce government costs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anti-Wozniak</title>
-      <link>http://localhost:1313/notes/anti-wozniak/</link>
+      <link>https://johnforstmeier.com/notes/anti-wozniak/</link>
       <pubDate>Fri, 23 Oct 2020 09:37:13 -0400</pubDate>
-      <guid>http://localhost:1313/notes/anti-wozniak/</guid>
+      <guid>https://johnforstmeier.com/notes/anti-wozniak/</guid>
       <description>&lt;p&gt;Rapid development iteration following patterns like Agile [&lt;a href=&#34;http://www.agilenutshell.com/&#34; title=&#34;What is Agile? - Agile In A Nutshell&#34;&gt;1&lt;/a&gt;] generates immediate product feedback which may be an antidote against not posessing raw talent displayed by people like Steve Wozniak [&lt;a href=&#34;https://en.wikipedia.org/wiki/Steve_Wozniak&#34; title=&#34;Steve Wozniak - Wikipedia&#34;&gt;2&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;Avoiding &amp;ldquo;representing yourself&amp;rdquo; [&lt;a href=&#34;https://www.youtube.com/watch?v=pJif4i9NRdI&#34; title=&#34;Steve Wozniak Debunks One of Apple&#39;s Biggest Myths - YouTube&#34;&gt;3&lt;/a&gt;] in the product removes the need to build perfection on the first deployment and will still eventually lead to a fully realized end result.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Brainstorm No. 1</title>
-      <link>http://localhost:1313/notes/political-brainstorm-no-1/</link>
+      <link>https://johnforstmeier.com/notes/political-brainstorm-no-1/</link>
       <pubDate>Thu, 15 Oct 2020 08:40:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/political-brainstorm-no-1/</guid>
+      <guid>https://johnforstmeier.com/notes/political-brainstorm-no-1/</guid>
       <description>&lt;p&gt;Below is a loose, unordered collection of &amp;ldquo;radical&amp;rdquo;, but practically implementable, ideas for the U.S. political system. These have not been evaluated for completeness - this is a braindump. However, they may be expanded on individually in the future.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ideas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Comprehensive Federal term limits&lt;/strong&gt;: all Federal-level roles, including the Vice Presidency, the Senate, the House, and the Supreme Court, would be term-limited. Service could be potentially capped at eight years each.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Goal: reducing influence consolidation and office permanence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Citizen&#39;s Dividend vs UBI</title>
-      <link>http://localhost:1313/notes/citizens-dividend-vs-ubi/</link>
+      <link>https://johnforstmeier.com/notes/citizens-dividend-vs-ubi/</link>
       <pubDate>Thu, 08 Oct 2020 08:15:06 -0400</pubDate>
-      <guid>http://localhost:1313/notes/citizens-dividend-vs-ubi/</guid>
+      <guid>https://johnforstmeier.com/notes/citizens-dividend-vs-ubi/</guid>
       <description>&lt;p&gt;The difference in the concepts of a &lt;em&gt;citizen&amp;rsquo;s dividend&lt;/em&gt; and &lt;em&gt;universal basic income&lt;/em&gt; (&amp;ldquo;UBI&amp;rdquo;) are laid out in the terms &amp;ldquo;dividend&amp;rdquo; and &amp;ldquo;income.&amp;rdquo;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Feature&lt;/th&gt;&#xA;          &lt;th&gt;Dividend&lt;/th&gt;&#xA;          &lt;th&gt;Income&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Amount&lt;/td&gt;&#xA;          &lt;td&gt;Floating value based on excess revenue&lt;/td&gt;&#xA;          &lt;td&gt;Fixed value determined by contract&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frequency&lt;/td&gt;&#xA;          &lt;td&gt;Non-guaranteed, likely monthly/quarterly&lt;/td&gt;&#xA;          &lt;td&gt;Guaranteed, determined by contract&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Source&lt;/td&gt;&#xA;          &lt;td&gt;Equity ownership allocates share&lt;/td&gt;&#xA;          &lt;td&gt;Labor contributed under contract&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;These features are present in fiscal policy options.&lt;/p&gt;&#xA;&lt;p&gt;A citizen&amp;rsquo;s dividend in a Georgist model [&lt;a href=&#34;https://en.wikipedia.org/wiki/Georgism#Revenue_uses&#34; title=&#34;Georgism revenue uses - Wikipedia&#34;&gt;1&lt;/a&gt;] would derive funding from tax revenue, ideally a land value tax, minus government spending distributed on a per capita basis to all citizens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Splitting Education</title>
-      <link>http://localhost:1313/notes/splitting-education/</link>
+      <link>https://johnforstmeier.com/notes/splitting-education/</link>
       <pubDate>Wed, 30 Sep 2020 08:06:23 -0400</pubDate>
-      <guid>http://localhost:1313/notes/splitting-education/</guid>
+      <guid>https://johnforstmeier.com/notes/splitting-education/</guid>
       <description>&lt;p&gt;Currently, there is a conflation between higher education and vocational training. Typical, four-year degrees are providing both a general education and serving as credentialing frequently required in the workforce. Separating these aspects could provide more tailored services to students based on interest and need.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Educational&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;traditional&amp;rdquo; four-year college environment&lt;/li&gt;&#xA;&lt;li&gt;providing broad teachings and exposure to abstract concepts&lt;/li&gt;&#xA;&lt;li&gt;examples: history, higher-order math, music, computer theory, etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;gt; more theoretical, less appied&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Duopoloy</title>
-      <link>http://localhost:1313/notes/political-duopoloy/</link>
+      <link>https://johnforstmeier.com/notes/political-duopoloy/</link>
       <pubDate>Wed, 23 Sep 2020 08:32:43 -0400</pubDate>
-      <guid>http://localhost:1313/notes/political-duopoloy/</guid>
+      <guid>https://johnforstmeier.com/notes/political-duopoloy/</guid>
       <description>&lt;p&gt;Established political duopolies hold their members on platforms that can devolve into what can be summarized as &amp;ldquo;anti-opposing party.&amp;rdquo; Time is spent condemning the opposition&amp;rsquo;s stances without defending, or sometimes even &lt;em&gt;presenting&lt;/em&gt;, alternatives. While there may be philosophic stratification within the dual parties, these differences are subordinate to the party positions.&lt;/p&gt;&#xA;&lt;p&gt;Splitting these duopolies into &lt;strong&gt;multiple mini-parties&lt;/strong&gt; encourages more active discourse and requires proactive engagement among colleagues when presenting and defending positions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Georgism and Energy</title>
-      <link>http://localhost:1313/notes/georgism-and-energy/</link>
+      <link>https://johnforstmeier.com/notes/georgism-and-energy/</link>
       <pubDate>Thu, 17 Sep 2020 08:20:31 -0400</pubDate>
-      <guid>http://localhost:1313/notes/georgism-and-energy/</guid>
+      <guid>https://johnforstmeier.com/notes/georgism-and-energy/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;land value tax&lt;/strong&gt; (&amp;ldquo;LVT&amp;rdquo;) at the center of Georgism directly encourages efficient land usage in energy production. Given that this core principal assesses taxes as a percentage of the value of the land held, it drives producers to establish the smallest physical footprint possible.&lt;/p&gt;&#xA;&lt;p&gt;If it were introduced, there would be an immediate impact to all existing energy producers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;Traditional&amp;rdquo; fuels (e.g. oil, LNG, coal)&lt;/strong&gt;: large land, and potentially offshore, resources would be adjusted to find the optimal boundary of exerting exclusive rights to the resources and minimizing the taxable land held; additionally the valuable resources held in the land would increase the land value and taxes owed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pharmaceuticals As Software</title>
-      <link>http://localhost:1313/notes/pharma-software/</link>
+      <link>https://johnforstmeier.com/notes/pharma-software/</link>
       <pubDate>Thu, 10 Sep 2020 08:25:32 -0400</pubDate>
-      <guid>http://localhost:1313/notes/pharma-software/</guid>
+      <guid>https://johnforstmeier.com/notes/pharma-software/</guid>
       <description>&lt;p&gt;Some characteristics of pharmaceuticals make them comparable to software. Basically software and pharmaceuticals have:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;high development costs&lt;/li&gt;&#xA;&lt;li&gt;low distribution costs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For example, both require a large, upfront resource investment in research and composition. After initial R&amp;amp;D expenses, both are relatively easily manufactured and distributed at scale.&lt;/p&gt;&#xA;&lt;p&gt;Knowing this, pharmaceuticals may be well placed to leverage wide-reaching treatments while reducing healthcare costs. Additionally, with precision medicine [&lt;a href=&#34;https://en.wikipedia.org/wiki/Personalized_medicine#Drug_development_and_usage&#34; title=&#34;Personalized medicine drug development and usage - Wikipedia&#34;&gt;1&lt;/a&gt;], highly-focused solutions can be developed or even compounded on-demand for individual use to increase effectiveness.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Team Skill</title>
-      <link>http://localhost:1313/notes/small-team-skill/</link>
+      <link>https://johnforstmeier.com/notes/small-team-skill/</link>
       <pubDate>Thu, 03 Sep 2020 08:20:01 -0400</pubDate>
-      <guid>http://localhost:1313/notes/small-team-skill/</guid>
+      <guid>https://johnforstmeier.com/notes/small-team-skill/</guid>
       <description>&lt;p&gt;One of the most important skills a &lt;em&gt;small&lt;/em&gt; team can collectively have is the ability to identify what they &lt;strong&gt;don&amp;rsquo;t need to build&lt;/strong&gt; for a &lt;em&gt;minimum viable product&lt;/em&gt; (&amp;ldquo;MVP&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Smaller teams inherently have fewer human resources available to build things and must prioritize. An open two-way dialogue between the team and the customer helps identify the &lt;em&gt;core value&lt;/em&gt; the product provides the customers. With this the team can provide that initial &lt;em&gt;core value&lt;/em&gt; in their MVP even if it&amp;rsquo;s held together with rubber bands and bubble gum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Born With Nothing</title>
-      <link>http://localhost:1313/notes/born-with-nothing/</link>
+      <link>https://johnforstmeier.com/notes/born-with-nothing/</link>
       <pubDate>Wed, 15 Jul 2020 08:24:25 -0400</pubDate>
-      <guid>http://localhost:1313/notes/born-with-nothing/</guid>
+      <guid>https://johnforstmeier.com/notes/born-with-nothing/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s worth reiterating that you are born with nothing and no one owes you anything. All you have are your rights and even those have been endowed to you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Remember you are dust and unto dust you shall return.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Healthy Authority Skeptic</title>
-      <link>http://localhost:1313/notes/healthy-authority-skeptic/</link>
+      <link>https://johnforstmeier.com/notes/healthy-authority-skeptic/</link>
       <pubDate>Sat, 06 Jun 2020 08:33:02 -0400</pubDate>
-      <guid>http://localhost:1313/notes/healthy-authority-skeptic/</guid>
+      <guid>https://johnforstmeier.com/notes/healthy-authority-skeptic/</guid>
       <description>&lt;p&gt;Being a healthy skeptic of authority is a good thing. The keyword being &lt;strong&gt;healthy&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A certain amount of structure is definitely necessary to enable human socio-economic interactions. But evaluations of the structure should be constantly made:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Evaluate the &lt;em&gt;validity&lt;/em&gt; of the those in authority - does their position of power stem from the governed?&lt;/li&gt;&#xA;&lt;li&gt;Evaluate whether their actions fall within the &lt;em&gt;purview&lt;/em&gt; of those in authority - are they doing what they have the capacity to do on behalf of the governed?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Moral Laws</title>
-      <link>http://localhost:1313/notes/moral-laws/</link>
+      <link>https://johnforstmeier.com/notes/moral-laws/</link>
       <pubDate>Tue, 19 May 2020 08:39:45 -0400</pubDate>
-      <guid>http://localhost:1313/notes/moral-laws/</guid>
+      <guid>https://johnforstmeier.com/notes/moral-laws/</guid>
       <description>&lt;p&gt;Laws can and should be based on immutable, moral principles, but that does not mean we need to codify and enforce every one of our morals on other people.&lt;/p&gt;&#xA;&lt;p&gt;Sins should be easier to commit than laws should be to break.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Facilitating Decisions</title>
-      <link>http://localhost:1313/notes/facilitating-decisions/</link>
+      <link>https://johnforstmeier.com/notes/facilitating-decisions/</link>
       <pubDate>Thu, 23 Apr 2020 08:41:55 -0400</pubDate>
-      <guid>http://localhost:1313/notes/facilitating-decisions/</guid>
+      <guid>https://johnforstmeier.com/notes/facilitating-decisions/</guid>
       <description>&lt;p&gt;The individuals best suited for making decisions on any solution are those closest to the problem. It is the leader&amp;rsquo;s only job to facilitate these decisions. A leader should:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Provide guidance when it is requested&lt;/li&gt;&#xA;&lt;li&gt;Arbitrate disputes when they arise&lt;/li&gt;&#xA;&lt;li&gt;Make decisions when presented options&lt;/li&gt;&#xA;&lt;li&gt;Spread vision and purpose when leading&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Leaders should work to empower individuals to make their own decisions and only impose their own when absolutely necessary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Challenging Work</title>
-      <link>http://localhost:1313/notes/challenging-work/</link>
+      <link>https://johnforstmeier.com/notes/challenging-work/</link>
       <pubDate>Tue, 07 Apr 2020 08:47:50 -0400</pubDate>
-      <guid>http://localhost:1313/notes/challenging-work/</guid>
+      <guid>https://johnforstmeier.com/notes/challenging-work/</guid>
       <description>&lt;p&gt;People don&amp;rsquo;t just seek out employment - they seek out work and a meaningful way to contribute to and participate in the world around them.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s good to challenge yourself through your professional endeavors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happiness vs Joy</title>
-      <link>http://localhost:1313/notes/happiness-vs-joy/</link>
+      <link>https://johnforstmeier.com/notes/happiness-vs-joy/</link>
       <pubDate>Fri, 27 Mar 2020 08:49:50 -0400</pubDate>
-      <guid>http://localhost:1313/notes/happiness-vs-joy/</guid>
+      <guid>https://johnforstmeier.com/notes/happiness-vs-joy/</guid>
       <description>&lt;p&gt;There is a difference between &lt;strong&gt;happiness&lt;/strong&gt; and &lt;strong&gt;joy&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Happiness is the &lt;em&gt;emotion&lt;/em&gt;. Joy is the &lt;em&gt;spirit&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Economic Mesas</title>
-      <link>http://localhost:1313/notes/economic-mesas/</link>
+      <link>https://johnforstmeier.com/notes/economic-mesas/</link>
       <pubDate>Fri, 20 Mar 2020 08:54:56 -0400</pubDate>
-      <guid>http://localhost:1313/notes/economic-mesas/</guid>
+      <guid>https://johnforstmeier.com/notes/economic-mesas/</guid>
       <description>&lt;p&gt;A &lt;strong&gt;citizen&amp;rsquo;s dividend&lt;/strong&gt; would create an &amp;ldquo;economic mesa&amp;rdquo; and establish a natural and humane border.&lt;/p&gt;&#xA;&lt;p&gt;Following the Georgist [&lt;a href=&#34;https://en.wikipedia.org/wiki/Georgism#Revenue_uses&#34; title=&#34;Georgism revenue uses - Wikipedia&#34;&gt;1&lt;/a&gt;] model, a citizen&amp;rsquo;s dividend would have the side effect of providing an additional method for defining and enforcing sovereign territory. Legal citizens would receive the non-guaranteed dividend, pro rata, which would generally shift prices higher in the region they spend it - predominantly where they live. A resource disparity would arise between the citizens and the citizens of neighboring countries. Individuals entering the country would not be entitled to the dividend and would face the hurdle of the &amp;ldquo;economic mesa&amp;rdquo; in order to live within the national borders which would encourage legal immigration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reverse Equity</title>
-      <link>http://localhost:1313/notes/reverse-equity/</link>
+      <link>https://johnforstmeier.com/notes/reverse-equity/</link>
       <pubDate>Sun, 15 Mar 2020 08:58:07 -0400</pubDate>
-      <guid>http://localhost:1313/notes/reverse-equity/</guid>
+      <guid>https://johnforstmeier.com/notes/reverse-equity/</guid>
       <description>&lt;p&gt;Something to consider:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Equity creates equity in the employees from the point of view of the company.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Equity&lt;/strong&gt;: relatively non-liquid asset conveying financial value from dividends and non-financial value from voting rights&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Salary&lt;/strong&gt;: highly liquid asset conveying financial value on receipt and provides no non-financial value&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The former establishes a direct and more-or-less permanent investment in the company by the employee while the latter is available to the employee only through the life of the employment contract.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Philosophic Ancestry</title>
-      <link>http://localhost:1313/notes/philosophic-ancestry/</link>
+      <link>https://johnforstmeier.com/notes/philosophic-ancestry/</link>
       <pubDate>Thu, 20 Feb 2020 12:20:24 -0400</pubDate>
-      <guid>http://localhost:1313/notes/philosophic-ancestry/</guid>
+      <guid>https://johnforstmeier.com/notes/philosophic-ancestry/</guid>
       <description>&lt;p&gt;While I don&amp;rsquo;t agree with &lt;em&gt;most&lt;/em&gt; philosophic and religious traditions, I can&amp;rsquo;t imagine a world that is better where Great Meteoron, Potala Palace, Shaolin Temple, Simonopetra, Blagaj Tekke, Sera Monastery, Tungnath, and many others, are silent. I really believe these monuments, and the faiths that they symbolize, to be important to our shared social fabric and our connection to our past.&lt;/p&gt;&#xA;&lt;p&gt;The beauty and diversity of antique philosophy should be fought for and maintained.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Opportunities For Good</title>
-      <link>http://localhost:1313/notes/opportunities-for-good/</link>
+      <link>https://johnforstmeier.com/notes/opportunities-for-good/</link>
       <pubDate>Mon, 10 Feb 2020 12:24:15 -0400</pubDate>
-      <guid>http://localhost:1313/notes/opportunities-for-good/</guid>
+      <guid>https://johnforstmeier.com/notes/opportunities-for-good/</guid>
       <description>&lt;p&gt;Something that strikes me:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Small opportunities to be good seem so difficult to take advantage of while the truly great require no deliberation.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I wonder if this has to do with smaller opportunities so often coming into conflict with prevailing social norms while the options that accompany truly great opportunities are universally held to be true. Now this isn&amp;rsquo;t to say the small are lesser but that accomplishing them requires a different kind of courage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boring Problems</title>
-      <link>http://localhost:1313/notes/boring-problems/</link>
+      <link>https://johnforstmeier.com/notes/boring-problems/</link>
       <pubDate>Thu, 30 Jan 2020 13:36:52 -0400</pubDate>
-      <guid>http://localhost:1313/notes/boring-problems/</guid>
+      <guid>https://johnforstmeier.com/notes/boring-problems/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Boring problems often have fascinating solutions.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This may be more or less true, and is likely dependent on personal experience, but I’ve found that boring problems have typically been left un-explored for the very reason that they’re boring. This makes it all new territory for someone venturing into it. Whatever they make to solve the problem will be entirely new.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conversation Percentages</title>
-      <link>http://localhost:1313/notes/conversation-percentages/</link>
+      <link>https://johnforstmeier.com/notes/conversation-percentages/</link>
       <pubDate>Mon, 20 Jan 2020 13:38:19 -0400</pubDate>
-      <guid>http://localhost:1313/notes/conversation-percentages/</guid>
+      <guid>https://johnforstmeier.com/notes/conversation-percentages/</guid>
       <description>&lt;p&gt;So many people forget that fifty percent of every conversation between two people is silence.&lt;/p&gt;&#xA;&lt;p&gt;Active listening is a real thing; when I realize someone is really listening, the conversation has real meaning. I strive to provide the same attention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Sip</title>
-      <link>http://localhost:1313/notes/first-sip/</link>
+      <link>https://johnforstmeier.com/notes/first-sip/</link>
       <pubDate>Fri, 10 Jan 2020 13:40:25 -0400</pubDate>
-      <guid>http://localhost:1313/notes/first-sip/</guid>
+      <guid>https://johnforstmeier.com/notes/first-sip/</guid>
       <description>&lt;p&gt;When you&amp;rsquo;re kicking back in the evening&amp;hellip;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Enjoy the first sip of your beer.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Especially when you&amp;rsquo;ve held off drinking all week and Friday rolls around.&lt;/p&gt;</description>
     </item>
     <item>
       <title>War King</title>
-      <link>http://localhost:1313/notes/war-king/</link>
+      <link>https://johnforstmeier.com/notes/war-king/</link>
       <pubDate>Fri, 03 Jan 2020 13:45:42 -0400</pubDate>
-      <guid>http://localhost:1313/notes/war-king/</guid>
+      <guid>https://johnforstmeier.com/notes/war-king/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The king who avoids war at all costs is the king to avoid in war.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Those who are passionate for peace will passionately pursue its return.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Facilitating Conversation</title>
-      <link>http://localhost:1313/notes/facilitating-conversation/</link>
+      <link>https://johnforstmeier.com/notes/facilitating-conversation/</link>
       <pubDate>Sat, 21 Dec 2019 18:23:41 -0400</pubDate>
-      <guid>http://localhost:1313/notes/facilitating-conversation/</guid>
+      <guid>https://johnforstmeier.com/notes/facilitating-conversation/</guid>
       <description>&lt;p&gt;Sometimes facilitating conversation is more important than contributing to it.&lt;/p&gt;&#xA;&lt;p&gt;Try working with developers talking past each other for thirty minutes and you&amp;rsquo;ll see how this makes sense.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Core Project Principles</title>
-      <link>http://localhost:1313/notes/core-project-principles/</link>
+      <link>https://johnforstmeier.com/notes/core-project-principles/</link>
       <pubDate>Thu, 12 Dec 2019 18:29:30 -0400</pubDate>
-      <guid>http://localhost:1313/notes/core-project-principles/</guid>
+      <guid>https://johnforstmeier.com/notes/core-project-principles/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Collaboration, communication, community.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;These are three core principles I look for in projects I associate myself with. Open/active discussions about the roadmap with no one individual deciding things, clearly and consistently adhering to a roadmap, and including all stakeholders in formalizing the roadmap.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Requirements Over Process</title>
-      <link>http://localhost:1313/notes/requirements-over-process/</link>
+      <link>https://johnforstmeier.com/notes/requirements-over-process/</link>
       <pubDate>Mon, 02 Dec 2019 18:31:23 -0400</pubDate>
-      <guid>http://localhost:1313/notes/requirements-over-process/</guid>
+      <guid>https://johnforstmeier.com/notes/requirements-over-process/</guid>
       <description>&lt;p&gt;Favor requirements over processes while building. When you do need a process, automate it.&lt;/p&gt;&#xA;&lt;p&gt;By this I mean prioritize &lt;em&gt;quality&lt;/em&gt; or &lt;em&gt;production&lt;/em&gt; requirements rather than dictating &lt;em&gt;how&lt;/em&gt; to build things. Creating process pipelines, or enforcing strict architectures before they can be evaluated, likely stifles creativity - anything needing a process should be automated and never thought about.&lt;/p&gt;&#xA;&lt;p&gt;Basically: &lt;strong&gt;let people be creative&lt;/strong&gt; and then when they&amp;rsquo;ve built some cool things, &lt;strong&gt;formalize and automate the things that prevent them from being creative&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minimal Resource Creativity</title>
-      <link>http://localhost:1313/notes/minimal-resource-creativity/</link>
+      <link>https://johnforstmeier.com/notes/minimal-resource-creativity/</link>
       <pubDate>Mon, 25 Nov 2019 19:22:03 -0400</pubDate>
-      <guid>http://localhost:1313/notes/minimal-resource-creativity/</guid>
+      <guid>https://johnforstmeier.com/notes/minimal-resource-creativity/</guid>
       <description>&lt;p&gt;It really seems like a minimal resource set necessitates creative solutions and efficient design.&lt;/p&gt;&#xA;&lt;p&gt;I’m a firm believer in this. It’s sort of like building with a limited number of LEGOs: it forces you to think creatively and with imagination while also knowing intimately the number of pieces you have left and how they can work together.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Necessity is the mother of invention.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Simple Solution Fun</title>
-      <link>http://localhost:1313/notes/simple-solution-fun/</link>
+      <link>https://johnforstmeier.com/notes/simple-solution-fun/</link>
       <pubDate>Thu, 21 Nov 2019 19:25:42 -0400</pubDate>
-      <guid>http://localhost:1313/notes/simple-solution-fun/</guid>
+      <guid>https://johnforstmeier.com/notes/simple-solution-fun/</guid>
       <description>&lt;p&gt;Building simple solutions is &lt;em&gt;&lt;strong&gt;fun&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This falls in with my overall philosophy of minimalism. Build lots of simple solutions and then weave them together to form something big.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Natural Variables</title>
-      <link>http://localhost:1313/notes/natural-variables/</link>
+      <link>https://johnforstmeier.com/notes/natural-variables/</link>
       <pubDate>Mon, 11 Nov 2019 19:28:28 -0400</pubDate>
-      <guid>http://localhost:1313/notes/natural-variables/</guid>
+      <guid>https://johnforstmeier.com/notes/natural-variables/</guid>
       <description>&lt;p&gt;Variables utilized in human decision making should be based in the &lt;em&gt;natural world&lt;/em&gt; rather than &lt;em&gt;arbitrary selection&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;An example of this is consent. In order for consent to be actually given, the individual has to be fully cognizant of the situation and not coerced. Being cognizant would, theoretically, require a fully developed brain - although this can’t be accurately assessed on-demand and on a case-by-case basis, the age for consent (alcohol, military service, driving, sex, etc.) should be placed on the average (at the time of this writing I believe that occurs around 25 years old).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Personal Church</title>
-      <link>http://localhost:1313/notes/personal-church/</link>
-      <pubDate>Mon, 04 Nov 2019 19:30:44 -0400</pubDate>
-      <guid>http://localhost:1313/notes/personal-church/</guid>
-      <description>&lt;p&gt;I want the Church to be &lt;strong&gt;personal&lt;/strong&gt;, not &lt;strong&gt;individual&lt;/strong&gt;. This sort of goes in line with my view that the Church can be smaller in a literal sense of the organization. However, it needs to be balanced against non-conformity and subjective interpretation of doctrine.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Work Burnout</title>
-      <link>http://localhost:1313/notes/work-burnout/</link>
+      <link>https://johnforstmeier.com/notes/work-burnout/</link>
       <pubDate>Mon, 28 Oct 2019 19:40:45 -0400</pubDate>
-      <guid>http://localhost:1313/notes/work-burnout/</guid>
+      <guid>https://johnforstmeier.com/notes/work-burnout/</guid>
       <description>&lt;p&gt;Work is still work - it isn&amp;rsquo;t always fun. But it sucks when it used to be.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a bit whiny but feeling burnout at work, especially when the environment used to be engaging, fun, dynamic, and rewarding, really sucks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Increased Self-Direction</title>
-      <link>http://localhost:1313/notes/increased-self-direction/</link>
+      <link>https://johnforstmeier.com/notes/increased-self-direction/</link>
       <pubDate>Fri, 25 Oct 2019 19:44:42 -0400</pubDate>
-      <guid>http://localhost:1313/notes/increased-self-direction/</guid>
+      <guid>https://johnforstmeier.com/notes/increased-self-direction/</guid>
       <description>&lt;p&gt;The goal of increased individual self-direction requires providing both the &lt;em&gt;individual decision-making capacity&lt;/em&gt; and the &lt;em&gt;resources to take action with&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is a personal goal of mine to provide both of these factors for both myself in my own life and for others in theirs. Individuals should be maximally free to self-direct and be able to utilize as many resources as possible, in many cases, to engage in productive endeavors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Challenging Innovations</title>
-      <link>http://localhost:1313/notes/challenging-innovations/</link>
+      <link>https://johnforstmeier.com/notes/challenging-innovations/</link>
       <pubDate>Tue, 22 Oct 2019 19:48:26 -0400</pubDate>
-      <guid>http://localhost:1313/notes/challenging-innovations/</guid>
+      <guid>https://johnforstmeier.com/notes/challenging-innovations/</guid>
       <description>&lt;p&gt;Many innovations today focus on making life easier - why not build things that make life more &lt;strong&gt;challenging&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;p&gt;This sounds silly but I like the idea of building things that push us forward and challenge us physically, mentally, emotionally, spiritually, philosophically. Things like hard science and deep tech are going to really push us more than service-based innovation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sweat Equity Unification</title>
-      <link>http://localhost:1313/notes/sweat-equity-unification/</link>
+      <link>https://johnforstmeier.com/notes/sweat-equity-unification/</link>
       <pubDate>Fri, 18 Oct 2019 19:50:54 -0400</pubDate>
-      <guid>http://localhost:1313/notes/sweat-equity-unification/</guid>
+      <guid>https://johnforstmeier.com/notes/sweat-equity-unification/</guid>
       <description>&lt;p&gt;Companies that unite &lt;em&gt;shareholders&lt;/em&gt; and &lt;em&gt;stakeholders&lt;/em&gt; invest in their employees and community. And this happens at the same time.&lt;/p&gt;&#xA;&lt;p&gt;Introducing perpetually issued and held &amp;ldquo;sweat equity&amp;rdquo; for employees helps to build bonds with employees and alleviate reliance on the &amp;ldquo;salary drug.&amp;rdquo; Bringing these two together lets individuals keep what they build. [&lt;a href=&#34;https://colony.io/&#34; title=&#34;Colony - Colony.io&#34;&gt;1&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microservice Economy</title>
-      <link>http://localhost:1313/notes/microservice-economy/</link>
+      <link>https://johnforstmeier.com/notes/microservice-economy/</link>
       <pubDate>Tue, 15 Oct 2019 19:54:39 -0400</pubDate>
-      <guid>http://localhost:1313/notes/microservice-economy/</guid>
+      <guid>https://johnforstmeier.com/notes/microservice-economy/</guid>
       <description>&lt;p&gt;Large numbers of small producers reduces market consolidation and increases economic resiliency. Sort of an microservice economy.&lt;/p&gt;&#xA;&lt;p&gt;While there&amp;rsquo;s nothing inherently wrong with large producers, who often provide beneficial economies of scale, smaller operations may more easily avoid turning employees into &amp;ldquo;cogs.&amp;rdquo; Also, with smaller operations, there&amp;rsquo;s less possibility of drastic market centralization and consolidation of risk. No one entity dictates the activities of the market.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Craftsmanship Pride</title>
-      <link>http://localhost:1313/notes/craftsmanship-pride/</link>
+      <link>https://johnforstmeier.com/notes/craftsmanship-pride/</link>
       <pubDate>Wed, 09 Oct 2019 19:57:07 -0400</pubDate>
-      <guid>http://localhost:1313/notes/craftsmanship-pride/</guid>
+      <guid>https://johnforstmeier.com/notes/craftsmanship-pride/</guid>
       <description>&lt;p&gt;An important aspect of craftsmanship is &lt;strong&gt;earning the pride&lt;/strong&gt; you take in your work.&lt;/p&gt;&#xA;&lt;p&gt;The &amp;ldquo;niche&amp;rdquo; production approach where output is owned by the individuals who produce it, as encouraged by distributism, encourages thoughtful satisfaction in one&amp;rsquo;s accomplishment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distributism Maker Ownership</title>
-      <link>http://localhost:1313/notes/distributism-maker-ownership/</link>
+      <link>https://johnforstmeier.com/notes/distributism-maker-ownership/</link>
       <pubDate>Thu, 03 Oct 2019 19:59:53 -0400</pubDate>
-      <guid>http://localhost:1313/notes/distributism-maker-ownership/</guid>
+      <guid>https://johnforstmeier.com/notes/distributism-maker-ownership/</guid>
       <description>&lt;p&gt;The theory of distributism [&lt;a href=&#34;https://en.wikipedia.org/wiki/Distributism&#34; title=&#34;Distributism - Wikipedia&#34;&gt;1&lt;/a&gt;] encourages maker ownership of the means and output of production while maintaining a free market. Together, this makes for a system designed around individual self-direction and establishes human dignity at the center of the philosophy.&lt;/p&gt;&#xA;&lt;p&gt;A move towards distributism is a move towards a &lt;strong&gt;true system of social justice&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Statues</title>
-      <link>http://localhost:1313/notes/statues/</link>
+      <link>https://johnforstmeier.com/notes/statues/</link>
       <pubDate>Fri, 27 Sep 2019 20:09:53 -0400</pubDate>
-      <guid>http://localhost:1313/notes/statues/</guid>
+      <guid>https://johnforstmeier.com/notes/statues/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Don’t build statues to people who are still alive.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Best practice to avoid making people into gods in their own minds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Truths</title>
-      <link>http://localhost:1313/notes/simple-truths/</link>
+      <link>https://johnforstmeier.com/notes/simple-truths/</link>
       <pubDate>Sun, 15 Sep 2019 08:53:11 -0400</pubDate>
-      <guid>http://localhost:1313/notes/simple-truths/</guid>
+      <guid>https://johnforstmeier.com/notes/simple-truths/</guid>
       <description>&lt;p&gt;The greatest truths are &lt;strong&gt;simple&lt;/strong&gt;. Probably one of the most important things I&amp;rsquo;ve learned from C.S. Lewis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where You&#39;re From</title>
-      <link>http://localhost:1313/notes/where-youre-from/</link>
+      <link>https://johnforstmeier.com/notes/where-youre-from/</link>
       <pubDate>Tue, 10 Sep 2019 08:55:00 -0400</pubDate>
-      <guid>http://localhost:1313/notes/where-youre-from/</guid>
+      <guid>https://johnforstmeier.com/notes/where-youre-from/</guid>
       <description>&lt;p&gt;Where you&amp;rsquo;re from is only important if you&amp;rsquo;ve never left - otherwise, what matters is where you&amp;rsquo;re going.&lt;/p&gt;&#xA;&lt;p&gt;Maybe a tad cliche, but whatever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vulnerable Dignity</title>
-      <link>http://localhost:1313/notes/vulnerable-dignity/</link>
+      <link>https://johnforstmeier.com/notes/vulnerable-dignity/</link>
       <pubDate>Wed, 04 Sep 2019 08:56:20 -0400</pubDate>
-      <guid>http://localhost:1313/notes/vulnerable-dignity/</guid>
+      <guid>https://johnforstmeier.com/notes/vulnerable-dignity/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t believe in a loss in dignity simply because one is &lt;strong&gt;vulnerable&lt;/strong&gt;. There is no shame in asking for help. There is only shame in &lt;em&gt;demanding it&lt;/em&gt; or &lt;em&gt;denying it&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friends Favors</title>
-      <link>http://localhost:1313/notes/friends-favors/</link>
+      <link>https://johnforstmeier.com/notes/friends-favors/</link>
       <pubDate>Mon, 26 Aug 2019 09:00:24 -0400</pubDate>
-      <guid>http://localhost:1313/notes/friends-favors/</guid>
+      <guid>https://johnforstmeier.com/notes/friends-favors/</guid>
       <description>&lt;p&gt;Friends don&amp;rsquo;t perform favors for friends, they just help their friends when they need it.&lt;/p&gt;&#xA;&lt;p&gt;Sort of a cheesy thing to say, but I believe it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Family Blood</title>
-      <link>http://localhost:1313/notes/family-blood/</link>
+      <link>https://johnforstmeier.com/notes/family-blood/</link>
       <pubDate>Fri, 16 Aug 2019 09:01:38 -0400</pubDate>
-      <guid>http://localhost:1313/notes/family-blood/</guid>
+      <guid>https://johnforstmeier.com/notes/family-blood/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Family is more than blood.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;While I think blood is a decent, in most cases, default binding connection, I believe we can hold those that we choose to associate ourselves with in similarly high regard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unscripted Interactions</title>
-      <link>http://localhost:1313/notes/unscripted-interactions/</link>
+      <link>https://johnforstmeier.com/notes/unscripted-interactions/</link>
       <pubDate>Tue, 06 Aug 2019 09:04:57 -0400</pubDate>
-      <guid>http://localhost:1313/notes/unscripted-interactions/</guid>
+      <guid>https://johnforstmeier.com/notes/unscripted-interactions/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Unscripted interactions&lt;/strong&gt; are the truest demonstration of a subject matter knowledge and interest.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always preferred unscripted and unprompted discussions. I think the reason for this is because I think it shows a more genuine side of the subject.&lt;/p&gt;&#xA;&lt;p&gt;For example, I prefer the live/unscripted entertainment bits provided by Rooster Teeth and Funhaus over the more choreographed pieces. Similarly, I think I received more thoughtful and groundbreaking insight from C.S. Lewis&amp;rsquo;s notes and letter than I have from most of his &amp;ldquo;official&amp;rdquo; works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source Productivity</title>
-      <link>http://localhost:1313/notes/open-source-productivity/</link>
+      <link>https://johnforstmeier.com/notes/open-source-productivity/</link>
       <pubDate>Tue, 16 Jul 2019 18:57:39 -0400</pubDate>
-      <guid>http://localhost:1313/notes/open-source-productivity/</guid>
+      <guid>https://johnforstmeier.com/notes/open-source-productivity/</guid>
       <description>&lt;p&gt;Maximizing productive output while maintaining individual rights and dignity is the primary concern in an increasingly automated workforce system. Open source caters to this scenario and provides hyper-productive individuals with a series of resources to leverage their output and effectively provide for consumers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Common knowledge pool: shared and open intellectual property which reduces &amp;ldquo;reinvention&amp;rdquo; by participants creating proprietary alternatives&lt;/li&gt;&#xA;&lt;li&gt;Non-overlapping markets: entities focus on &amp;ldquo;peripheral&amp;rdquo; markets surrounding shared core resources which encourages focus on competitive advantages&lt;/li&gt;&#xA;&lt;li&gt;Lower entry barriers: new participants can enter market rapidly as core intellectual property is openly available for use&lt;/li&gt;&#xA;&lt;li&gt;Value creation prioritization: more value is created from open resources than is captured by each individual producer&lt;/li&gt;&#xA;&lt;li&gt;Balances market forces: monopolization and perfect competition are avoided through public core resources and competitive advantage focuses&lt;/li&gt;&#xA;&lt;li&gt;Supply chain cooperation: &amp;ldquo;niche&amp;rdquo; edge producers collaborating between individual horizontal and vertical segments&lt;/li&gt;&#xA;&lt;li&gt;Adaptive technologies: common core resources with multiple contributors provides rapid updates for changing environments/requirements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Consumers benefit in this scenario of a hyper-productive minority operating in a highly automated workforce through more rapid innovation and product development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Democratic Competition</title>
-      <link>http://localhost:1313/notes/democratic-competition/</link>
+      <link>https://johnforstmeier.com/notes/democratic-competition/</link>
       <pubDate>Sat, 06 Jul 2019 19:19:27 -0400</pubDate>
-      <guid>http://localhost:1313/notes/democratic-competition/</guid>
+      <guid>https://johnforstmeier.com/notes/democratic-competition/</guid>
       <description>&lt;p&gt;The state is a &lt;strong&gt;monopoly&lt;/strong&gt; on legislation; democracy is out best way of introducing &lt;strong&gt;competition&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I generally stand against any kind of monopoly and I think, in some respects, the state can be described in this way. Now, I don&amp;rsquo;t want it abolished, but I do want it challenged.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source Economic Good</title>
-      <link>http://localhost:1313/notes/open-source-economic-good/</link>
+      <link>https://johnforstmeier.com/notes/open-source-economic-good/</link>
       <pubDate>Wed, 26 Jun 2019 19:29:30 -0400</pubDate>
-      <guid>http://localhost:1313/notes/open-source-economic-good/</guid>
+      <guid>https://johnforstmeier.com/notes/open-source-economic-good/</guid>
       <description>&lt;p&gt;Open source software projects are a collaborative effort. Individual developers contribute to the betterment of the project and create a publicly available, shared resource.&lt;/p&gt;&#xA;&lt;p&gt;This model opts to create, rather than directly capture, value. Additionally, competitive markets are maintained around the project since individuals are free to take it and build products or services using it.&lt;/p&gt;&#xA;&lt;p&gt;Since all parties share core intellectual property, competition is encouraged around the &amp;ldquo;edges&amp;rdquo; and where comparative advantages apply with some participants opting to keep these facets closed source. Dynamic, open economic theaters are created through this paradigm while also preventing monopolies from forming. Changing the default economic mindset to open collaborative competition, as maintained in the open source philosophy, is a significant social benefit and could be applied to all markets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working With Others</title>
-      <link>http://localhost:1313/notes/working-with-others/</link>
+      <link>https://johnforstmeier.com/notes/working-with-others/</link>
       <pubDate>Sun, 16 Jun 2019 19:31:35 -0400</pubDate>
-      <guid>http://localhost:1313/notes/working-with-others/</guid>
+      <guid>https://johnforstmeier.com/notes/working-with-others/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Provide alternatives, don&amp;rsquo;t poke holes.&lt;/p&gt;&#xA;&lt;p&gt;Fight for the best idea, not yours.&lt;/p&gt;&#xA;&lt;p&gt;Think flexibly.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Just some small one-liners that I think are valuable for me to keep in mind when working with others.&lt;/p&gt;</description>
     </item>
   </channel>
